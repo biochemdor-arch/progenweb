@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12385",
-    "name": "Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12385.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı pH 2.00 ± 0.02 tampon çözeltisi, glikin, hidroklorik asit ve sodyum klorür içeren formülüyle hassas asidik ortamların kalibrasyonu ve analitik testlerde yüksek doğruluk sağlar. Laboratuvar standartlarına uygun yüksek saflıkta üretilen bu ürün, 20°C'de istikrarlı performans sunarak güvenilir sonuçlar elde edilmesine katkıda bulunur.",
-    "safety": "Kullanım sırasında kimyasal dayanımlı eldiven ve koruyucu gözlük takılmalı, ürün serin, kuru ve kapağı sıkıca kapatılmış şekilde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12386",
-    "name": "Buffer çözeltisi ph 3.00 ± 0.02 at 20°c (potassıum hydrogen phthalate, hidroklorik asit)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12386.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 3.00 tampon çözeltisi, potasyum hidrojen ftalat ve hidroklorik asit bazlı formülasyonu ile pH metrelarının kalibrasyonu ve doğrulanması için yüksek hassasiyet sunar. 20°C'de ±0.02 pH aralığındaki mükemmel stabilitesi, laboratuvar analizlerinde güvenilir ve tekrarlanabilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında koruyucu gözlük, eldiven ve laboratuvar önlüğü takılması, çözeltinin serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12387",
-    "name": "Buffer çözeltisi ph 4.00 ± 0.01 at 20°c (potassıum hydrogen phthalate)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12387.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Potasyum Hidrojen Ftalat, pH 4.00 ± 0.01 hassasiyetinde standart bir tampon çözeltisi olup, pH metrelerinin kalibrasyonu ve doğrulanması için yüksek saflıkta üretilmiştir. 20°C'de stabilitesini koruyan bu ürün, laboratuvar analizlerinde güvenilir ve tekrarlanabilir sonuçlar elde etmek için idealdir.",
-    "safety": "Kullanım sırasında eldiven ve koruyucu gözlük takılmalı, ürün serin, kuru ve kapağı sıkıca kapatılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12388",
-    "name": "Buffer çözeltisi ph 5.00 ± 0.01 at 20°c (potassıum hydrogen phthalate, 1m sodıum hydroxıde.)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12388.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı pH 5.00 tampon çözeltisi, potasyum hidrojen ftalat ve sodyum hidroksit bazlı formülü ile hassas pH kalibrasyonları için yüksek saflıkta ve tutarlılıkta bir referans standardı sunar. 20°C'de ±0.01 hassasiyet aralığıyla, laboratuvar analizlerinde güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çözeltiyle teması önlemek için eldiven ve gözlük kullanılması, ayrıca çözeltinin serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12389",
-    "name": "Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12389.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı bu tampon çözelti, hassas pH 6.00 ± 0.01 değerini 20°C'de koruyarak biyokimyasal analizler ve kalite kontrol testleri için yüksek saflıkta bir referans standardı sunar. Potasyum dihidrojen ortofosfat ve disodyum hidrojen ortofosfat bazlı formülü, laboratuvar ortamlarında tutarlı ve güvenilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında kimyasal dayanıklı eldiven ve güvenlik gözlüğü takılmalı, ürün oda sıcaklığında, kuru ve serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12390",
     "name": "Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate)",
     "specifications": "1 piece / pack",
@@ -3855,6 +3795,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12385",
+    "name": "Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12385.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12386",
+    "name": "Buffer çözeltisi ph 3.00 ± 0.02 at 20°c (potassıum hydrogen phthalate, hidroklorik asit)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12386.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 3.00 ± 0.02 at 20°c (potassıum hydrogen phthalate, hidroklorik asit). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 3.00 ± 0.02 at 20°c (potassıum hydrogen phthalate, hidroklorik asit) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 3.00 ± 0.02 at 20°c (potassıum hydrogen phthalate, hidroklorik asit) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12387",
+    "name": "Buffer çözeltisi ph 4.00 ± 0.01 at 20°c (potassıum hydrogen phthalate)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12387.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 4.00 ± 0.01 at 20°c (potassıum hydrogen phthalate). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 4.00 ± 0.01 at 20°c (potassıum hydrogen phthalate) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 4.00 ± 0.01 at 20°c (potassıum hydrogen phthalate) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12388",
+    "name": "Buffer çözeltisi ph 5.00 ± 0.01 at 20°c (potassıum hydrogen phthalate, 1m sodıum hydroxıde.)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12388.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 5.00 ± 0.01 at 20°c (potassıum hydrogen phthalate, 1m sodıum hydroxıde.). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 5.00 ± 0.01 at 20°c (potassıum hydrogen phthalate, 1m sodıum hydroxıde.) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 5.00 ± 0.01 at 20°c (potassıum hydrogen phthalate, 1m sodıum hydroxıde.) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12389",
+    "name": "Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12389.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
