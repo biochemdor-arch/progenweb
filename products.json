@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12355",
-    "name": "Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.9884,
-    "image": "static/images/products/chemdor_CHI_12355.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Aseton, %99.5 saflıkta ACS reagent, reag. iso ve reag. ph. eur standartlarına uygun olarak laboratuvarlarda çözücü, temizleyici ve analiz amaçlı kullanıma uygundur. Yüksek saflık derecesi, hassas kimyasal işlemlerde güvenilir sonuçlar almanızı sağlar. 1 piece/pack ambalajı ile pratik ve kontrollü kullanım imkanı sunar.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü giyilmeli; ürün havalandırmalı bir ortamda, ateş kaynaklarından uzak ve orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12356",
-    "name": "Aseton  ≥ 99.8 % , for lıquıd chromatography ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.4378,
-    "image": "static/images/products/chemdor_CHI_12356.png",
-    "brand": "Chemdor®",
-    "description": "Aseton ≥ 99.8%, sıvı kromatografi (LC) uygulamaları için yüksek saflıkta ve düşük UV emilimine sahip bir çözücüdür. Chemdor kalite standartlarına uygun olarak, hassas analizlerde güvenilir sonuçlar elde etmek üzere titizlikle saflaştırılmıştır. Bu ürün, LC sistemlerinde örnek hazırlığı ve mobil faz bileşeni olarak mükemmel performans sunar.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ürün, havalandırılmış bir dolapta, ısı ve alev kaynaklarından uzakta, orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12357",
-    "name": "Acetonıtrıle  ≥ 99.9%, gradıent grade for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.5157,
-    "image": "static/images/products/chemdor_CHI_12357.png",
-    "brand": "Chemdor®",
-    "description": "Acetonitril, ≥99.9% saflıkta ve sıvı kromatografi (LC) gradyan uygulamaları için özel olarak tasarlanmış yüksek performanslı bir çözücüdür. Chemdor kalite standartlarında sunulan bu ürün, HPLC analizlerinde mükemmel çözünürlük ve tekrarlanabilirlik sağlar. Laboratuvar ortamlarında hassas analitik çalışmalar için ideal bir tercihtir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda tutucu kaplarda saklamalısınız."
-  },
-  {
-    "id": "CHI.12358",
-    "name": "Acetonıtrıle  ≥ 99.9%, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 38.8974,
-    "image": "static/images/products/chemdor_CHI_12358.png",
-    "brand": "Chemdor®",
-    "description": "Acetonitril ≥ 99.9% LC-MS, yüksek hassasiyetli sıvı kromatografisi ve kütle spektrometrisi analizleri için ideal olan ultra saf bir çözücüdür. Chemdor kalite standartlarında sunulan bu ürün, düşük UV soğurma ve minimal iletkenlik özellikleriyle güvenilir sonuçlar sağlar.",
-    "safety": "Bu kimyasal, yanıcı ve toksik olduğu için havalandırması iyi bir dolapta saklanmalı ve manipülasyon sırasında uygun nitril eldiven, göz koruyucu ve laboratuvar önlüğü kullanmalıdır."
-  },
-  {
-    "id": "CHI.12359",
-    "name": "Asetik asit 0.1% ın water, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 48.4677,
-    "image": "static/images/products/chemdor_CHI_12359.png",
-    "brand": "Chemdor®",
-    "description": "Asetik asit 0.1% (su içinde), LC-MS analizlerinde hassas ve güvenilir sonuçlar elde etmek için yüksek saflıkta formüle edilmiştir. Chemdor kalite standartlarına uygun olarak, düşük arka plan sinyali ve üstün çözünürlük sunan bu çözelti, iz düzeyi analizlerde ideal bir taşıyıcı ortam sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük kullanılması, ürünün oda sıcaklığında ve orijinal kapaklı şişesinde saklanması önerilir."
-  },
-  {
     "id": "CHI.12360",
     "name": "Acetonıtrıle wıth 0.1% asetik asit, lc-ms",
     "specifications": "1 piece / pack",
@@ -3435,6 +3375,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12355",
+    "name": "Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur.",
+    "price": 13.9884,
+    "image": "static/images/products/chemdor_CHI_12355.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Aseton ≥ 99.5% ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12356",
+    "name": "Aseton  ≥ 99.8 % , for lıquıd chromatography ",
+    "price": 31.4378,
+    "image": "static/images/products/chemdor_CHI_12356.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Aseton  ≥ 99.8 ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Aseton  ≥ 99.8 % , for lıquıd chromatography . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Aseton  ≥ 99.8 % , for lıquıd chromatography  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Aseton  ≥ 99.8 % , for lıquıd chromatography  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12357",
+    "name": "Acetonıtrıle  ≥ 99.9%, gradıent grade for lıquıd chromatography",
+    "price": 24.5157,
+    "image": "static/images/products/chemdor_CHI_12357.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Acetonıtrıle  ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Acetonıtrıle  ≥ 99.9%, gradıent grade for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Acetonıtrıle  ≥ 99.9%, gradıent grade for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Acetonıtrıle  ≥ 99.9%, gradıent grade for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12358",
+    "name": "Acetonıtrıle  ≥ 99.9%, lc-ms",
+    "price": 38.8974,
+    "image": "static/images/products/chemdor_CHI_12358.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Acetonıtrıle  ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Acetonıtrıle  ≥ 99.9%, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Acetonıtrıle  ≥ 99.9%, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Acetonıtrıle  ≥ 99.9%, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12359",
+    "name": "Asetik asit 0.1% ın water, lc-ms",
+    "price": 48.4677,
+    "image": "static/images/products/chemdor_CHI_12359.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Asetik asit 0.1",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Asetik asit 0.1% ın water, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Asetik asit 0.1% ın water, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Asetik asit 0.1% ın water, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
