@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12350",
-    "name": "Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.3853,
-    "image": "static/images/products/chemdor_CHI_12350.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 10 tampon çözeltisi, hassas pH ölçümleri ve kalibrasyonları için yüksek saflıkta formüle edilmiş, güvenilir bir laboratuvar standardıdır. Çift boyunlu kilitli şişe tasarımı, çözeltinin bulaşmadan ve oksidasyondan korunarak uzun süre stabil kalmasını sağlar. 1000 ml hacmi, yoğun laboratuvar çalışmaları için pratik ve ekonomik bir kullanım sunar.",
-    "safety": "Çözeltiyle teması önlemek için nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük kullanılması, ürünün serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12351",
-    "name": "Asetik asit (glasiyal (%100 saf)) 100% , ph eur,bp,jp,usp,e 260",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.4458,
-    "image": "static/images/products/chemdor_CHI_12351.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı glasiyal asetik asit, %100 saflıkta ve EUR, BP, JP, USP E260 standartlarına uygun olarak laboratuvar analizleri, sentez reaksiyonları ve kalite kontrol süreçleri için idealdir. Yüksek saflık derecesi, hassas kimyasal işlemlerde güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve asit dayanımlı önlük takılmalı, ürün serin, kuru ve havalandırmalı bir ortamda asitlere dayanıklı kaplarda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12352",
-    "name": "Aseton ≥ 99.5% , saf kalite",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.9571,
-    "image": "static/images/products/chemdor_CHI_12352.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Aseton ≥ 99.5%, yüksek saflık standardıyla laboratuvarlarda çözücü, temizleyici ve kalibrasyon amaçlı hassas analizlerde güvenle kullanılmaktadır. Bu ürün, kimyasal reaksiyonlarda ve numune hazırlık süreçlerinde tutarlı sonuçlar almanızı sağlayan üstün bir kalite sunar.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve havalandırmalı ortam zorunlu olup, ürünü ışıktan ve ateş kaynaklarından uzakta, serin ve kuru bir yerde saklayınız."
-  },
-  {
-    "id": "CHI.12353",
-    "name": "Aseton ≥ 99.5% , ph eur,bp,jpe,nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.8675,
-    "image": "static/images/products/chemdor_CHI_12353.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Aseton, %99.5 saflıkta olup farmakope standartlarına (Eur, BP, JPE, NF) uygun yüksek kalitede bir çözücüdür. Laboratuvarlarda cam malzeme temizliği, organik bileşiklerin çözülmesi ve analiz öncesi hazırlık aşamalarında güvenilir performans sunar. Kimyasal saflığı, hassas deneylerde tutarlı ve tekrarlanabilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Kullanım sırasında kimyasal dayanımlı eldiven, gözlük ve havalandırmalı ortamda çalışılmalı; ürün, ateş kaynaklarından uzak, serin ve kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12354",
-    "name": "Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 46.4356,
-    "image": "static/images/products/chemdor_CHI_12354.png",
-    "brand": "Chemdor®",
-    "description": "Aseton ≥ 99.8% GC sınıfı, gaz kromatografisi analizlerinde yüksek hassasiyetli sonuçlar için idealdir. Chemdor saflığı, ECD ve FID dedektörleriyle uyumlu olarak minimum bulaşan seviyesi ve üstün çözünürlük sağlar. Bu ürün, kalıntı analizi ve kimyasal karakterizasyon gibi hassas laboratuvar uygulamaları için mükemmel bir çözücü seçeneğidir.",
-    "safety": "Aseton kullanırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı, ürün havalandırmalı bir dolapta veya yangın dolabında, ateş kaynaklarından uzakta ve orijinal kapağı sıkıca kapatılmış şekilde saklanmalıdır."
-  },
-  {
     "id": "CHI.12355",
     "name": "Aseton ≥ 99.5% , acs reagent, reag. ıso, reag. ph. eur.",
     "specifications": "1 piece / pack",
@@ -3365,6 +3305,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12350",
+    "name": "Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml",
+    "price": 13.3853,
+    "image": "static/images/products/chemdor_CHI_12350.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12351",
+    "name": "Asetik asit (glasiyal (%100 saf)) 100% , ph eur,bp,jp,usp,e 260",
+    "price": 18.4458,
+    "image": "static/images/products/chemdor_CHI_12351.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Asetik asit (gl",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Asetik asit (glasiyal (%100 saf)) 100% , ph eur,bp,jp,usp,e 260. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Asetik asit (glasiyal (%100 saf)) 100% , ph eur,bp,jp,usp,e 260 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Asetik asit (glasiyal (%100 saf)) 100% , ph eur,bp,jp,usp,e 260 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12352",
+    "name": "Aseton ≥ 99.5% , saf kalite",
+    "price": 18.9571,
+    "image": "static/images/products/chemdor_CHI_12352.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Aseton ≥ 99.5% ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Aseton ≥ 99.5% , saf kalite. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Aseton ≥ 99.5% , saf kalite by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Aseton ≥ 99.5% , saf kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12353",
+    "name": "Aseton ≥ 99.5% , ph eur,bp,jpe,nf",
+    "price": 21.8675,
+    "image": "static/images/products/chemdor_CHI_12353.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Aseton ≥ 99.5% ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Aseton ≥ 99.5% , ph eur,bp,jpe,nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Aseton ≥ 99.5% , ph eur,bp,jpe,nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Aseton ≥ 99.5% , ph eur,bp,jpe,nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12354",
+    "name": "Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd ",
+    "price": 46.4356,
+    "image": "static/images/products/chemdor_CHI_12354.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Aseton ≥ 99.8% ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Aseton ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd  от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
