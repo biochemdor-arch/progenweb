@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12370",
-    "name": "Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.6468,
-    "image": "static/images/products/chemdor_CHI_12370.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Ammonium Sulfate, %99.5 saflıkta olup ACS, ISO ve Reagent standartlarına uygun olarak, farmakopoe (Ph. Eur.) gereksinimlerini karşılayacak yüksek kalitede sunulmaktadır. Bu kimyasal, analitik kimya deneyleri, tampon hazırlama ve çeşitli laboratuvar analizleri için güvenilir bir referans maddesi olarak kullanılmaktadır. Ürün, titrasyon ve spektroskopik ölçümler gibi hassas uygulamalarda tutarlı sonuçlar almayı garanti eder.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve gözlük takılmalı, ürün kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12371",
-    "name": "Alumınıum sulfate-18 hydrate ph.eur.,bp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.1726,
-    "image": "static/images/products/chemdor_CHI_12371.png",
-    "brand": "Chemdor®",
-    "description": "Aluminiyum sülfat 18 hidrat, su arıtma, kağıt üretimi ve tekstil endüstrisinde pıhtılaştırıcı ve boyama yardımcısı olarak yaygın kullanılan yüksek saflıkta bir kimyasaldır. Chemdor markası, bu ürünü Avrupa Farmakopesi (Ph.Eur.) ve Britanya Farmakopesi (BP) standartlarına uygun olarak laboratuvar ve endüstriyel uygulamalar için sağlamaktadır.",
-    "safety": "Tozunu solumamak için uygun maske, göz ve cilt temasını önlemek için kimyasal dayanıklı eldiven ve gözlük kullanılması gerekmektedir; kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12372",
-    "name": "Alumınıum sulfate-18 hydrate ph.eur.,bp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 90.4459,
-    "image": "static/images/products/chemdor_CHI_12372.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Aluminyum Sülfat 18 Hidrat, Farmakope standartlarına (Ph.Eur., BP) uygun yüksek saflıkta olup, su arıtma, kağıt endüstrisi ve laboratuvar analizlerinde güvenilir bir koagülant olarak kullanılır. Ürün, titrasyon ve gravimetrik analizler için ideal olan homojen ve kristal yapıda bir kimyasaldır.",
-    "safety": "Çalışma sırasında kimyasal dayanımlı eldiven, koruyucu gözlük ve laboratuvar önlüğü giyilmeli; ürün kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12373",
-    "name": "Alcıan blue 8gx , (c.ı.74240) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 168.0702,
-    "image": "static/images/products/chemdor_CHI_12373.png",
-    "brand": "Chemdor®",
-    "description": "Alcian Blue 8GX (C.I. 74240), histolojik kesitlerde asidik mukopolisakkaritlerin ve glikozaminoglikanların spesifik boyanması için kullanılan yüksek saflıklı bir metakromatik boyadır. Chemdor laboratuvar kalitesi, mikroskopi uygulamalarında net kontrast ve tutarlı sonuçlar sağlamak üzere titizlikle formüle edilmiştir.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; kimyasal, serin, kuru ve doğrudan güneş ışığından uzak bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12374",
-    "name": "Auramıne, (c.ı. 41000) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 14.4472,
-    "image": "static/images/products/chemdor_CHI_12374.png",
-    "brand": "Chemdor®",
-    "description": "Auramıne, mikroskopi uygulamalarında yüksek çözünürlük ve netlik sağlayan, Chemdor'un titiz saflık standartlarına uygun olarak üretilmiş bir kimyasal maddedir. Bu ürün, laboratuvar ortamlarında güvenilir sonuçlar elde etmek için tasarlanmış olup, optik analizlerde üstün performans sergiler.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için uygun eldiven ve koruyucu gözlük takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12375",
     "name": "Barıum chlorıde dıhydrate ≥99% acs,reag.ph.eur",
     "specifications": "1 piece / pack",
@@ -3645,6 +3585,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12370",
+    "name": "Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur",
+    "price": 24.6468,
+    "image": "static/images/products/chemdor_CHI_12370.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum sulfat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12371",
+    "name": "Alumınıum sulfate-18 hydrate ph.eur.,bp",
+    "price": 21.1726,
+    "image": "static/images/products/chemdor_CHI_12371.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Alumınıum sulfa",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Alumınıum sulfate-18 hydrate ph.eur.,bp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Alumınıum sulfate-18 hydrate ph.eur.,bp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Alumınıum sulfate-18 hydrate ph.eur.,bp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12372",
+    "name": "Alumınıum sulfate-18 hydrate ph.eur.,bp",
+    "price": 90.4459,
+    "image": "static/images/products/chemdor_CHI_12372.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Alumınıum sulfa",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Alumınıum sulfate-18 hydrate ph.eur.,bp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Alumınıum sulfate-18 hydrate ph.eur.,bp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Alumınıum sulfate-18 hydrate ph.eur.,bp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12373",
+    "name": "Alcıan blue 8gx , (c.ı.74240) for mıcroscopy",
+    "price": 168.0702,
+    "image": "static/images/products/chemdor_CHI_12373.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Alcıan blue 8gx",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Alcıan blue 8gx , (c.ı.74240) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Alcıan blue 8gx , (c.ı.74240) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Alcıan blue 8gx , (c.ı.74240) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12374",
+    "name": "Auramıne, (c.ı. 41000) for mıcroscopy",
+    "price": 14.4472,
+    "image": "static/images/products/chemdor_CHI_12374.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Auramıne, (c.ı.",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Auramıne, (c.ı. 41000) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Auramıne, (c.ı. 41000) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Auramıne, (c.ı. 41000) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
