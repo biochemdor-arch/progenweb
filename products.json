@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12390",
-    "name": "Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12390.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 7.00 ± 0.01 tampon çözeltisi, potasyum dihidrojen fosfat ve disodyum hidrojen fosfat içeren yüksek saflıkta bir formülasyondur. Bu ürün, hassas analitik ölçümler ve enzim çalışmaları için ideal bir referans standardı sunar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, çözelti serin, kuru ve kapağı kapalı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12391",
-    "name": "Buffer çözeltisi ph 8.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12391.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı bu tampon çözelti, pH 8.00 ± 0.01 hassasiyetinde olup laboratuvarlarda hassas pH kalibrasyonları ve analitik ölçümler için yüksek saflıkta bir referans standardı olarak kullanılır. Disodyum tetraborat ve 1M hidroklorik asit içeren formülü, 20°C'de istikrarlı ve tekrarlanabilir sonuçlar almayı garanti eder.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12392",
-    "name": "Buffer çözeltisi ph 9.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit.)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.9418,
-    "image": "static/images/products/chemdor_CHI_12392.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı pH 9.00 ± 0.01 tampon çözeltisi, pH metre kalibrasyonu ve hassas analitik ölçümler için yüksek saflıkta disodyum tetraborat ve hidroklorik asit karışımıdır. 20°C'de stabilitesini koruyan bu ürün, laboratuvar ortamlarında güvenilir ve tekrarlanabilir sonuçlar sunar.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven ve koruyucu gözlük takılmalı, çözelti oda sıcaklığında, kuru ve serin bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12393",
-    "name": "Buffer çözeltisi ph 10.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m sodıum hydroxıde)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12393.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı bu tampon çözelti, pH 10.00 ± 0.01 hassasiyetinde yüksek saflıkta disodyum tetraborat ve sodyum hidroksit içererek titrasyon ve kalibrasyon işlemlerinde güvenilir bir referans noktası sunar. Laboratuvar standartlarına uygun olarak üretilen bu ürün, hassas analitik ölçümlerde tutarlı ve tekrarlanabilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Kullanım sırasında kimyasal sızdırmaz eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; çözelti serin, kuru ve havalandırmalı bir ortamda ağzı kapalı şekilde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12394",
-    "name": "Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12394.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı pH 11.00 ± 0.05 tampon çözeltisi, yüksek hassasiyetli pH kalibrasyonları ve alkalik ortam gerektiren biyokimyasal analizler için tasarlanmıştır. Glisin, sodyum klorür ve sodyum hidroksit içeren formülü, 20°C'de istikrarlı bir pH değeri sağlayarak laboratuvar cihazlarınızda güvenilir sonuçlar sunar. Ürün, Chemdor'un yüksek saflık standartlarına uygun olarak üretilmiş olup, tekrarlanabilir ve tutarlı deney sonuçları elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü kullanılması ile çözeltinin serin, kuru ve asitlerden uzak bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12395",
     "name": "Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -3925,6 +3865,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Buffer çözeltisi ph 6.00 ± 0.01 at 20°c (potassıum dı-hydrogen orthophosphate, dısodıum hydrogen orthophosphate) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12390",
+    "name": "Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12390.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 7.00 ± 0.01 at 20°c (potassıum dı-hydrogen phosphate, dısodıum hydrogen phosphate) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12391",
+    "name": "Buffer çözeltisi ph 8.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12391.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 8.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 8.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 8.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12392",
+    "name": "Buffer çözeltisi ph 9.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit.)",
+    "price": 15.9418,
+    "image": "static/images/products/chemdor_CHI_12392.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 9.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit.). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 9.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit.) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 9.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m hidroklorik asit.) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12393",
+    "name": "Buffer çözeltisi ph 10.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m sodıum hydroxıde)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12393.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 10.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m sodıum hydroxıde). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 10.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m sodıum hydroxıde) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 10.00 ± 0.01 at 20°c (dı-sodıum tetraborate, 1m sodıum hydroxıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12394",
+    "name": "Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12394.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
