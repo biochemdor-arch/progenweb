@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12345",
-    "name": "Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.6584,
-    "image": "static/images/products/chemdor_CHI_12345.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 4 tampon çözeltisi, laboratuvarlarda pH metre kalibrasyonu için yüksek saflıkta ve tutarlılıkta bir referans standardı sunar. Özel kilitli çift boyunlu şişesi, çözeltinin uzun süreli stabilitesini koruyarak hassas ölçümlerde güvenilir sonuçlar almanızı sağlar. 500 ml'lik hacmi, yoğun kullanım senaryolarında pratiklik ve ekonomiklik avantajı sunar.",
-    "safety": "Çözeltiyle teması önlemek için nitril eldiven ve koruyucu gözlük kullanılması, şişenin serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12346",
-    "name": "Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 1000 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.3853,
-    "image": "static/images/products/chemdor_CHI_12346.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 4 tampon çözeltisi, hassas pH ölçümleri ve kalibrasyon işlemleri için yüksek saflıkta ve stabiliteye sahip olarak formüle edilmiştir. Çift boyunlu kilitli şişesi, çözeltinin bulaşmasını önleyerek laboratuvar hijyenini ve kullanım kolaylığını garanti eder. 1000 ml hacmi, yoğun laboratuvar ortamlarında uzun süreli ve güvenilir performans sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanmalı, ürünü serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12347",
-    "name": "Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 500 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.6584,
-    "image": "static/images/products/chemdor_CHI_12347.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 7 tampon çözeltisi, hassas pH ölçümleri ve kalibrasyon işlemleri için yüksek saflıkta formüle edilmiştir. Çift boyunlu kilitli şişesi, çözeltinin bulaşmasını önleyerek laboratuvar hijyenini ve kullanım kolaylığını garanti eder. 500 ml hacmi, günlük laboratuvar ihtiyaçları için ideal bir pratiklik sunar.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için eldiven ve gözlük takılmalı, çözelti serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12348",
-    "name": "Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 1000 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.3853,
-    "image": "static/images/products/chemdor_CHI_12348.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 7 tampon çözeltisi, hassas pH ölçümleri için yüksek saflıkta ve stabiliteye sahip olup, laboratuvar kalibrasyonlarında güvenilir sonuçlar sunar. Özel kilitli çift boyunlu şişesi, çözeltinin bulaşmasını önleyerek uzun süreli saklamada maksimum koruma sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük kullanılması önerilir; çözeltiyi serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklayınız."
-  },
-  {
-    "id": "CHI.12349",
-    "name": "Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.6584,
-    "image": "static/images/products/chemdor_CHI_12349.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor pH 10 tampon çözeltisi, yüksek hassasiyetli pH ölçümleri ve kalibrasyonları için laboratuvarlarda güvenilir bir standart olarak kullanılır. Özel kilitli çift boyunlu şişesi, çözeltinin saflığını koruyarak uzun süreli stabilite sağlar. Kimyasal saflığı, hassas analitik çalışmaların tutarlı ve doğru sonuçlar vermesini garanti eder.",
-    "safety": "Çalışma sırasında eldiven ve koruyucu gözlük takılmalı, çözelti serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12350",
     "name": "Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 1000 ml",
     "specifications": "1 piece / pack",
@@ -3298,5 +3238,135 @@
     "brand": "Chemdor®",
     "description": "Chemdor Zınc Sülfat Heptahidrat, ≥%99.5 analitik saflıkta olup ACS, ISO ve Reag. Ph. Eur. standartlarına uygun olarak laboratuvar analizleri ve kimyasal sentezlerde yüksek güvenilirlik sağlar. Bu ürün, hassas deneysel çalışmalar için ideal bir referans maddesi olarak öne çıkar.",
     "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü kullanılması ile kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklanması önerilir."
+  },
+  {
+    "id": "CHI.12345",
+    "name": "Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml",
+    "price": 10.6584,
+    "image": "static/images/products/chemdor_CHI_12345.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12346",
+    "name": "Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 1000 ml",
+    "price": 13.3853,
+    "image": "static/images/products/chemdor_CHI_12346.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 1000 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 1000 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 1000 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12347",
+    "name": "Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 500 ml",
+    "price": 10.6584,
+    "image": "static/images/products/chemdor_CHI_12347.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 500 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 500 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 500 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12348",
+    "name": "Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 1000 ml",
+    "price": 13.3853,
+    "image": "static/images/products/chemdor_CHI_12348.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 1000 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 1000 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 7 - özel kilitli çift boyunlu şişe - 1000 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12349",
+    "name": "Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml",
+    "price": 10.6584,
+    "image": "static/images/products/chemdor_CHI_12349.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ph tampon çözel",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ph tampon çözeltisi - ph 10 - özel kilitli çift boyunlu şişe - 500 ml от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
   }
 ]
