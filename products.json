@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12365",
-    "name": "Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.9673,
-    "image": "static/images/products/chemdor_CHI_12365.png",
-    "brand": "Chemdor®",
-    "description": "Ammonium acetate, ≥%98 analitik saflıkta ve acs, reag. ph.eur standartlarına uygun olarak Chemdor kalite kontrolünden geçirilmiştir. Bu yüksek saflık, hassas laboratuvar analizleri, tampon hazırlama ve biyokimyasal çalışmalar için idealdir. Ürün, güvenilir sonuçlar elde etmek isteyen profesyonel laboratuvar ortamları için tasarlanmıştır.",
-    "safety": "Çalışma sırasında gözlük, eldiven ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve kimyasal kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12366",
-    "name": "Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.6599,
-    "image": "static/images/products/chemdor_CHI_12366.png",
-    "brand": "Chemdor®",
-    "description": "Ammonium chloride ≥ 99.7% ekstra saf, PH Eur, BP ve USP standartlarına uygun yüksek saflıkta bir kimyasal olup, tampon çözelti hazırlama, elektrolit bileşeni ve çeşitli sentez reaksiyonlarında güvenilir bir reaktif olarak kullanılır. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, hassas laboratuvar analizleri ve endüstriyel uygulamalar için idealdir.",
-    "safety": "Çalışma sırasında göz ve cilt temasını önlemek için eldiven, gözlük ve laboratuvar önlüğü takılmalı; kimyasal kuru, serin ve havalandırmalı bir ortamda, asitlerden uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12367",
-    "name": "Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 70.1254,
-    "image": "static/images/products/chemdor_CHI_12367.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Ammonium Chloride, ≥%99.7 saflıkta olup Farmakope (Ph. Eur., BP, USP) standartlarına uygun ekstra saf kalitede sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, tampon çözelti hazırlama ve çeşitli laboratuvar sentezlerinde güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Kullanım sırasında toz solumayı önlemek için uygun eldiven, gözlük ve maske takılmalı; kimyasal kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12368",
-    "name": "Ammonıum chlorıde ≥ 98%, analitik saflık acs , ıso , reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.5121,
-    "image": "static/images/products/chemdor_CHI_12368.png",
-    "brand": "Chemdor®",
-    "description": "Ammonium chloride, ≥%98 analitik saflıkta (ACS, ISO, Reag. Ph. Eur.) olup kimyasal analizler, tampon çözelti hazırlama ve çeşitli sentez reaksiyonlarında güvenilir bir reaktif olarak kullanılır. Chemdor'un yüksek saflık standartları, hassas laboratuvar uygulamalarında tutarlı ve tekrarlanabilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Toz oluşumuna karşı N95 maske, kimyasal sızdırmazlıklara dayanıklı eldiven ve gözlük takılmalı; kuru, serin ve iyi havalandırılmış bir ortamda, nemden uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12369",
-    "name": "Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 27.9898,
-    "image": "static/images/products/chemdor_CHI_12369.png",
-    "brand": "Chemdor®",
-    "description": "Ammonium iron(II) sulfate hexahydrate, ≥%99 analitik saflıkta olup kimyasal analizlerde ve standart çözeltilerinin hazırlanmasında yüksek güvenilirlik sağlar. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, hassas laboratuvar uygulamaları için idealdir.",
-    "safety": "Kullanım sırasında toz oluşumunu önlemek için uygun eldiven ve gözlük takılmalı, ürün kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12370",
     "name": "Ammonıum sulfate ≥ 99.5%, acs,ıso,reag. ph eur",
     "specifications": "1 piece / pack",
@@ -3575,6 +3515,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Amonyak çözeltisi ≥ 25%, analitik saflık от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12365",
+    "name": "Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur",
+    "price": 26.9673,
+    "image": "static/images/products/chemdor_CHI_12365.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum acetat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12366",
+    "name": "Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp",
+    "price": 24.6599,
+    "image": "static/images/products/chemdor_CHI_12366.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum chlorı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12367",
+    "name": "Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp",
+    "price": 70.1254,
+    "image": "static/images/products/chemdor_CHI_12367.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum chlorı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum chlorıde ≥ 99.7%, ekstra saf ph eur , bp , usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12368",
+    "name": "Ammonıum chlorıde ≥ 98%, analitik saflık acs , ıso , reag. ph eur",
+    "price": 25.5121,
+    "image": "static/images/products/chemdor_CHI_12368.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum chlorı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum chlorıde ≥ 98%, analitik saflık acs , ıso , reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum chlorıde ≥ 98%, analitik saflık acs , ıso , reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum chlorıde ≥ 98%, analitik saflık acs , ıso , reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12369",
+    "name": "Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso",
+    "price": 27.9898,
+    "image": "static/images/products/chemdor_CHI_12369.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ammonıum ıron(ı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ammonıum ıron(ıı) sulfate hexahydrate ≥ 99% , analitik saflık ıso от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
