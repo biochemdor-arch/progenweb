@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12360",
-    "name": "Acetonıtrıle wıth 0.1% asetik asit, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 63.4655,
-    "image": "static/images/products/chemdor_CHI_12360.png",
-    "brand": "Chemdor®",
-    "description": "Acetonitril %0,1 asetik asit, LC-MS analizlerinde yüksek çözünürlük ve stabilite gerektiren uygulamalar için idealdir. Chemdor markası, bu ürünü uçucu organik bileşikler ve biyokimyasal analizlerde güvenilir sonuçlar almanızı sağlayacak yüksek saflıkta sunar. Bu formülasyon, kromatografik performansın optimize edilmesini ve hassas ölçümlerin tutarlılığını garanti eder.",
-    "safety": "Bu kimyasalın manipülasyonu sırasında nitril eldivenleri, kimyasal gözlük ve laboratuvar önlüğü kullanılması, ayrıca maddenin soğuk, kuru ve havalandırmalı bir dolapta tutulması gerekmektedir."
-  },
-  {
-    "id": "CHI.12361",
-    "name": "Agarose,  bıoreagent, for molecular bıology, low eeo",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 50.1982,
-    "image": "static/images/products/chemdor_CHI_12361.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Agarose, düşük EEO (etanol ve diğer organik çözücüler) içeriği sayesinde moleküler biyolojide hassas DNA ve RNA analizleri için idealdir. Yüksek saflık derecesi, jel elektroforezinde net bant ayrımı ve tekrarlanabilir sonuçlar sağlar. Bu ürün, laboratuvar standartlarına uygun olarak titizlikle üretilmiştir.",
-    "safety": "Kullanım sırasında toz solumayı önlemek için toz maskesi ve eldiven takılmalı, ürün kuru, serin ve karanlık bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12362",
-    "name": "Agarose,  bıoreagent, for molecular bıology, low eeo",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 204.6209,
-    "image": "static/images/products/chemdor_CHI_12362.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Agarose, düşük EEO (etanol suda çözünürlük) özelliği sayesinde yüksek saflıkta ve homojen jel yapısı sunarak moleküler biyoloji uygulamalarında DNA ve RNA ayrıştırması için idealdir. Biyoreagent kalitesindeki bu ürün, hassas elektroforez deneylerinde tutarlı ve güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Tozla temasını önlemek için eldiven ve gözlük kullanın; ürünü kuru, serin ve karanlık bir ortamda saklayın."
-  },
-  {
-    "id": "CHI.12363",
-    "name": "Agar, bacterıologıcal grade",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 67.6214,
-    "image": "static/images/products/chemdor_CHI_12363.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Agar, bakteriyolojik grade kalitesinde olup mikrobiyolojik kültürlerin hazırlanması ve izolasyonu için yüksek saflıkta bir besiyeri bileşenidir. Laboratuvar ortamında tutarlı jel oluşumu ve düşük ısıtma artıkları ile güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için toz maskesi ve gözlük kullanılması, ürünü ise serin, kuru ve karanlık bir ortamda orijinal ambalajında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12364",
-    "name": "Amonyak çözeltisi ≥ 25%, analitik saflık",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.287,
-    "image": "static/images/products/chemdor_CHI_12364.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı ≥ %25 amonyak çözeltisi, analitik saflık standardında üretilerek hassas kimyasal analizler ve titrasyonlar için ideal bir performans sunar. Yüksek saflık derecesi, laboratuvar ortamlarında güvenilir ve tutarlı sonuçlar almanızı sağlar. Bu ürün, kimyasal reaksiyonlarda ve çözelti hazırlamada kritik bir rol oynayan temel bir reaktiftir.",
-    "safety": "Kullanım sırasında mutlaka kimyasal dayanımlı eldiven, gözlük ve laboratuvar önlüğü takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda asitlerden uzak tutularak saklanmalıdır."
-  },
-  {
     "id": "CHI.12365",
     "name": "Ammonıum acetate ≥ 98%, analitik saflık acs , reag. ph.eur",
     "specifications": "1 piece / pack",
@@ -3505,6 +3445,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Asetik asit 0.1% ın water, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12360",
+    "name": "Acetonıtrıle wıth 0.1% asetik asit, lc-ms",
+    "price": 63.4655,
+    "image": "static/images/products/chemdor_CHI_12360.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Acetonıtrıle wı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Acetonıtrıle wıth 0.1% asetik asit, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Acetonıtrıle wıth 0.1% asetik asit, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Acetonıtrıle wıth 0.1% asetik asit, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12361",
+    "name": "Agarose,  bıoreagent, for molecular bıology, low eeo",
+    "price": 50.1982,
+    "image": "static/images/products/chemdor_CHI_12361.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Agarose,  bıore",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Agarose,  bıoreagent, for molecular bıology, low eeo. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Agarose,  bıoreagent, for molecular bıology, low eeo by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Agarose,  bıoreagent, for molecular bıology, low eeo от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12362",
+    "name": "Agarose,  bıoreagent, for molecular bıology, low eeo",
+    "price": 204.6209,
+    "image": "static/images/products/chemdor_CHI_12362.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Agarose,  bıore",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Agarose,  bıoreagent, for molecular bıology, low eeo. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Agarose,  bıoreagent, for molecular bıology, low eeo by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Agarose,  bıoreagent, for molecular bıology, low eeo от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12363",
+    "name": "Agar, bacterıologıcal grade",
+    "price": 67.6214,
+    "image": "static/images/products/chemdor_CHI_12363.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Agar, bacterıol",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Agar, bacterıologıcal grade. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Agar, bacterıologıcal grade by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Agar, bacterıologıcal grade от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12364",
+    "name": "Amonyak çözeltisi ≥ 25%, analitik saflık",
+    "price": 22.287,
+    "image": "static/images/products/chemdor_CHI_12364.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Amonyak çözelti",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Amonyak çözeltisi ≥ 25%, analitik saflık. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Amonyak çözeltisi ≥ 25%, analitik saflık by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Amonyak çözeltisi ≥ 25%, analitik saflık от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
