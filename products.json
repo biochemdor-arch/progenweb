@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12380",
-    "name": "Tert-butyl methyl ether ≥ 99.8%, for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 61.5121,
-    "image": "static/images/products/chemdor_CHI_12380.png",
-    "brand": "Chemdor®",
-    "description": "Tert-butyl methyl ether, yüksek saflıkta (%99.8) ve sıvı kromatografi uygulamaları için ideal olan, düşük polariteli bir çözücüdür. Chemdor markası, bu ürünün analizlerde güvenilir sonuçlar verebilmesi için titiz kalite kontrol süreçlerinden geçtiğini garanti eder. Bu özellikleri sayesinde HPLC ve GC gibi hassas laboratuvar analizlerinde tercih edilen bir bileşendir.",
-    "safety": "Bu kimyasal ile çalışırken göz ve cilt koruyucu ekipman kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda, ateş kaynaklarından uzak tutarak saklamalısınız."
-  },
-  {
-    "id": "CHI.12381",
-    "name": "Tert-butanol ≥ 99.5%, analitik saflık acs, reag. ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 39.1596,
-    "image": "static/images/products/chemdor_CHI_12381.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı tert-butanol, ≥ %99.5 saflıkta ve analitik kalitede (acs, reag. ph eur.) sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, sentez reaksiyonları ve kalite kontrol testleri için ideal bir ortam sağlar. Laboratuvar uygulamalarında güvenilir sonuçlar elde etmek için mükemmel bir çözücü ve reaktif olarak tercih edilir.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için uygun eldiven ve koruyucu gözlük takılmalı, ürün ısı ve alev kaynaklarından uzakta, iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12382",
-    "name": "Butane-1-sulfonıc acıd sodıum salt  ≥99.0% for ıon paır chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 14.4865,
-    "image": "static/images/products/chemdor_CHI_12382.png",
-    "brand": "Chemdor®",
-    "description": "Butane-1-sulfonic acid sodium salt, ≥%99.0 saflıkta olup iyon çift kromatografisi (IPC) uygulamaları için idealdir. Chemdor kalite standartlarında üretilen bu ürün, hassas analizlerde yüksek performans ve güvenilirlik sağlar. İyon çift kromatografisinde güçlü bir iyon çift reaktif olarak kullanılır.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve kuru, serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12383",
-    "name": "Butylated hydroxytoluen,bht≥ 99 % ph.eur,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 39.3824,
-    "image": "static/images/products/chemdor_CHI_12383.png",
-    "brand": "Chemdor®",
-    "description": "Butylated hydroxytoluen (BHT), kimyasal reaksiyonlarda oksidasyonu önlemek amacıyla yaygın olarak kullanılan yüksek saflıkta bir antioksidandır. Chemdor markası, %99 saflık oranıyla Ph.Eur ve USP standartlarına uygunluk göstererek hassas laboratuvar analizleri ve formülasyon çalışmaları için güvenilir bir performans sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, güvenlik gözlüğü ve laboratuvar önlüğü kullanılması; maddenin serin, kuru ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak şekilde saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12384",
-    "name": "Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.0444,
-    "image": "static/images/products/chemdor_CHI_12384.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı bu pH 1.00 ± 0.02 tampon çözeltisi, asitlik derecesinin hassas ölçümü ve laboratuvar ekipmanlarının kalibrasyonu için yüksek saflıkta formüle edilmiştir. Hidroklorik asit ve potasyum klorür bazlı yapısı, 20°C'de istikrarlı ve tekrarlanabilir sonuçlar almanızı sağlayarak analitik çalışmalarınızda güvenilir bir referans noktası oluşturur.",
-    "safety": "Çalışma sırasında asit yanıklarına karşı koruyucu gözlük, nitril eldiven ve laboratuvar önlüğü kullanılması ile çözeltinin serin, kuru ve havalandırmalı bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12385",
     "name": "Buffer çözeltisi ph 2.00 ± 0.02 at 20°c (glycıne, hidroklorik asit, sodıum chlorıde)",
     "specifications": "1 piece / pack",
@@ -3785,6 +3725,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Tert-butyl methyl ether ≥ 99%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12380",
+    "name": "Tert-butyl methyl ether ≥ 99.8%, for lıquıd chromatography",
+    "price": 61.5121,
+    "image": "static/images/products/chemdor_CHI_12380.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tert-butyl meth",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tert-butyl methyl ether ≥ 99.8%, for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tert-butyl methyl ether ≥ 99.8%, for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tert-butyl methyl ether ≥ 99.8%, for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12381",
+    "name": "Tert-butanol ≥ 99.5%, analitik saflık acs, reag. ph eur.",
+    "price": 39.1596,
+    "image": "static/images/products/chemdor_CHI_12381.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tert-butanol ≥ ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tert-butanol ≥ 99.5%, analitik saflık acs, reag. ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tert-butanol ≥ 99.5%, analitik saflık acs, reag. ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tert-butanol ≥ 99.5%, analitik saflık acs, reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12382",
+    "name": "Butane-1-sulfonıc acıd sodıum salt  ≥99.0% for ıon paır chromatography",
+    "price": 14.4865,
+    "image": "static/images/products/chemdor_CHI_12382.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Butane-1-sulfon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Butane-1-sulfonıc acıd sodıum salt  ≥99.0% for ıon paır chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Butane-1-sulfonıc acıd sodıum salt  ≥99.0% for ıon paır chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Butane-1-sulfonıc acıd sodıum salt  ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12383",
+    "name": "Butylated hydroxytoluen,bht≥ 99 % ph.eur,usp",
+    "price": 39.3824,
+    "image": "static/images/products/chemdor_CHI_12383.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Butylated hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Butylated hydroxytoluen,bht≥ 99 % ph.eur,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Butylated hydroxytoluen,bht≥ 99 % ph.eur,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Butylated hydroxytoluen,bht≥ 99 % ph.eur,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12384",
+    "name": "Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde)",
+    "price": 13.0444,
+    "image": "static/images/products/chemdor_CHI_12384.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Buffer çözeltis",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Buffer çözeltisi ph 1.00 ± 0.02 at 20°c (hidroklorik asit, potassıum chlorıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
