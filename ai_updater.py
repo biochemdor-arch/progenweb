@@ -3,6 +3,7 @@ import json
 import time
 import requests
 from io import BytesIO
+import textwrap
 import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
 from groq import Groq
@@ -10,139 +11,144 @@ from groq import Groq
 api_keys_env = os.environ.get("GROQ_API_KEYS", "")
 GROQ_KEYS = [k.strip() for k in api_keys_env.split(",")] if api_keys_env else []
 
-def get_active_model():
-    """Stabil Llama modelini zorunlu kılar."""
-    return "llama-3.1-8b-instant" if GROQ_KEYS else None
+ACTIVE_MODEL = "llama3-70b-8192" # 3 Dil ve 300 kelime yazabilen en zeki model
 
-ACTIVE_MODEL = get_active_model()
-
-def get_ai_multilingual_content(product_name, specs, key_index):
-    """3 dilde, derinlemesine (min 300 kelime) akademik içerik üretir."""
-    client = Groq(api_key=GROQ_KEYS[key_index % len(GROQ_KEYS)])
-    
+def get_ai_multilingual_content(product_name, specs, api_key):
+    client = Groq(api_key=api_key)
     prompt = f"""
-    Sen global bir kimya firması olan Chemdor için çalışan uzman bir farmakolog ve endüstriyel kimyagersin. 
-    Ürün: {product_name}
-    Özellik: {specs}
+    Sen Thermo Fisher tarzı global bir kimya firması olan Chemdor için baş farmakologsun.
+    Ürün: {product_name} ({specs})
     
-    KURALLAR:
-    1. 'usage' (Kullanım Alanı) kısmı her dil için EN AZ 300 KELİME uzunluğunda, son derece detaylı, akademik ve profesyonel olmalıdır. Farmakolojik reaksiyon mekanizmalarını ve endüstriyel üretim aşamalarını detaylandır.
-    2. SADECE aşağıdaki JSON formatında çıktı ver. Markdown (```json) kullanma.
+    GÖREV:
+    1. Bu ürünün "kimyasal" (chemical) mı yoksa beher, cam, cihaz gibi "ekipman" (equipment) mı olduğunu belirle.
+    2. 'usage' (Kullanım Alanı) EN AZ 300 KELİME olmalı, reaksiyon mekanizmalarını detaylandırmalı.
+    3. TÜRKÇE, İNGİLİZCE VE RUSÇA dillerini EKSİKSİZ ÜRET.
     
+    SADECE AŞAĞIDAKİ JSON FORMATINDA ÇIKTI VER:
     {{
-        "tr": {{
-            "properties": "Fiziksel ve kimyasal özellikleri (Yoğunluk, kaynama noktası, CAS, moleküler ağırlık vb.)",
-            "usage": "Farmakolojik ve endüstriyel kullanım alanları, reaksiyon mekanizmaları hakkında detaylı akademik makale (MİNİMUM 300 KELİME).",
-            "safety": "Saklama, taşıma ve güvenlik koşulları."
-        }},
-        "en": {{
-            "properties": "Physical and chemical properties...",
-            "usage": "Detailed academic article on pharmacological and industrial applications (MINIMUM 300 WORDS)...",
-            "safety": "Safety and storage conditions."
-        }},
-        "ru": {{
-            "properties": "Физико-химические свойства...",
-            "usage": "Подробная академическая статья о фармакологическом и промышленном применении (МИНИМУМ 300 СЛОВ)...",
-            "safety": "Условия хранения и безопасности."
-        }},
-        "tags": ["chemical_synthesis", "industrial_grade", "analytical_reagent"]
+        "type": "chemical", // YADA "equipment"
+        "properties_short": "Yoğunluk: ..., Erime Noktası: ..., CAS: ...", // Sadece kimyasallar için resme yazılacak özellikler.
+        "tr": {{"properties": "Fiziksel özellikler detaylı...", "usage": "Min 300 kelimelik makale...", "safety": "Güvenlik..."}},
+        "en": {{"properties": "Physical properties...", "usage": "Min 300 words article...", "safety": "Safety..."}},
+        "ru": {{"properties": "Физико-химические свойства...", "usage": "Минимум 300 слов...", "safety": "Безопасность..."}}
     }}
     """
-    
     try:
-        response = client.chat.completions.create(
-            messages=[{"role": "user", "content": prompt}],
-            model=ACTIVE_MODEL,
-            temperature=0.5
-        )
+        response = client.chat.completions.create(messages=[{"role": "user", "content": prompt}], model=ACTIVE_MODEL, temperature=0.3)
         content = response.choices[0].message.content.replace("```json", "").replace("```", "").strip()
-        return json.loads(content)
+        parsed = json.loads(content)
+        # 3 dil kontrolü, eksikse reddet diğer döngüye kalsın
+        if "tr" in parsed and "en" in parsed and "ru" in parsed:
+            return parsed
+        return None
     except Exception as e:
-        print(f"[-] AI Hatası ({product_name}): {e}")
-        return {"tr": {"usage": "Veri hazırlanıyor...", "props": "-", "safety": "-"}, "en": {"usage": "Data pending...", "props": "-", "safety": "-"}, "ru": {"usage": "Ожидание данных...", "props": "-", "safety": "-"}, "tags": []}
+        print(f"[-] AI Hatası ({product_name})")
+        return None
 
-def create_chemdor_image_with_logo(code, name, img_path):
-    """Thermo Fisher tarzı, kurumsal ve şık bir ürün veri etiketi (Data Label) tasarlar."""
-    img = Image.new('RGB', (800, 800), color=(255, 255, 255))
+def create_smart_image(code, name, product_type, props_short, img_path):
+    # Ekipmansa gerçek cam cihaz resmi, Kimyasalsa laboratuvar arka planı
+    bg_url = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=800" if product_type == "equipment" else "https://images.unsplash.com/photo-1584362917165-526a968579e8?q=80&w=800"
+    
+    try:
+        bg_req = requests.get(bg_url, timeout=5)
+        img = Image.open(BytesIO(bg_req.content)).convert("RGBA")
+    except:
+        img = Image.new('RGBA', (800, 800), color=(240, 244, 248, 255))
+    
+    overlay = Image.new('RGBA', img.size, (255, 255, 255, 0))
+    d = ImageDraw.Draw(overlay)
+    
+    # Kimyasalsa ortaya büyük bir etiket çizip özellikleri yazıyoruz
+    if product_type == "chemical":
+        d.rectangle([50, 100, 750, 700], fill=(255, 255, 255, 245), outline=(204, 0, 0), width=5)
+    else:
+        # Cihazsa sadece alt kısma isim bandı çekiyoruz
+        d.rectangle([50, 550, 750, 700], fill=(255, 255, 255, 245), outline=(0, 51, 160), width=5)
+        
+    img = Image.alpha_composite(img, overlay)
     d = ImageDraw.Draw(img)
-    
-    # Kurumsal Çerçeve ve Üst Bant
-    d.rectangle([20, 20, 780, 780], outline=(230, 230, 230), width=2)
-    d.rectangle([20, 20, 780, 100], fill=(0, 51, 160)) # Thermo Laciverti
-    d.rectangle([20, 100, 780, 110], fill=(204, 0, 0)) # Thermo Kırmızısı
-    
-    # Canlı logoyu çek ve ortaya yerleştir
+
+    # Logoyu çek
     try:
-        response = requests.get("[https://www.chemdor.com/images/logo.jpg](https://www.chemdor.com/images/logo.jpg)", timeout=5)
-        logo = Image.open(BytesIO(response.content)).convert("RGBA")
-        logo = logo.resize((200, int(200 * logo.height / logo.width)))
-        img.paste(logo, (300, 180), logo)
-    except Exception:
-        # Logo inmezse şık bir fontla yaz
-        d.text((320, 200), "CHEMDOR", fill=(0, 51, 160))
+        logo_req = requests.get("https://www.chemdor.com/images/logo.jpg", timeout=5)
+        logo = Image.open(BytesIO(logo_req.content)).convert("RGBA")
+        logo = logo.resize((180, int(180 * logo.height / logo.width)))
+        
+        if product_type == "chemical":
+            img.paste(logo, (310, 130), logo)
+        else:
+            img.paste(logo, (70, 570), logo)
+    except:
+        d.text((320, 150), "CHEMDOR", fill=(0, 51, 160))
 
     try:
-        font_title = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial Bold.ttf", 35)
+        font_title = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial Bold.ttf", 30)
         font_sub = ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial.ttf", 22)
     except:
-        font_title = ImageFont.load_default()
-        font_sub = ImageFont.load_default()
+        font_title = font_sub = ImageFont.load_default()
     
-    # Metinleri şık bir şekilde ortalayarak yaz
     short_name = name[:40] + ".." if len(name) > 40 else name
-    d.text((80, 400), short_name, fill=(50, 50, 50), font=font_title)
-    d.text((80, 470), f"Product Reference: {code}", fill=(100, 100, 100), font=font_sub)
-    d.text((80, 520), "Grade: Analytical & Research Grade", fill=(0, 51, 160), font=font_sub)
-    d.text((80, 570), "Quality: ISO Certified, High Purity", fill=(100, 100, 100), font=font_sub)
     
-    img.save(img_path)
+    if product_type == "chemical":
+        d.text((80, 280), short_name, fill=(30, 30, 30), font=font_title)
+        d.text((80, 330), f"REF: {code}", fill=(204, 0, 0), font=font_sub)
+        d.text((80, 370), "Analytical & Research Grade", fill=(0, 51, 160), font=font_sub)
+        
+        # Fiziksel ve Kimyasal özellikleri resmin üstüne yaz
+        d.text((80, 430), "Properties / Özellikler:", fill=(100, 100, 100), font=font_sub)
+        y_text = 470
+        wrapped_props = textwrap.wrap(props_short, width=50)
+        for line in wrapped_props:
+            d.text((80, y_text), line, fill=(30, 30, 30), font=font_sub)
+            y_text += 35
+    else:
+        # Cihazlar için tasarım
+        d.text((270, 580), short_name, fill=(30, 30, 30), font=font_title)
+        d.text((270, 630), f"REF: {code} | Lab Equipment", fill=(204, 0, 0), font=font_sub)
+    
+    img.convert("RGB").save(img_path)
 
 def main():
-    if not GROQ_KEYS:
-        print("[-] HATA: GROQ_API_KEYS bulunamadı.")
-        return
-
+    if not GROQ_KEYS: return
     os.makedirs("static/images/products", exist_ok=True)
+    
+    existing_data = []
+    if os.path.exists("products.json"):
+        try:
+            with open("products.json", "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+        except: pass
+
+    processed_ids = {p["id"] for p in existing_data if p.get("content", {}).get("tr", {}).get("usage") and len(p["content"]["tr"]["usage"]) > 100}
+
     df = pd.read_excel("Progen_Analitik_Fiyat_Listesi_2026_V2.xlsx", sheet_name="Türkçe Katalog", header=3)
-    
-    products_list = []
-    key_index = 0
-    count = 0
-    
+    new_processed = 0
+    key_idx = 0
+
     for idx, row in df.iterrows():
         code = str(row.iloc[1])
-        if pd.isna(row.iloc[1]) or not code.startswith("CHI"):
-            continue
+        if pd.isna(row.iloc[1]) or not code.startswith("CHI"): continue
+        if code in processed_ids: continue
             
-        name = str(row.iloc[3])
-        specs = str(row.iloc[4])
-        price = float(row.iloc[7]) if pd.notna(row.iloc[7]) else 0.0
+        name, specs, price = str(row.iloc[3]), str(row.iloc[4]), float(row.iloc[7]) if pd.notna(row.iloc[7]) else 0.0
+        print(f"[*] İşleniyor: {name}...")
         
-        print(f"[{count+1}] Mükemmelleştiriliyor: {name}...")
+        ai_data = get_ai_multilingual_content(name, specs, GROQ_KEYS[key_idx % len(GROQ_KEYS)])
+        key_idx += 1
         
-        ai_data = get_ai_multilingual_content(name, specs, key_index)
-        key_index += 1
-        
-        img_filename = f"chemdor_{code.replace('.', '_')}.png"
-        img_path = f"static/images/products/{img_filename}"
-        create_chemdor_image_with_logo(code, name, img_path)
-        
-        p = {
-            "id": code,
-            "name": name,
-            "price": price,
-            "image": img_path,
-            "brand": "Chemdor®",
-            "content": ai_data
-        }
-        products_list.append(p)
-        count += 1
-        time.sleep(1)
+        if ai_data:
+            img_path = f"static/images/products/chemdor_{code.replace('.', '_')}.png"
+            create_smart_image(code, name, ai_data.get("type", "chemical"), ai_data.get("properties_short", ""), img_path)
+            
+            p_dict = {"id": code, "name": name, "price": price, "image": img_path, "brand": "Chemdor®", "content": ai_data}
+            existing_data = [p for p in existing_data if p["id"] != code] + [p_dict]
+            new_processed += 1
+            
+        if new_processed >= 4: # Her 3 dakikada 4 ürün işleyip hızlıca siteye atar
+            break
 
     with open("products.json", "w", encoding="utf-8") as f:
-        json.dump(products_list, f, ensure_ascii=False, indent=2)
-        
-    print(f"\n[*] Başarılı! {count} ürün 3 dilde ve yeni görsellerle işlendi.")
+        json.dump(existing_data, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     main()

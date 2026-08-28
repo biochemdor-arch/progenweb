@@ -3,165 +3,160 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chemdor | Global Chemical Solutions</title>
+    <title>Chemdor | Advanced Laboratory Solutions</title>
     <style>
-        :root {
-            --tf-red: #cc0000;
-            --tf-blue: #0033a0;
-            --tf-gray: #f4f4f4;
-            --text-dark: #333333;
-        }
+        :root { --tf-red: #cc0000; --tf-blue: #0033a0; --tf-gray: #f4f4f4; --text-dark: #333333; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: var(--tf-gray); color: var(--text-dark); }
-        header { background-color: white; border-bottom: 4px solid var(--tf-red); padding: 20px 50px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        
+        header { background-color: white; border-bottom: 4px solid var(--tf-red); padding: 15px 50px; display: flex; justify-content: space-between; align-items: center; position: relative; z-index: 10; box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
         .logo { font-size: 28px; font-weight: bold; color: var(--tf-blue); letter-spacing: 1px; }
-        .controls { display: flex; gap: 20px; align-items: center; }
-        select, input { padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; }
-        input[type="text"] { width: 300px; }
+        select { padding: 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; }
+
+        /* Slayt ve Arama Alanı (Hero Section) */
+        .hero { position: relative; width: 100%; height: 80vh; overflow: hidden; background: #000; display: flex; align-items: center; justify-content: center; }
+        .slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; opacity: 0; animation: fade 15s infinite; }
+        .slide:nth-child(1) { background-image: url('https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1920'); animation-delay: 0s; }
+        .slide:nth-child(2) { background-image: url('https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?q=80&w=1920'); animation-delay: 5s; }
+        .slide:nth-child(3) { background-image: url('https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=1920'); animation-delay: 10s; }
+        @keyframes fade { 0% {opacity: 0;} 10% {opacity: 0.6;} 33% {opacity: 0.6;} 43% {opacity: 0;} 100% {opacity: 0;} }
+
+        .search-container { position: relative; z-index: 2; width: 60%; text-align: center; background: rgba(255,255,255,0.9); padding: 40px; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border-top: 5px solid var(--tf-blue); }
+        .search-container h1 { color: var(--tf-blue); margin-top: 0; font-size: 32px; }
+        .search-wrapper { position: relative; }
+        input[type="text"] { width: 100%; padding: 18px; font-size: 18px; border: 2px solid #ddd; border-radius: 4px; box-sizing: border-box; outline: none; }
+        input[type="text"]:focus { border-color: var(--tf-red); }
         
-        .container { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px; }
-        .card { background: white; border: 1px solid #e0e0e0; border-radius: 6px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer; }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); border-color: var(--tf-blue); }
-        .card-img { width: 100%; height: 250px; object-fit: contain; background: white; padding: 20px; box-sizing: border-box; border-bottom: 1px solid #eee; }
-        .card-body { padding: 20px; }
-        .card-title { font-size: 18px; font-weight: bold; color: var(--tf-blue); margin: 0 0 10px 0; }
-        .card-ref { font-size: 12px; color: #777; margin-bottom: 15px; font-family: monospace; }
-        
+        /* Akıllı Dropdown */
+        .dropdown { position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #ccc; border-top: none; max-height: 300px; overflow-y: auto; text-align: left; list-style: none; padding: 0; margin: 0; border-radius: 0 0 6px 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); display: none; }
+        .dropdown li { padding: 15px; border-bottom: 1px solid #eee; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+        .dropdown li:hover { background: #f0f4ff; color: var(--tf-blue); }
+        .dd-name { font-weight: bold; font-size: 15px; }
+        .dd-ref { font-size: 12px; color: #888; }
+
         /* Modal (Detay Sayfası) */
-        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; overflow-y: auto; }
-        .modal-content { background: white; max-width: 800px; margin: 50px auto; padding: 40px; border-top: 6px solid var(--tf-red); border-radius: 4px; position: relative; }
-        .close-btn { position: absolute; right: 20px; top: 20px; font-size: 30px; cursor: pointer; color: #999; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 1000; overflow-y: auto; }
+        .modal-content { background: white; max-width: 900px; margin: 50px auto; padding: 0; border-top: 6px solid var(--tf-red); border-radius: 4px; position: relative; display: flex; flex-direction: column; }
+        .close-btn { position: absolute; right: 20px; top: 15px; font-size: 30px; cursor: pointer; color: #999; z-index: 10; }
         .close-btn:hover { color: var(--tf-red); }
-        .tag { display: inline-block; background: #eef2f9; color: var(--tf-blue); padding: 5px 12px; border-radius: 20px; font-size: 12px; margin-right: 8px; margin-top: 15px; }
-        .section-title { font-size: 16px; font-weight: bold; border-bottom: 2px solid var(--tf-gray); padding-bottom: 8px; margin-top: 30px; }
-        .long-text { line-height: 1.8; font-size: 14.5px; color: #444; text-align: justify; }
+        .modal-img { width: 100%; height: 350px; object-fit: cover; background: #fff; border-bottom: 1px solid #ddd; }
+        .modal-body { padding: 40px; }
+        .section-title { font-size: 18px; font-weight: bold; border-bottom: 2px solid var(--tf-gray); padding-bottom: 8px; margin-top: 30px; color: var(--tf-blue); }
+        .long-text { line-height: 1.8; font-size: 15px; color: #444; text-align: justify; margin-top: 15px; }
     </style>
 </head>
 <body>
 
 <header>
     <div class="logo">CHEMDOR</div>
-    <div class="controls">
-        <input type="text" id="searchBar" placeholder="Search CAS, Product Name, or Ref..." onkeyup="filterProducts()">
-        <select id="langSelector" onchange="changeLanguage()">
-            <option value="en">English (EN)</option>
-            <option value="tr">Türkçe (TR)</option>
-            <option value="ru">Русский (RU)</option>
-        </select>
-    </div>
+    <select id="langSelector" onchange="changeLanguage()">
+        <option value="en">English (EN)</option>
+        <option value="tr">Türkçe (TR)</option>
+        <option value="ru">Русский (RU)</option>
+    </select>
 </header>
 
-<div class="container">
-    <div class="grid" id="productGrid">
-        <!-- JS ile Dolacak -->
+<div class="hero">
+    <div class="slide"></div>
+    <div class="slide"></div>
+    <div class="slide"></div>
+    
+    <div class="search-container">
+        <h1 id="hero-title">Find Products & Documents</h1>
+        <div class="search-wrapper">
+            <input type="text" id="searchBar" placeholder="Search CAS, Chemical Name or Reference..." autocomplete="off" onkeyup="handleSearch()">
+            <ul id="dropdown" class="dropdown"></ul>
+        </div>
     </div>
 </div>
 
-<!-- Ürün Detay Modalı -->
 <div class="modal" id="productModal">
     <div class="modal-content">
         <span class="close-btn" onclick="closeModal()">&times;</span>
-        <h1 id="m-title" style="color: var(--tf-blue); margin-top: 0;"></h1>
-        <div class="card-ref" id="m-ref"></div>
+        <img id="m-img" class="modal-img" src="" alt="">
         
-        <div class="section-title" id="lbl-props">Physical & Chemical Properties</div>
-        <div class="long-text" id="m-props"></div>
-        
-        <div class="section-title" id="lbl-usage">Pharmacological & Industrial Application</div>
-        <div class="long-text" id="m-usage"></div>
-        
-        <div class="section-title" id="lbl-safety">Safety & Storage</div>
-        <div class="long-text" id="m-safety"></div>
-        
-        <div id="m-tags"></div>
+        <div class="modal-body">
+            <h1 id="m-title" style="color: var(--tf-blue); margin-top: 0;"></h1>
+            <div id="m-ref" style="color: #777; font-family: monospace; font-size: 14px;"></div>
+            
+            <div class="section-title" id="lbl-props"></div>
+            <div class="long-text" id="m-props"></div>
+            
+            <div class="section-title" id="lbl-usage"></div>
+            <div class="long-text" id="m-usage"></div>
+            
+            <div class="section-title" id="lbl-safety"></div>
+            <div class="long-text" id="m-safety"></div>
+        </div>
     </div>
 </div>
 
 <script>
     let allProducts = [];
     let currentLang = 'en';
+    let selectedProduct = null;
 
-    // Sabit Çeviriler
     const labels = {
-        en: { props: "Physical & Chemical Properties", usage: "Pharmacological & Industrial Application", safety: "Safety & Storage" },
-        tr: { props: "Fiziksel ve Kimyasal Özellikler", usage: "Farmakolojik ve Endüstriyel Kullanım", safety: "Güvenlik ve Depolama" },
-        ru: { props: "Физические и химические свойства", usage: "Фармакологическое и промышленное применение", safety: "Безопасность и хранение" }
+        en: { title: "Search Global Catalog", search: "Search by Name, CAS, or Ref...", props: "Physical & Chemical Properties", usage: "Pharmacological & Industrial Application", safety: "Safety & Storage" },
+        tr: { title: "Global Kataloğu Keşfedin", search: "İsim, CAS veya Kod ile ara...", props: "Fiziksel ve Kimyasal Özellikler", usage: "Farmakolojik ve Endüstriyel Kullanım", safety: "Güvenlik ve Depolama" },
+        ru: { title: "Глобальный Каталог", search: "Поиск по имени, CAS или коду...", props: "Физические и химические свойства", usage: "Фармакологическое и промышленное применение", safety: "Безопасность и хранение" }
     };
 
     fetch('products.json')
         .then(res => res.json())
-        .then(data => {
-            allProducts = data;
-            renderGrid(allProducts);
-        });
+        .then(data => { allProducts = data; });
 
-    function renderGrid(products) {
-        const grid = document.getElementById('productGrid');
-        grid.innerHTML = '';
-        products.forEach(p => {
-            // Eğer yeni JSON formatı yoksa çökmemesi için güvenlik kontrolü
-            const contentObj = p.content && p.content[currentLang] ? p.content[currentLang] : { usage: "Data pending...", props: "-", safety: "-" };
-            
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.onclick = () => openModal(p);
-            
-            // Kısa özet çıkart
-            let shortDesc = contentObj.usage.substring(0, 100) + '...';
-            
-            card.innerHTML = `
-                <img src="${p.image}" class="card-img" alt="${p.name}">
-                <div class="card-body">
-                    <div class="card-ref">Ref: ${p.id}</div>
-                    <h3 class="card-title">${p.name}</h3>
-                    <p style="font-size: 13px; color: #666; line-height: 1.5;">${shortDesc}</p>
-                </div>
-            `;
-            grid.appendChild(card);
-        });
+    function handleSearch() {
+        const query = document.getElementById('searchBar').value.toLowerCase();
+        const dd = document.getElementById('dropdown');
+        dd.innerHTML = '';
+        
+        if (query.length < 2) { dd.style.display = 'none'; return; }
+        
+        const filtered = allProducts.filter(p => p.name.toLowerCase().includes(query) || p.id.toLowerCase().includes(query));
+        
+        if (filtered.length > 0) {
+            dd.style.display = 'block';
+            filtered.slice(0, 8).forEach(p => {
+                const li = document.createElement('li');
+                li.innerHTML = `<span class="dd-name">${p.name}</span> <span class="dd-ref">${p.id}</span>`;
+                li.onclick = () => { document.getElementById('searchBar').value = ''; dd.style.display = 'none'; openModal(p); };
+                dd.appendChild(li);
+            });
+        } else {
+            dd.style.display = 'none';
+        }
     }
 
     function openModal(p) {
-        const contentObj = p.content && p.content[currentLang] ? p.content[currentLang] : { usage: "Data pending update...", props: "-", safety: "-" };
+        selectedProduct = p;
+        const c = p.content && p.content[currentLang] ? p.content[currentLang] : { usage: "Data loading...", props: "-", safety: "-" };
         
+        document.getElementById('m-img').src = p.image;
         document.getElementById('m-title').innerText = p.name;
         document.getElementById('m-ref').innerText = `Ref: ${p.id} | Brand: ${p.brand}`;
         
         document.getElementById('lbl-props').innerText = labels[currentLang].props;
-        document.getElementById('m-props').innerText = contentObj.props || contentObj.properties || "-";
+        document.getElementById('m-props').innerText = c.props || c.properties || "-";
         
         document.getElementById('lbl-usage').innerText = labels[currentLang].usage;
-        document.getElementById('m-usage').innerText = contentObj.usage || "-";
+        document.getElementById('m-usage').innerText = c.usage || "-";
         
         document.getElementById('lbl-safety').innerText = labels[currentLang].safety;
-        document.getElementById('m-safety').innerText = contentObj.safety || "-";
-        
-        const tagsDiv = document.getElementById('m-tags');
-        tagsDiv.innerHTML = '';
-        if(p.content && p.content.tags) {
-            p.content.tags.forEach(t => {
-                tagsDiv.innerHTML += `<span class="tag">#${t}</span>`;
-            });
-        }
+        document.getElementById('m-safety').innerText = c.safety || "-";
         
         document.getElementById('productModal').style.display = 'block';
     }
 
     function closeModal() { document.getElementById('productModal').style.display = 'none'; }
-    window.onclick = function(event) { if (event.target == document.getElementById('productModal')) closeModal(); }
+    window.onclick = function(e) { if (e.target == document.getElementById('productModal')) closeModal(); }
 
     function changeLanguage() {
         currentLang = document.getElementById('langSelector').value;
-        renderGrid(allProducts);
-        closeModal();
-    }
-
-    function filterProducts() {
-        const query = document.getElementById('searchBar').value.toLowerCase();
-        const filtered = allProducts.filter(p => 
-            p.name.toLowerCase().includes(query) || p.id.toLowerCase().includes(query)
-        );
-        renderGrid(filtered);
+        document.getElementById('hero-title').innerText = labels[currentLang].title;
+        document.getElementById('searchBar').placeholder = labels[currentLang].search;
+        if(selectedProduct && document.getElementById('productModal').style.display === 'block') {
+            openModal(selectedProduct); // Dili anında modalda değiştir
+        }
     }
 </script>
 

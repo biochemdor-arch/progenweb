@@ -1,13 +1,15 @@
 name: Chemdor 7/24 AI Cloud Motoru
 
 on:
+  schedule:
+    - cron: "*/3 * * * *" # Her 3 dakikada bir çalışır (GitHub'ın izin verdiği en hızlı ayar)
   push:
     paths:
-      - 'Progen_Analitik_Fiyat_Listesi_2026_V2.xlsx' # Sadece bu Excel değiştiğinde çalışır
-  workflow_dispatch: # GitHub sitesinden manuel başlatabilmen için buton ekler
+      - 'Progen_Analitik_Fiyat_Listesi_2026_V2.xlsx'
+  workflow_dispatch:
 
 permissions:
-  contents: write # Yapay zekanın ürettiği resimleri ve JSON'u siteye yazabilmesi için izin
+  contents: write
 
 jobs:
   ai-calistir:
@@ -26,13 +28,13 @@ jobs:
 
       - name: Yapay Zeka Ajanını Çalıştır
         env:
-          GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }} # Şifreyi GitHub Kasasından güvenle çeker
+          GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }}
         run: python3 ai_updater.py
 
-      - name: Yeni Üretilen Verileri Canlı Siteye Yükle
+      - name: Yeni Verileri ve Resimleri Siteye Kaydet
         run: |
           git config --global user.name "Chemdor AI Bot"
           git config --global user.email "bot@chemdor.com"
-          git add static/images/products/* products.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "AI tarafından 3 dilli içerik ve logolu görseller eklendi"
+          git add static/images/products/* products.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "3 Dakika Döngüsü: Yeni ürünler, Akıllı Görseller ve 3 Dil Eklendi"
           git push origin main
