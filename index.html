@@ -1,238 +1,169 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Progen Analitik & Chemdor® | Laboratuvar Kimyasalları</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Chemdor | Global Chemical Solutions</title>
+    <style>
+        :root {
+            --tf-red: #cc0000;
+            --tf-blue: #0033a0;
+            --tf-gray: #f4f4f4;
+            --text-dark: #333333;
+        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: var(--tf-gray); color: var(--text-dark); }
+        header { background-color: white; border-bottom: 4px solid var(--tf-red); padding: 20px 50px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .logo { font-size: 28px; font-weight: bold; color: var(--tf-blue); letter-spacing: 1px; }
+        .controls { display: flex; gap: 20px; align-items: center; }
+        select, input { padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; }
+        input[type="text"] { width: 300px; }
+        
+        .container { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px; }
+        .card { background: white; border: 1px solid #e0e0e0; border-radius: 6px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer; }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); border-color: var(--tf-blue); }
+        .card-img { width: 100%; height: 250px; object-fit: contain; background: white; padding: 20px; box-sizing: border-box; border-bottom: 1px solid #eee; }
+        .card-body { padding: 20px; }
+        .card-title { font-size: 18px; font-weight: bold; color: var(--tf-blue); margin: 0 0 10px 0; }
+        .card-ref { font-size: 12px; color: #777; margin-bottom: 15px; font-family: monospace; }
+        
+        /* Modal (Detay Sayfası) */
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); z-index: 1000; overflow-y: auto; }
+        .modal-content { background: white; max-width: 800px; margin: 50px auto; padding: 40px; border-top: 6px solid var(--tf-red); border-radius: 4px; position: relative; }
+        .close-btn { position: absolute; right: 20px; top: 20px; font-size: 30px; cursor: pointer; color: #999; }
+        .close-btn:hover { color: var(--tf-red); }
+        .tag { display: inline-block; background: #eef2f9; color: var(--tf-blue); padding: 5px 12px; border-radius: 20px; font-size: 12px; margin-right: 8px; margin-top: 15px; }
+        .section-title { font-size: 16px; font-weight: bold; border-bottom: 2px solid var(--tf-gray); padding-bottom: 8px; margin-top: 30px; }
+        .long-text { line-height: 1.8; font-size: 14.5px; color: #444; text-align: justify; }
+    </style>
 </head>
 <body>
-    <!-- Top Bar -->
-    <div class="top-bar">
-        <div class="container">
-            <span><i class="fa-solid fa-flask"></i> Chemdor® Yetkili Analitik Laboratuvar Tedariği</span>
-            <div class="top-links">
-                <a href="#"><i class="fa-solid fa-phone"></i> +90 (212) 000 00 00</a>
-                <a href="#"><i class="fa-solid fa-envelope"></i> bilgi@progenanalitik.com.tr</a>
-            </div>
-        </div>
+
+<header>
+    <div class="logo">CHEMDOR</div>
+    <div class="controls">
+        <input type="text" id="searchBar" placeholder="Search CAS, Product Name, or Ref..." onkeyup="filterProducts()">
+        <select id="langSelector" onchange="changeLanguage()">
+            <option value="en">English (EN)</option>
+            <option value="tr">Türkçe (TR)</option>
+            <option value="ru">Русский (RU)</option>
+        </select>
     </div>
+</header>
 
-    <!-- Main Header -->
-    <header class="main-header">
-        <div class="container header-container">
-            <div class="logo">
-                <h1>PROGEN ANALİTİK</h1>
-                <p>Chemdor® Certified Reagents & Solutions</p>
-            </div>
-            <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Ürün adı, saflık veya sistem kodu ara (Örn: Tampon, Asit, CHI.12345)...">
-                <button id="searchBtn"><i class="fa-solid fa-search"></i> ARA</button>
-            </div>
-        </div>
-    </header>
-
-    <!-- Navigation Menu -->
-    <nav class="main-nav">
-        <div class="container">
-            <ul>
-                <li><a href="#" class="active">Ana Sayfa</a></li>
-                <li><a href="#products-section">Chemdor® Kimyasallar</a></li>
-                <li><a href="#">Analitik Sarflar</a></li>
-                <li><a href="#">Kalite Belgeleri</a></li>
-                <li><a href="#">İletişim</a></li>
-            </ul>
-        </div>
-    </nav>
-
-    <!-- Hero Banner -->
-    <section class="hero-banner">
-        <div class="container hero-content">
-            <h2>CHEMDOR® YÜKSEK SAFLIKTA KİMYASAL ÇÖZÜMLERİ</h2>
-            <p>Endüstriyel, akademik ve AR-GE laboratuvarları için ISO ve GLP standartlarında güvenilir reaktifler.</p>
-        </div>
-    </section>
-
-    <!-- Categories / Quick Filter Bar -->
-    <div class="container category-bar">
-        <button class="cat-btn active" data-filter="all">Tüm Ürünler</button>
-        <button class="cat-btn" data-filter="asit">Asitler & Reaktifler</button>
-        <button class="cat-btn" data-filter="tampon">pH Tampon Çözeltileri</button>
-        <button class="cat-btn" data-filter="solvent">Organik Solventler</button>
-        <button class="cat-btn" data-filter="tuz">Tuzlar & Tozlar</button>
+<div class="container">
+    <div class="grid" id="productGrid">
+        <!-- JS ile Dolacak -->
     </div>
+</div>
 
-    <!-- Products Section -->
-    <section id="products-section" class="products-section container">
-        <div class="section-title">
-            <h3>CHEMDOR® GÜNCEL ÜRÜN KATALOĞU</h3>
-            <p>Her ürüne özel teknik detaylar, saflık sertifikaları ve güncel toptan fiyatlandırma.</p>
-        </div>
+<!-- Ürün Detay Modalı -->
+<div class="modal" id="productModal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="closeModal()">&times;</span>
+        <h1 id="m-title" style="color: var(--tf-blue); margin-top: 0;"></h1>
+        <div class="card-ref" id="m-ref"></div>
         
-        <div id="productGrid" class="product-grid">
-            <!-- JavaScript ile dinamik dolacak -->
-        </div>
-    </section>
-
-    <!-- Product Detail Modal -->
-    <div id="productModal" class="modal">
-        <div class="modal-content">
-            <span class="close-modal">&times;</span>
-            <div class="modal-body" id="modalBody">
-                <!-- Dinamik detay içeriği -->
-            </div>
-        </div>
+        <div class="section-title" id="lbl-props">Physical & Chemical Properties</div>
+        <div class="long-text" id="m-props"></div>
+        
+        <div class="section-title" id="lbl-usage">Pharmacological & Industrial Application</div>
+        <div class="long-text" id="m-usage"></div>
+        
+        <div class="section-title" id="lbl-safety">Safety & Storage</div>
+        <div class="long-text" id="m-safety"></div>
+        
+        <div id="m-tags"></div>
     </div>
+</div>
 
-    <!-- Footer -->
-    <footer>
-        <div class="container footer-content">
-            <div class="footer-col">
-                <h4>PROGEN ANALİTİK</h4>
-                <p>Modern laboratuvarlar için Chemdor® analitik çözümleri, yüksek saflıkta kimyasal tedarik ve uzman teknik destek.</p>
-            </div>
-            <div class="footer-col">
-                <h4>Kurumsal</h4>
-                <ul>
-                    <li><a href="#">Hakkımızda</a></li>
-                    <li><a href="#">Kalite Politikamız</a></li>
-                    <li><a href="#">Güvenlik Bilgi Formları (GBF)</a></li>
-                    <li><a href="#">İletişim</a></li>
-                </ul>
-            </div>
-            <div class="footer-col">
-                <h4>İletişim Bilgileri</h4>
-                <p><i class="fa-solid fa-location-dot"></i> İstanbul, Türkiye</p>
-                <p><i class="fa-solid fa-envelope"></i> bilgi@progenanalitik.com.tr</p>
-                <p><i class="fa-solid fa-phone"></i> +90 (212) 000 00 00</p>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; 2026 PROGEN ANALİTİK & Chemdor® - Tüm Hakları Saklıdır.</p>
-        </div>
-    </footer>
+<script>
+    let allProducts = [];
+    let currentLang = 'en';
 
-    <script>
-        let allProducts = [];
+    // Sabit Çeviriler
+    const labels = {
+        en: { props: "Physical & Chemical Properties", usage: "Pharmacological & Industrial Application", safety: "Safety & Storage" },
+        tr: { props: "Fiziksel ve Kimyasal Özellikler", usage: "Farmakolojik ve Endüstriyel Kullanım", safety: "Güvenlik ve Depolama" },
+        ru: { props: "Физические и химические свойства", usage: "Фармакологическое и промышленное применение", safety: "Безопасность и хранение" }
+    };
 
-        async function loadProducts() {
-            try {
-                let response = await fetch('products.json');
-                allProducts = await response.json();
-                displayProducts(allProducts);
-            } catch (error) {
-                console.error('Ürünler yüklenirken hata oluştu:', error);
-            }
-        }
-
-        function displayProducts(products) {
-            const grid = document.getElementById('productGrid');
-            grid.innerHTML = '';
-
-            if (products.length === 0) {
-                grid.innerHTML = '<p class="no-result">Aradığınız kriterlere uygun ürün bulunamadı.</p>';
-                return;
-            }
-
-            products.forEach(p => {
-                let card = document.createElement('div');
-                card.className = 'product-card';
-                card.innerHTML = `
-                    <div class="product-img">
-                        <img src="${p.image}" alt="${p.name}">
-                        <span class="brand-badge">${p.brand}</span>
-                    </div>
-                    <div class="product-info">
-                        <span class="sys-code">Sistem Kodu: ${p.id}</span>
-                        <h4 class="prod-name" title="${p.name}">${p.name}</h4>
-                        <p class="specs"><strong>Ambalaj:</strong> ${p.specifications}</p>
-                        <div class="price-box">
-                            <span class="price-label">Toptan Fiyat:</span>
-                            <span class="price-val">${p.price.toFixed(2)} EUR</span>
-                        </div>
-                        <div class="card-buttons">
-                            <button class="btn-detail" onclick="openModal('${p.id}')">Detaylı İncele</button>
-                            <button class="btn-cart" onclick="alert('${p.id} kodlu ürün teklif sepetine eklendi.')">Sepete Ekle</button>
-                        </div>
-                    </div>
-                `;
-                grid.appendChild(card);
-            });
-        }
-
-        function openModal(id) {
-            const product = allProducts.find(p => p.id === id);
-            if (!product) return;
-
-            const modalBody = document.getElementById('modalBody');
-            modalBody.innerHTML = `
-                <div class="modal-img-container">
-                    <img src="${product.image}" alt="${product.name}">
-                    <span class="brand-badge">${product.brand}</span>
-                </div>
-                <div class="modal-details">
-                    <span class="modal-code">Sistem Kodu: ${product.id} | Marka: ${product.brand}</span>
-                    <h2>${product.name}</h2>
-                    <p class="modal-specs"><strong>Ambalaj & Saflık:</strong> ${product.specifications}</p>
-                    <div class="modal-price">
-                        <span>Güncel Toptan Fiyat:</span>
-                        <strong>${product.price.toFixed(2)} EUR</strong>
-                    </div>
-                    <div class="modal-desc">
-                        <h4>Ürün Açıklaması ve Kullanım Alanı:</h4>
-                        <p>${product.description}</p>
-                    </div>
-                    <div class="modal-safety">
-                        <h4><i class="fa-solid fa-triangle-exclamation"></i> Güvenlik ve Saklama Koşulları:</h4>
-                        <p>${product.safety}</p>
-                    </div>
-                    <div class="modal-actions">
-                        <button class="btn-cart" onclick="alert('${product.id} kodlu ürün için teklif talebiniz alındı.'); closeModal();">Chemdor® Teklif İste</button>
-                    </div>
-                </div>
-            `;
-            document.getElementById('productModal').style.display = 'block';
-        }
-
-        function closeModal() {
-            document.getElementById('productModal').style.display = 'none';
-        }
-
-        document.querySelector('.close-modal').onclick = closeModal;
-        window.onclick = function(event) {
-            if (event.target === document.getElementById('productModal')) {
-                closeModal();
-            }
-        }
-
-        function filterProducts() {
-            let term = document.getElementById('searchInput').value.toLowerCase();
-            let filtered = allProducts.filter(p => 
-                p.name.toLowerCase().includes(term) || p.id.toLowerCase().includes(term) || p.specifications.toLowerCase().includes(term)
-            );
-            displayProducts(filtered);
-        }
-
-        document.getElementById('searchInput').addEventListener('input', filterProducts);
-        document.getElementById('searchBtn').addEventListener('click', filterProducts);
-
-        document.querySelectorAll('.cat-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                
-                let filter = e.target.getAttribute('data-filter');
-                if (filter === 'all') {
-                    displayProducts(allProducts);
-                } else {
-                    let filtered = allProducts.filter(p => p.name.toLowerCase().includes(filter) || p.description.toLowerCase().includes(filter));
-                    displayProducts(filtered);
-                }
-            });
+    fetch('products.json')
+        .then(res => res.json())
+        .then(data => {
+            allProducts = data;
+            renderGrid(allProducts);
         });
 
-        window.onload = loadProducts;
-    </script>
+    function renderGrid(products) {
+        const grid = document.getElementById('productGrid');
+        grid.innerHTML = '';
+        products.forEach(p => {
+            // Eğer yeni JSON formatı yoksa çökmemesi için güvenlik kontrolü
+            const contentObj = p.content && p.content[currentLang] ? p.content[currentLang] : { usage: "Data pending...", props: "-", safety: "-" };
+            
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.onclick = () => openModal(p);
+            
+            // Kısa özet çıkart
+            let shortDesc = contentObj.usage.substring(0, 100) + '...';
+            
+            card.innerHTML = `
+                <img src="${p.image}" class="card-img" alt="${p.name}">
+                <div class="card-body">
+                    <div class="card-ref">Ref: ${p.id}</div>
+                    <h3 class="card-title">${p.name}</h3>
+                    <p style="font-size: 13px; color: #666; line-height: 1.5;">${shortDesc}</p>
+                </div>
+            `;
+            grid.appendChild(card);
+        });
+    }
+
+    function openModal(p) {
+        const contentObj = p.content && p.content[currentLang] ? p.content[currentLang] : { usage: "Data pending update...", props: "-", safety: "-" };
+        
+        document.getElementById('m-title').innerText = p.name;
+        document.getElementById('m-ref').innerText = `Ref: ${p.id} | Brand: ${p.brand}`;
+        
+        document.getElementById('lbl-props').innerText = labels[currentLang].props;
+        document.getElementById('m-props').innerText = contentObj.props || contentObj.properties || "-";
+        
+        document.getElementById('lbl-usage').innerText = labels[currentLang].usage;
+        document.getElementById('m-usage').innerText = contentObj.usage || "-";
+        
+        document.getElementById('lbl-safety').innerText = labels[currentLang].safety;
+        document.getElementById('m-safety').innerText = contentObj.safety || "-";
+        
+        const tagsDiv = document.getElementById('m-tags');
+        tagsDiv.innerHTML = '';
+        if(p.content && p.content.tags) {
+            p.content.tags.forEach(t => {
+                tagsDiv.innerHTML += `<span class="tag">#${t}</span>`;
+            });
+        }
+        
+        document.getElementById('productModal').style.display = 'block';
+    }
+
+    function closeModal() { document.getElementById('productModal').style.display = 'none'; }
+    window.onclick = function(event) { if (event.target == document.getElementById('productModal')) closeModal(); }
+
+    function changeLanguage() {
+        currentLang = document.getElementById('langSelector').value;
+        renderGrid(allProducts);
+        closeModal();
+    }
+
+    function filterProducts() {
+        const query = document.getElementById('searchBar').value.toLowerCase();
+        const filtered = allProducts.filter(p => 
+            p.name.toLowerCase().includes(query) || p.id.toLowerCase().includes(query)
+        );
+        renderGrid(filtered);
+    }
+</script>
+
 </body>
 </html>
