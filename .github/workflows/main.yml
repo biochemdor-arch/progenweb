@@ -1,0 +1,38 @@
+name: Chemdor 7/24 AI Cloud Motoru
+
+on:
+  push:
+    paths:
+      - 'Progen_Analitik_Fiyat_Listesi_2026_V2.xlsx' # Sadece bu Excel değiştiğinde çalışır
+  workflow_dispatch: # GitHub sitesinden manuel başlatabilmen için buton ekler
+
+permissions:
+  contents: write # Yapay zekanın ürettiği resimleri ve JSON'u siteye yazabilmesi için izin
+
+jobs:
+  ai-calistir:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dosyaları Sunucuya Çek
+        uses: actions/checkout@v4
+
+      - name: Python Ortamını Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerekli Kütüphaneleri Yükle
+        run: pip install pandas openpyxl pillow groq requests
+
+      - name: Yapay Zeka Ajanını Çalıştır
+        env:
+          GROQ_API_KEYS: ${{ secrets.GROQ_API_KEYS }} # Şifreyi GitHub Kasasından güvenle çeker
+        run: python3 ai_updater.py
+
+      - name: Yeni Üretilen Verileri Canlı Siteye Yükle
+        run: |
+          git config --global user.name "Chemdor AI Bot"
+          git config --global user.email "bot@chemdor.com"
+          git add static/images/products/* products.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "AI tarafından 3 dilli içerik ve logolu görseller eklendi"
+          git push origin main
