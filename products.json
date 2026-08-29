@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12595",
-    "name": "Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o      ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 284.9983,
-    "image": "static/images/products/chemdor_CHI_12595.png",
-    "brand": "Chemdor®",
-    "description": "Tetrabutylammonium hydroxide ~%40 sulu çözeltisi, faz transfer katalizörü olarak organik sentezlerde ve iyon değiştirme reaksiyonlarında yüksek verimlilik sağlar. Chemdor saflık standartlarına uygun olarak üretilen bu ürün, laboratuvar analizlerinde ve araştırmalarda tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve iyi havalandırılmış bir ortamda asitlerden uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12596",
-    "name": "Tetrabutylammonıum hydroxıde %40(metoh)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 55.062,
-    "image": "static/images/products/chemdor_CHI_12596.png",
-    "brand": "Chemdor®",
-    "description": "Tetrabutylammonium hydroxide %40 (metanol), yüksek saflıkta ve kimyasal olarak kararlı bir yapıya sahip olup, organik sentezlerde ve iyon değiştirme reaksiyonlarında etkili bir baz olarak kullanılır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar analizlerinde tutarlı ve güvenilir sonuçlar sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve iyi havalandırılmış bir ortamda, asitlerden uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12597",
-    "name": "2-thıobarbıturıc acıd ≥ 98%",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.1756,
-    "image": "static/images/products/chemdor_CHI_12597.png",
-    "brand": "Chemdor®",
-    "description": "2-tiyobarbitürik asit, DNA ve RNA'daki lipid peroksidasyon ürünlerinin tayininde kullanılan yüksek saflıkta (%98) bir kimyasal reaktiftir. Chemdor kalite standartlarına uygun olarak sunulan bu ürün, hassas spektrofotometrik analizler için güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük kullanılması, kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12598",
-    "name": "Tetrabutylammonıum dıhydrogen phosphate ≥ 99% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 182.8321,
-    "image": "static/images/products/chemdor_CHI_12598.png",
-    "brand": "Chemdor®",
-    "description": "Tetrabutylammonium dihydrogen phosphate, ≥99% ekstra saflıkta olup yüksek hassasiyetli analizler ve elektrokimyasal araştırmalar için ideal bir katyon değiştirici ajan olarak kullanılır. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, minimum impurite seviyesiyle güvenilir sonuçlar sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ürün kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12599",
-    "name": "Tetraethyl orthosılıcate 97.5%, for synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.9338,
-    "image": "static/images/products/chemdor_CHI_12599.png",
-    "brand": "Chemdor®",
-    "description": "Tetraethyl orthosilicate (TEOS), yüksek saflıkta (97.5%) sunulan bu ürün, sol-jel sentezi ve nano-materyal üretimi için ideal bir silikon kaynağıdır. Chemdor kalite standartlarına uygun olarak safsızlıklardan arındırılmış bu bileşik, hassas laboratuvar sentezlerinde güvenilir sonuçlar sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda tutmalıdır."
-  },
-  {
     "id": "CHI.12600",
     "name": "Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
     "specifications": "1 piece / pack",
@@ -6795,6 +6735,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12595",
+    "name": "Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o      ",
+    "price": 284.9983,
+    "image": "static/images/products/chemdor_CHI_12595.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tetrabutylammon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o      . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o       by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o       от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12596",
+    "name": "Tetrabutylammonıum hydroxıde %40(metoh)",
+    "price": 55.062,
+    "image": "static/images/products/chemdor_CHI_12596.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tetrabutylammon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tetrabutylammonıum hydroxıde %40(metoh). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tetrabutylammonıum hydroxıde %40(metoh) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tetrabutylammonıum hydroxıde %40(metoh) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12597",
+    "name": "2-thıobarbıturıc acıd ≥ 98%",
+    "price": 31.1756,
+    "image": "static/images/products/chemdor_CHI_12597.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 2-thıobarbıturı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 2-thıobarbıturıc acıd ≥ 98%. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 2-thıobarbıturıc acıd ≥ 98% by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 2-thıobarbıturıc acıd ≥ 98% от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12598",
+    "name": "Tetrabutylammonıum dıhydrogen phosphate ≥ 99% ekstra saf",
+    "price": 182.8321,
+    "image": "static/images/products/chemdor_CHI_12598.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tetrabutylammon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tetrabutylammonıum dıhydrogen phosphate ≥ 99% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tetrabutylammonıum dıhydrogen phosphate ≥ 99% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tetrabutylammonıum dıhydrogen phosphate ≥ 99% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12599",
+    "name": "Tetraethyl orthosılıcate 97.5%, for synthesıs",
+    "price": 28.9338,
+    "image": "static/images/products/chemdor_CHI_12599.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tetraethyl orth",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tetraethyl orthosılıcate 97.5%, for synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tetraethyl orthosılıcate 97.5%, for synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tetraethyl orthosılıcate 97.5%, for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
