@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12615",
-    "name": "Xylenes ≥98.5%, acs reagent",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.8988,
-    "image": "static/images/products/chemdor_CHI_12615.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %98.5 saflıkta Xylenes, ACS reagent standardına uygun olarak yüksek saflıkta sunulmakta olup, organik sentezlerde ve kimyasal analizlerde güvenilir bir çözücü olarak kullanılmaktadır. Bu ürün, laboratuvar uygulamalarında tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Bu kimyasalın manipülasyonu sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü giyilmeli; ayrıca havalandırmalı bir ortamda, ateş kaynaklarından uzakta ve orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12616",
-    "name": "Zınc acetate dıhydrate ≥ 99.5% , analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.6104,
-    "image": "static/images/products/chemdor_CHI_12616.png",
-    "brand": "Chemdor®",
-    "description": "Zinc acetate dihydrate, ≥99.5% analitik saflıkta (ACS) olup kimyasal sentezlerde, biyokimyasal analizlerde ve katalizör uygulamalarında yüksek performans sağlar. Chemdor markası, ürünün laboratuvar standartlarına uygunluğunu ve güvenilirliğini garanti eder.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün kuru, serin ve havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12617",
-    "name": "Zınc chlorıde analitik saflık ≥ 98%, acs,ıso,reagent ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 62.2987,
-    "image": "static/images/products/chemdor_CHI_12617.png",
-    "brand": "Chemdor®",
-    "description": "Zinc chloride, analitik saflıkta (≥ %98) ve ACS, ISO, Reagent Ph.Eur standartlarına uygun olarak laboratuvar analizlerinde, katalizör olarak veya kimyasal sentezlerde yüksek güvenilirlikle kullanılır. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, hassas deneyler için tutarlı ve saf bir performans sunar.",
-    "safety": "Hidrojen klorür buharı açığa çıkarabileceğinden, nitril eldiven, kimyasal sızdırmaz gözlük ve uygun havalandırmalı ortamda çalışılmalı; kuru, serin ve asitlere dayanıklı kaplarda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12618",
-    "name": "Zınc sulfate heptahydrate ≥ 99% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.4953,
-    "image": "static/images/products/chemdor_CHI_12618.png",
-    "brand": "Chemdor®",
-    "description": "Zinc sulfate heptahydrate ≥ 99% ekstra saf, Chemdor'un titiz kalite kontrol süreçlerinden geçerek en yüksek saflık standardında sunulmaktadır. Bu yüksek saflıktaki kimyasal, analitik kimya deneyleri, biyokimyasal analizler ve hassas laboratuvar uygulamaları için ideal bir reaktif olarak kullanılır. Ürün, 1 piece/pack formatında, kontaminasyondan arındırılmış ve doğrudan kullanıma hazır şekilde paketlenmiştir.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için uygun eldiven, gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve iyi havalandırılmış bir ortamda orijinal kapalı ambalajında saklamalısınız."
-  },
-  {
-    "id": "CHI.12619",
-    "name": "Zınc sulfate heptahydrate ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.5711,
-    "image": "static/images/products/chemdor_CHI_12619.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Zınc Sülfat Heptahidrat, ≥%99.5 analitik saflıkta olup ACS, ISO ve Reag. Ph. Eur. standartlarına uygun olarak laboratuvar analizleri ve kimyasal sentezlerde yüksek güvenilirlik sağlar. Bu ürün, hassas deneysel çalışmalar için ideal bir referans maddesi olarak öne çıkar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü kullanılması ile kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklanması önerilir."
-  },
-  {
     "id": "CHI.12345",
     "name": "Ph tampon çözeltisi - ph 4 - özel kilitli çift boyunlu şişe - 500 ml",
     "price": 10.6584,
@@ -7075,6 +7015,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Wrıght’s staın, for mıcroscopıcal staınıng от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12615",
+    "name": "Xylenes ≥98.5%, acs reagent",
+    "price": 34.8988,
+    "image": "static/images/products/chemdor_CHI_12615.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Xylenes ≥98.5%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Xylenes ≥98.5%, acs reagent. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Xylenes ≥98.5%, acs reagent by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Xylenes ≥98.5%, acs reagent от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12616",
+    "name": "Zınc acetate dıhydrate ≥ 99.5% , analitik saflık acs",
+    "price": 34.6104,
+    "image": "static/images/products/chemdor_CHI_12616.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Zınc acetate dı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Zınc acetate dıhydrate ≥ 99.5% , analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Zınc acetate dıhydrate ≥ 99.5% , analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Zınc acetate dıhydrate ≥ 99.5% , analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12617",
+    "name": "Zınc chlorıde analitik saflık ≥ 98%, acs,ıso,reagent ph.eur",
+    "price": 62.2987,
+    "image": "static/images/products/chemdor_CHI_12617.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Zınc chlorıde a",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Zınc chlorıde analitik saflık ≥ 98%, acs,ıso,reagent ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Zınc chlorıde analitik saflık ≥ 98%, acs,ıso,reagent ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Zınc chlorıde analitik saflık ≥ 98%, acs,ıso,reagent ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12618",
+    "name": "Zınc sulfate heptahydrate ≥ 99% ekstra saf",
+    "price": 26.4953,
+    "image": "static/images/products/chemdor_CHI_12618.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Zınc sulfate he",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Zınc sulfate heptahydrate ≥ 99% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Zınc sulfate heptahydrate ≥ 99% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Zınc sulfate heptahydrate ≥ 99% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12619",
+    "name": "Zınc sulfate heptahydrate ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 34.5711,
+    "image": "static/images/products/chemdor_CHI_12619.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Zınc sulfate he",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Zınc sulfate heptahydrate ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Zınc sulfate heptahydrate ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Zınc sulfate heptahydrate ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
