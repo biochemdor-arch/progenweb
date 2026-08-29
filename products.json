@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12570",
-    "name": "Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.2877,
-    "image": "static/images/products/chemdor_CHI_12570.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı susuz sodyum asetat, ≥ %99 analitik saflıkta (ACS, Reag. Ph. Eur.) olup hassas kimyasal analizler ve tampon çözelti hazırlamada yüksek performans sunar. Bu ürün, laboratuvar standartlarına tam uyumlu, safsızlıklardan arındırılmış bir kalitede sunulmaktadır.",
-    "safety": "Çalışma sırasında tozunu solumamak için uygun maske ve eldiven kullanmalı, ürünü kuru, serin ve iyi havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12571",
-    "name": "Dı-sodıum hydrogen phosphate dıhydrate ≥ 98%, ph eur,bp,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.4217,
-    "image": "static/images/products/chemdor_CHI_12571.png",
-    "brand": "Chemdor®",
-    "description": "Dı-sodıum hydrogen phosphate dıhydrate, ≥98% saflıkta olup Eur, BP ve USP standartlarına uygun olarak yüksek kalitede üretilmiştir. Kimyasal analizlerde tampon çözelti hazırlama, pH ayarlaması ve çeşitli biyokimyasal reaksiyonlarda temel reaktif olarak güvenle kullanılabilir. Chemdor'un titiz kalite kontrol süreçleri, her partide tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Çalışma sırasında tozdan kaçınmak için uygun eldiven, gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru ve serin bir ortamda orijinal ambalajında muhafaza etmelisiniz."
-  },
-  {
-    "id": "CHI.12572",
-    "name": "Sodıum hydroxıde 0,01 mol/l (0,01 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.1209,
-    "image": "static/images/products/chemdor_CHI_12572.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 0,01 mol/l Sodyum Hidroksit, titrasyonlar ve hassas pH ayarlamaları için yüksek saflıkta ve standartlaştırılmış bir çözüktür. Laboratuvar ortamlarında güvenilir sonuçlar elde etmek amacıyla titizlikle hazırlanmış olup, kimyasal analizlerde referans birim olarak kullanılır.",
-    "safety": "Çalışma sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı, çözelti hava ile temasını önlemek için sıkı kapalı, alkali dayanıklı bir kapta serin ve kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12573",
-    "name": "Sodıum hydroxıde 0,1 mol/l (0,1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.464,
-    "image": "static/images/products/chemdor_CHI_12573.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 0,1 mol/l sodyum hidroksit çözeltisi, asit-baz titrasyonları ve pH kalibrasyonu gibi hassas analitik işlemler için yüksek saflıkta ve standartize edilmiş olarak sunulmaktadır. Laboratuvar ortamında güvenilir sonuçlar elde etmek amacıyla titizlikle hazırlanan bu çözelti, kimyasal analizlerde referans standardı olarak kullanılmaya uygundur.",
-    "safety": "Bu kimyasal ile çalışırken kimyasal sızdırmaz eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; çözelti serin, kuru ve asitlerden uzak bir ortamda, orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12574",
-    "name": "Sodıum hydroxıde 1 mol/l (1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.464,
-    "image": "static/images/products/chemdor_CHI_12574.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 1 mol/l Sodyum Hidroksit, titrasyonlar ve pH ayarlamaları için yüksek saflıkta ve hassas laboratuvar analizlerinde güvenle kullanılmak üzere hazırlanmıştır. Ürün, tutarlı konsantrasyonu ve minimum kontaminasyon oranıyla kimyasal reaksiyonlarda güvenilir bir baz kaynağı sunar.",
-    "safety": "Bu kimyasal ile çalışırken mutlaka asit baz dayanımlı eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanmalı, ürünü orijinal kapalı ambalajında serin ve kuru bir ortamda saklamalısınız."
-  },
-  {
     "id": "CHI.12575",
     "name": "Sodıum thıosulphate 0,1 mol/l (0,1 n)",
     "specifications": "1 piece / pack",
@@ -6445,6 +6385,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum thıosulfate susuz kalite ≥ 98% от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12570",
+    "name": "Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur.",
+    "price": 29.2877,
+    "image": "static/images/products/chemdor_CHI_12570.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum acetate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12571",
+    "name": "Dı-sodıum hydrogen phosphate dıhydrate ≥ 98%, ph eur,bp,usp",
+    "price": 21.4217,
+    "image": "static/images/products/chemdor_CHI_12571.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dı-sodıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dı-sodıum hydrogen phosphate dıhydrate ≥ 98%, ph eur,bp,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dı-sodıum hydrogen phosphate dıhydrate ≥ 98%, ph eur,bp,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dı-sodıum hydrogen phosphate dıhydrate ≥ 98%, ph eur,bp,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12572",
+    "name": "Sodıum hydroxıde 0,01 mol/l (0,01 n)",
+    "price": 10.1209,
+    "image": "static/images/products/chemdor_CHI_12572.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydroxıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydroxıde 0,01 mol/l (0,01 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydroxıde 0,01 mol/l (0,01 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydroxıde 0,01 mol/l (0,01 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12573",
+    "name": "Sodıum hydroxıde 0,1 mol/l (0,1 n)",
+    "price": 13.464,
+    "image": "static/images/products/chemdor_CHI_12573.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydroxıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydroxıde 0,1 mol/l (0,1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydroxıde 0,1 mol/l (0,1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydroxıde 0,1 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12574",
+    "name": "Sodıum hydroxıde 1 mol/l (1 n)",
+    "price": 13.464,
+    "image": "static/images/products/chemdor_CHI_12574.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydroxıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydroxıde 1 mol/l (1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydroxıde 1 mol/l (1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydroxıde 1 mol/l (1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
