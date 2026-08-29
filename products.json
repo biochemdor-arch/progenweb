@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12445",
-    "name": "Glycıne ≥ 98.5% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 32.3948,
-    "image": "static/images/products/chemdor_CHI_12445.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %98.5 saflıktaki glisin, yüksek saflık gerektiren biyokimyasal analizler, peptit sentezi ve tampon hazırlama gibi hassas laboratuvar uygulamaları için idealdir. Ekstra saf kalitesi, deney sonuçlarında yüksek tekrarlanabilirlik ve güvenilirlik sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, ürün kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12446",
-    "name": "Glycıne ≥ 99.0% ph.eur. , bp , jp , usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.7196,
-    "image": "static/images/products/chemdor_CHI_12446.png",
-    "brand": "Chemdor®",
-    "description": "Glycine ≥ 99.0% ph.eur., bp, jp, usp kalitesindeki bu ürün, yüksek saflık standardıyla kimyasal sentez, biyokimyasal analiz ve farmasötik formülasyonlar için idealdir. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu glisin, laboratuvar çalışmalarında tutarlı ve güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun eldiven ve gözlük kullanılması, ürünün kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12447",
-    "name": "Glycıne ≥ 99.0% ph.eur. , bp , jp , usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 62.1545,
-    "image": "static/images/products/chemdor_CHI_12447.png",
-    "brand": "Chemdor®",
-    "description": "Glycine ≥ 99.0% ph.eur., bp, jp, usp kalitesindeki bu ürün, biyokimyasal analizler, tampon hazırlama ve ilaç formülasyonlarında yüksek saflık gerektiren kritik uygulamalar için idealdir. Chemdor'un titiz kalite kontrol süreçleri sayesinde, uluslararası farmakope standartlarına tam uyumlu ve güvenilir bir saflık seviyesi sunar.",
-    "safety": "Kullanım sırasında toz solumayı önlemek için uygun eldiven ve gözlük takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12448",
-    "name": "Glycıne ≥ 99.7% gr analitik saflık",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.1603,
-    "image": "static/images/products/chemdor_CHI_12448.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %99.7 saflıktaki glisin, analitik kimya laboratuvarlarında hassas titrasyonlar, tampon çözelti hazırlama ve biyokimyasal analizler için ideal bir referans standardıdır. Yüksek saflık derecesi, deneysel sonuçların tekrarlanabilirliğini ve doğruluğunu garanti altına alarak kritik laboratuvar uygulamalarında güvenilir bir performans sunar.",
-    "safety": "Kullanım sırasında toz solumayı önlemek için toz maskesi ve eldiven takılmalı, kimyasal kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12449",
-    "name": "Gliserol ≥ 99 % ph.eur,fcc",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 17.8296,
-    "image": "static/images/products/chemdor_CHI_12449.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Gliserol, ≥%99 saflıkta olup Farmakope (Ph.Eur.) ve FCC standartlarına uygun olarak laboratuvarlarda çözücü, nemlendirici ve reaktif ortamlar için yüksek performanslı bir bileşen olarak kullanılır. Bu ürün, titiz kalite kontrol süreçlerinden geçerek analiz ve sentez çalışmaları için güvenilir bir saflık seviyesi sunar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda orijinal kapaklı şişesinde saklamalısınız."
-  },
-  {
     "id": "CHI.12450",
     "name": "N-heptane ≥ 98%, ekstra saf",
     "specifications": "1 piece / pack",
@@ -4695,6 +4635,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Gliserol %85 ph eur,bp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12445",
+    "name": "Glycıne ≥ 98.5% ekstra saf",
+    "price": 32.3948,
+    "image": "static/images/products/chemdor_CHI_12445.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Glycıne ≥ 98.5%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Glycıne ≥ 98.5% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Glycıne ≥ 98.5% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Glycıne ≥ 98.5% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12446",
+    "name": "Glycıne ≥ 99.0% ph.eur. , bp , jp , usp",
+    "price": 22.7196,
+    "image": "static/images/products/chemdor_CHI_12446.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Glycıne ≥ 99.0%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Glycıne ≥ 99.0% ph.eur. , bp , jp , usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Glycıne ≥ 99.0% ph.eur. , bp , jp , usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Glycıne ≥ 99.0% ph.eur. , bp , jp , usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12447",
+    "name": "Glycıne ≥ 99.0% ph.eur. , bp , jp , usp",
+    "price": 62.1545,
+    "image": "static/images/products/chemdor_CHI_12447.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Glycıne ≥ 99.0%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Glycıne ≥ 99.0% ph.eur. , bp , jp , usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Glycıne ≥ 99.0% ph.eur. , bp , jp , usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Glycıne ≥ 99.0% ph.eur. , bp , jp , usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12448",
+    "name": "Glycıne ≥ 99.7% gr analitik saflık",
+    "price": 28.1603,
+    "image": "static/images/products/chemdor_CHI_12448.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Glycıne ≥ 99.7%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Glycıne ≥ 99.7% gr analitik saflık. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Glycıne ≥ 99.7% gr analitik saflık by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Glycıne ≥ 99.7% gr analitik saflık от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12449",
+    "name": "Gliserol ≥ 99 % ph.eur,fcc",
+    "price": 17.8296,
+    "image": "static/images/products/chemdor_CHI_12449.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Gliserol ≥ 99 %",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Gliserol ≥ 99 % ph.eur,fcc. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Gliserol ≥ 99 % ph.eur,fcc by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Gliserol ≥ 99 % ph.eur,fcc от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
