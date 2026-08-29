@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12475",
-    "name": "Malachıte green, (c.ı. 42000) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 9.8456,
-    "image": "static/images/products/chemdor_CHI_12475.png",
-    "brand": "Chemdor®",
-    "description": "Malachite Green (CI 42000), mikroskopi çalışmalarında hücrelerin ve dokuların seçici boyanması için yüksek saflıkta kullanılan bir kimyasal boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, net ve tutarlı mikroskopik görüntüler elde etmek için idealdir.",
-    "safety": "Kullanım sırasında eldiven ve gözlük takılmalı, ürün kuru, serin ve ışıktan korunaklı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12476",
-    "name": "May and grunwald’s staın, for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.1799,
-    "image": "static/images/products/chemdor_CHI_12476.png",
-    "brand": "Chemdor®",
-    "description": "May-Grünwald boyası, özellikle Giardia ve Cryptosporidium gibi parazitlerin mikroskobik tespitinde kullanılan yüksek saflıkta bir kimyasal reaktiftir. Chemdor kalite standartlarında üretilen bu ürün, histolojik ve parazitolojik incelemelerde net ve güvenilir sonuçlar sağlar.",
-    "safety": "Kullanım sırasında eldiven ve gözlük takılmalı, ürün serin, kuru ve ışıktan uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12477",
-    "name": "Mercury(ıı) chlorıde ≥ 99.5%, analitik saflık reag. ph eur,acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 469.6789,
-    "image": "static/images/products/chemdor_CHI_12477.png",
-    "brand": "Chemdor®",
-    "description": "Mercury(II) chloride, ≥99.5% analitik saflıkta (reag. ph eur, acs) sunularak hassas kimyasal analizler ve kalite kontrol testleri için ideal bir referans standardıdır. Chemdor'un titiz saflık garantisi, bu kritik kimyasalın laboratuvar ortamlarında yüksek doğruluk ve tekrarlanabilirlik sunmasını sağlar.",
-    "safety": "Bu son derece toksik ve karsinojen maddeyi manipüle ederken uygun kimyasal eldiven, gaz maskesi ve koruyucu gözlük kullanılması ile kuru, serin ve iyi havalandırılmış bir ortamda saklanması zorunludur."
-  },
-  {
-    "id": "CHI.12478",
-    "name": "Mercury(ıı) sulfate  ≥ 99%, analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 239.9261,
-    "image": "static/images/products/chemdor_CHI_12478.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Cıva(II) sülfat, analitik saflıkta (ACS) ve %99'dan yüksek saflıkta sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, titrasyonlar ve referans standartları gerektiren laboratuvar uygulamaları için idealdir. Ürün, güvenilir sonuçlar ve tekrarlanabilirlik arayan profesyonel kimyagerler için tasarlanmıştır.",
-    "safety": "Bu kimyasal toksik ve çevre için tehlikeli olduğundan, manipülasyon sırasında nitril eldiven, kimyasal sızıntıya dayanıklı önlük ve göz koruyucu kullanılması ile kuru, serin ve iyi havalandırılmış bir dolapta, çocuklardan uzak tutulması gerekmektedir."
-  },
-  {
-    "id": "CHI.12479",
-    "name": "Methylene chlorıde ≥ 99.5%, ekstra saf ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.2914,
-    "image": "static/images/products/chemdor_CHI_12479.png",
-    "brand": "Chemdor®",
-    "description": "Methylene chloride ≥ 99.5%, ekstra saf kalitesi, hassas analitik işlemler ve yüksek saflık gerektiren sentezler için idealdir. Chemdor'un titiz saflık standartları, bu solventin laboratuvar uygulamalarında güvenilir ve tutarlı performans göstermesini sağlar.",
-    "safety": "Bu kimyasal ile çalışırken uygun kimyasal dayanıklı eldivenler, gözlük ve havalandırmalı bir ortamda (duman çekmecesi) çalışılmalı; ayrıca serin, kuru ve iyi havalandırılmış bir alanda saklanmalıdır."
-  },
-  {
     "id": "CHI.12480",
     "name": "Methyl blue, (c.ı.42780) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -5115,6 +5055,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12475",
+    "name": "Malachıte green, (c.ı. 42000) for mıcroscopy",
+    "price": 9.8456,
+    "image": "static/images/products/chemdor_CHI_12475.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Malachıte green",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Malachıte green, (c.ı. 42000) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Malachıte green, (c.ı. 42000) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Malachıte green, (c.ı. 42000) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12476",
+    "name": "May and grunwald’s staın, for mıcroscopy",
+    "price": 19.1799,
+    "image": "static/images/products/chemdor_CHI_12476.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: May and grunwal",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta May and grunwald’s staın, for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity May and grunwald’s staın, for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт May and grunwald’s staın, for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12477",
+    "name": "Mercury(ıı) chlorıde ≥ 99.5%, analitik saflık reag. ph eur,acs",
+    "price": 469.6789,
+    "image": "static/images/products/chemdor_CHI_12477.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Mercury(ıı) chl",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Mercury(ıı) chlorıde ≥ 99.5%, analitik saflık reag. ph eur,acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Mercury(ıı) chlorıde ≥ 99.5%, analitik saflık reag. ph eur,acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Mercury(ıı) chlorıde ≥ 99.5%, analitik saflık reag. ph eur,acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12478",
+    "name": "Mercury(ıı) sulfate  ≥ 99%, analitik saflık acs",
+    "price": 239.9261,
+    "image": "static/images/products/chemdor_CHI_12478.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Mercury(ıı) sul",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Mercury(ıı) sulfate  ≥ 99%, analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Mercury(ıı) sulfate  ≥ 99%, analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Mercury(ıı) sulfate  ≥ 99%, analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12479",
+    "name": "Methylene chlorıde ≥ 99.5%, ekstra saf ",
+    "price": 28.2914,
+    "image": "static/images/products/chemdor_CHI_12479.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Methylene chlor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Methylene chlorıde ≥ 99.5%, ekstra saf . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Methylene chlorıde ≥ 99.5%, ekstra saf  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Methylene chlorıde ≥ 99.5%, ekstra saf  от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
