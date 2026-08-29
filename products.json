@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12590",
-    "name": "Succınıc acıd ≥ 97% analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.5769,
-    "image": "static/images/products/chemdor_CHI_12590.png",
-    "brand": "Chemdor®",
-    "description": "Succinik asit, ≥%97 analitik saflıkta ve ACS standartlarına uygun olarak, kimyasal sentezlerde ara madde, polimer üretiminde monomer ve pH ayarlayıcı olarak yüksek performansla kullanılmaktadır. Chemdor markası, laboratuvar analizlerinde güvenilir sonuçlar elde etmek için titiz kalite kontrol süreçlerinden geçirilmiş, yüksek saflıkta bir ürün sunmaktadır.",
-    "safety": "Çalışma sırasında gözlük, eldiven ve laboratuvar önlüğü giyilmeli; ürün kuru, serin ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12591",
-    "name": "Sulphanılamıde 99% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 35.869,
-    "image": "static/images/products/chemdor_CHI_12591.png",
-    "brand": "Chemdor®",
-    "description": "Sulphanilamide %99 ekstra saflıkta, kimyasal sentezlerde ve farmasötik araştırmalarda yüksek verimlilik sağlayan güvenilir bir bileşiktir. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, laboratuvar uygulamalarında tutarlı ve tekrarlanabilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; kimyasal, serin, kuru ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak şekilde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12592",
-    "name": "Sudan ııı, (c.ı.26100) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.2258,
-    "image": "static/images/products/chemdor_CHI_12592.png",
-    "brand": "Chemdor®",
-    "description": "Sudan III, mikroskopi çalışmalarında özellikle yağ asitleri ve lipidlerin spesifik boyanması için kullanılan yüksek saflukta bir kimyasal boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, mikroskopik incelemelerde net ve keskin sonuçlar elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, kimyasal kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12593",
-    "name": "Tartrazıne, (c.ı.19140) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 6.3059,
-    "image": "static/images/products/chemdor_CHI_12593.png",
-    "brand": "Chemdor®",
-    "description": "Tartrazine (C.I. 19140), mikroskopi uygulamalarında hücre yapılarını net bir şekilde ayırt etmeyi sağlayan yüksek saflıkta bir asit-turuncu boya olarak kullanılır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar analizlerinde tutarlı ve güvenilir sonuçlar elde etmek için idealdir.",
-    "safety": "Kullanım sırasında eldiven ve gözlük takılmalı, kuru ve serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12594",
-    "name": "Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 35.9607,
-    "image": "static/images/products/chemdor_CHI_12594.png",
-    "brand": "Chemdor®",
-    "description": "Tetra-n-butylammonıum hydrogen sulfate, iyon çifti kromatografisi (IPC) analizlerinde yüksek saflık gerektiren kritik bir iyon çifti reaktifi olarak kullanılır. Chemdor markası, %99.0 ve üzeri saflık garantisiyle kromatografik verilerde yüksek çözünürlük ve tekrarlanabilirlik sağlar. Bu ürün, hassas laboratuvar uygulamaları için optimize edilmiş yüksek performanslı bir kimyasaldır.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için uygun eldiven, gözlük ve laboratuvar önlüğü giyilmeli; kimyasal, kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12595",
     "name": "Tetrabutylammonıum hydroxıde çözeltisi   ~40% ın h2o      ",
     "specifications": "1 piece / pack",
@@ -6725,6 +6665,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sucrose ph.eur,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12590",
+    "name": "Succınıc acıd ≥ 97% analitik saflık acs",
+    "price": 18.5769,
+    "image": "static/images/products/chemdor_CHI_12590.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Succınıc acıd ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Succınıc acıd ≥ 97% analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Succınıc acıd ≥ 97% analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Succınıc acıd ≥ 97% analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12591",
+    "name": "Sulphanılamıde 99% ekstra saf",
+    "price": 35.869,
+    "image": "static/images/products/chemdor_CHI_12591.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sulphanılamıde ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sulphanılamıde 99% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sulphanılamıde 99% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sulphanılamıde 99% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12592",
+    "name": "Sudan ııı, (c.ı.26100) for mıcroscopy",
+    "price": 10.2258,
+    "image": "static/images/products/chemdor_CHI_12592.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sudan ııı, (c.ı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sudan ııı, (c.ı.26100) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sudan ııı, (c.ı.26100) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sudan ııı, (c.ı.26100) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12593",
+    "name": "Tartrazıne, (c.ı.19140) for mıcroscopy",
+    "price": 6.3059,
+    "image": "static/images/products/chemdor_CHI_12593.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tartrazıne, (c.",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tartrazıne, (c.ı.19140) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tartrazıne, (c.ı.19140) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tartrazıne, (c.ı.19140) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12594",
+    "name": "Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography",
+    "price": 35.9607,
+    "image": "static/images/products/chemdor_CHI_12594.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Tetra-n-butylam",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Tetra-n-butylammonıum hydrogen sulfate ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
