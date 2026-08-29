@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12460",
-    "name": "Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur. ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 51.4699,
-    "image": "static/images/products/chemdor_CHI_12460.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %40 saflıkta hidroflorik asit, reaktif izo ve reaktif Ph. Eur. standartlarına uygun yüksek saflıkta sunulmaktadır. Bu kimyasal, cam işleme, metal pasivasyonu ve ileri düzey analitik kimya uygulamalarında kritik bir rol oynamaktadır. Laboratuvar ortamında maksimum verimlilik ve güvenilirlik için titiz kalite kontrol süreçlerinden geçirilmiştir.",
-    "safety": "Kullanım sırasında asit dayanımlı eldiven, tam yüz koruyucu gözlük ve kimyasal önlük takılmalı, ürün serin, kuru ve havalandırmalı bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12461",
-    "name": "Hydrogen peroxıde 35% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 30.5987,
-    "image": "static/images/products/chemdor_CHI_12461.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %35 ekstra saf hidrojen peroksit, yüksek saflık standardıyla laboratuvar analizleri, sentez reaksiyonları ve oksidasyon işlemleri için idealdir. Ekstra saf kalitesi, hassas deneylerde minimum kontaminasyon riski sunarak güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Bu kimyasal ile çalışırken asit baz dayanıklı eldiven, kimyasal gözlük ve önlük takılmalı; ürün serin, karanlık ve havalandırmalı bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12462",
-    "name": "Hidroklorik asit 0,1 mol/l (0,1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 12.5725,
-    "image": "static/images/products/chemdor_CHI_12462.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Hidroklorik Asit 0,1 mol/l, titrasyon ve pH kalibrasyonu gibi hassas analitik işlemler için yüksek saflıkta hazırlanmış standart bir çözüktür. Laboratuvar ortamlarında güvenilir sonuçlar elde etmek amacıyla titizlikle üretilmiştir.",
-    "safety": "Kullanım sırasında asit dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı, ürün serin, kuru ve havalandırmalı bir dolapta saklanmalıdır."
-  },
-  {
-    "id": "CHI.12463",
-    "name": "Hidroklorik asit 0,5 mol/l (0,5 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 12.5725,
-    "image": "static/images/products/chemdor_CHI_12463.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Hidroklorik Asit 0,5 mol/l, laboratuvar analizlerinde ve çözelti hazırlamada yüksek saflıkta ve tutarlılıkta bir standart olarak kullanılır. Bu ürün, hassas kimyasal reaksiyonlar ve titrasyon işlemleri için güvenilir bir temel sağlar.",
-    "safety": "Kullanım sırasında asit dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı, kimyasal buharlardan uzakta ve orijinal kapağı sıkıca kapatılmış halde serin, kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12464",
-    "name": "Hidroklorik asit 1 mol/l (1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 12.5725,
-    "image": "static/images/products/chemdor_CHI_12464.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 1 mol/l Hidroklorik Asit, laboratuvar ortamlarında hassas pH ayarlamaları, mineral çözündürme işlemleri ve çeşitli analitik prosedürler için yüksek saflıkta formüle edilmiştir. Bu ürün, titrasyon ve kimyasal analizlerde tutarlı sonuçlar alabilmek için titiz kalite kontrol standartlarına uygun olarak hazırlanmıştır.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, koruyucu gözlük ve önlük takılması ile havalandırmalı bir dolapta veya asit dayanıklı raf üzerinde saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12465",
     "name": "Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
     "specifications": "1 piece / pack",
@@ -4905,6 +4845,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12460",
+    "name": "Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur. ",
+    "price": 51.4699,
+    "image": "static/images/products/chemdor_CHI_12460.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hydrofluorıc ac",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur. . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur.  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur.  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12461",
+    "name": "Hydrogen peroxıde 35% ekstra saf",
+    "price": 30.5987,
+    "image": "static/images/products/chemdor_CHI_12461.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hydrogen peroxı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hydrogen peroxıde 35% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hydrogen peroxıde 35% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hydrogen peroxıde 35% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12462",
+    "name": "Hidroklorik asit 0,1 mol/l (0,1 n)",
+    "price": 12.5725,
+    "image": "static/images/products/chemdor_CHI_12462.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit 0,1 mol/l (0,1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit 0,1 mol/l (0,1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit 0,1 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12463",
+    "name": "Hidroklorik asit 0,5 mol/l (0,5 n)",
+    "price": 12.5725,
+    "image": "static/images/products/chemdor_CHI_12463.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit 0,5 mol/l (0,5 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit 0,5 mol/l (0,5 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit 0,5 mol/l (0,5 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12464",
+    "name": "Hidroklorik asit 1 mol/l (1 n)",
+    "price": 12.5725,
+    "image": "static/images/products/chemdor_CHI_12464.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit 1 mol/l (1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit 1 mol/l (1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit 1 mol/l (1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
