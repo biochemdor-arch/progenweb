@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12420",
-    "name": "Dıbutyl phthalate ≥99.0%",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 51.6796,
-    "image": "static/images/products/chemdor_CHI_12420.png",
-    "brand": "Chemdor®",
-    "description": "Dibutil ftalat, ≥%99.0 saflıkta olup kimyasal sentezlerde ve polimer endüstrisinde yaygın olarak kullanılan bir plastikleştiricidir. Chemdor kalite standartlarına uygun olarak yüksek saflıkta sunulan bu ürün, laboratuvar araştırmalarında güvenilir bir referans maddesi olarak hizmet verir. Tekli paketleme formatı, küçük ölçekli deneylerde hassas dozajlama ve ekonomik kullanım imkanı sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12421",
-    "name": "Dodecyl sulfate sodıum salt ≥99.0% acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 50.0933,
-    "image": "static/images/products/chemdor_CHI_12421.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Dodecyl sulfate sodyum tuzu, %99.0'dan yüksek saflıkta ve ACS standardına uygun olarak laboratuvarlarda yüzey aktif madde araştırmaları ve emülsiyon stabilizasyonu için idealdir. Yüksek saflık derecesi, hassas kimyasal analizlerde ve formülasyon çalışmalarında tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve havalandırmalı bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12422",
-    "name": "Eosın alcohol soluble,( c.ı.no.45386) for mıcroscopıcal staınıng",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.6453,
-    "image": "static/images/products/chemdor_CHI_12422.png",
-    "brand": "Chemdor®",
-    "description": "Eosin alcohol soluble, histolojik ve mikrobiyolojik preparatlarda kontrast sağlama amacıyla kullanılan yüksek saflıkta bir asidik boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, mikroskopik incelemede net ve tutarlı sonuçlar almanızı sağlar.",
-    "safety": "Kullanım sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün, ışıktan korunarak serin ve kuru bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12423",
-    "name": "Eosın blue, (c.ı.45400) for mıcroscopy ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 11.3533,
-    "image": "static/images/products/chemdor_CHI_12423.png",
-    "brand": "Chemdor®",
-    "description": "Eosin Blue (C.I. 45400), histolojik kesitlerde hücre sitoplazmasını ve kollajen liflerini kırmızımsı-pembe tonlarda boyamak için kullanılan yüksek saflıkta bir asit boyasıdır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, mikroskobik incelemelerde net kontrast ve tutarlı sonuçlar elde etmek amacıyla laboratuvarlarda tercih edilir.",
-    "safety": "Çalışma sırasında tozunu solumamak için uygun maske, göz ve cilt temasını önlemek için eldiven ve gözlük kullanmalı; ürünü kuru, serin ve karanlık bir ortamda orijinal ambalajında saklamalısınız."
-  },
-  {
-    "id": "CHI.12424",
-    "name": "Eosın yellow, (c.ı. 45380) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.464,
-    "image": "static/images/products/chemdor_CHI_12424.png",
-    "brand": "Chemdor®",
-    "description": "Eosin Yellow (CI 45380), histolojik kesitlerde çekirdek dışı yapıları ve bağ dokusunu kırmızımsı-pembe tonlarda boyamak için kullanılan yüksek saflıkta bir asidik boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, mikroskobik incelemelerde net kontrast ve tutarlı sonuçlar sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün kuru, serin ve ışıktan korunaklı bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12425",
     "name": "Ethyl acetate ≥ 99.5%, ph. eur., bp, nf",
     "specifications": "1 piece / pack",
@@ -4345,6 +4285,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12420",
+    "name": "Dıbutyl phthalate ≥99.0%",
+    "price": 51.6796,
+    "image": "static/images/products/chemdor_CHI_12420.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dıbutyl phthala",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dıbutyl phthalate ≥99.0%. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dıbutyl phthalate ≥99.0% by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dıbutyl phthalate ≥99.0% от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12421",
+    "name": "Dodecyl sulfate sodıum salt ≥99.0% acs",
+    "price": 50.0933,
+    "image": "static/images/products/chemdor_CHI_12421.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dodecyl sulfate",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dodecyl sulfate sodıum salt ≥99.0% acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dodecyl sulfate sodıum salt ≥99.0% acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dodecyl sulfate sodıum salt ≥99.0% acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12422",
+    "name": "Eosın alcohol soluble,( c.ı.no.45386) for mıcroscopıcal staınıng",
+    "price": 10.6453,
+    "image": "static/images/products/chemdor_CHI_12422.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Eosın alcohol s",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Eosın alcohol soluble,( c.ı.no.45386) for mıcroscopıcal staınıng. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Eosın alcohol soluble,( c.ı.no.45386) for mıcroscopıcal staınıng by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Eosın alcohol soluble,( c.ı.no.45386) for mıcroscopıcal staınıng от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12423",
+    "name": "Eosın blue, (c.ı.45400) for mıcroscopy ",
+    "price": 11.3533,
+    "image": "static/images/products/chemdor_CHI_12423.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Eosın blue, (c.",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Eosın blue, (c.ı.45400) for mıcroscopy . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Eosın blue, (c.ı.45400) for mıcroscopy  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Eosın blue, (c.ı.45400) for mıcroscopy  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12424",
+    "name": "Eosın yellow, (c.ı. 45380) for mıcroscopy",
+    "price": 13.464,
+    "image": "static/images/products/chemdor_CHI_12424.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Eosın yellow, (",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Eosın yellow, (c.ı. 45380) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Eosın yellow, (c.ı. 45380) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Eosın yellow, (c.ı. 45380) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
