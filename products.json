@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12410",
-    "name": "Congo red ındıcator, (c.ı. 22120) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 9.8063,
-    "image": "static/images/products/chemdor_CHI_12410.png",
-    "brand": "Chemdor®",
-    "description": "Congo Red (CI 22120), mikroskopi uygulamalarında yüksek kontrast ve netlik sağlayan, Chemdor'un titiz saflık standartlarına uygun olarak üretilmiş bir histokimyasal boyadır. Bu ürün, dokusal yapıların ve amiloproteinlerin tespiti için güvenilir sonuçlar sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; kimyasal, kuru, serin ve ışıktan uzak bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12411",
-    "name": "Cyclohexane  ≥ 99.8%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 50.8275,
-    "image": "static/images/products/chemdor_CHI_12411.png",
-    "brand": "Chemdor®",
-    "description": "Cyclohexane ≥ 99.8%, ekstra saf; yüksek saflık derecesi sayesinde hassas kimyasal sentezler, kromatografi çözücüsü ve organik analizlerde güvenilir sonuçlar sunar. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, minimum kirlilik oranıyla laboratuvar verimliliğini artırır.",
-    "safety": "Bu kimyasalın buharları yanıcı ve toksik olduğundan, iyi havalandırmalı bir ortamda çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ayrıca ışıktan ve ateş kaynaklarından uzakta, orijinal kapaklı şişesinde serin bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12412",
-    "name": "Dıchloromethane ≥ 99%, ph. eur., nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.1093,
-    "image": "static/images/products/chemdor_CHI_12412.png",
-    "brand": "Chemdor®",
-    "description": "Dichloromethane, yüksek saflıkta (%99) ve Farmakope standartlarına (Ph. Eur., NF) uygun olarak, hassas kimyasal sentezler ve analitik laboratuvar uygulamalarında güvenilir bir çözücü olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, deneysel sonuçların tutarlılığı ve tekrarlanabilirliği için idealdir.",
-    "safety": "Bu kimyasal, nitril eldiven, kimyasal sızdırmaz gözlük ve uygun havalandırma altında (asit gazı dolabı) saklanmalı ve kullanmalıdır."
-  },
-  {
-    "id": "CHI.12413",
-    "name": "Dıchloromethane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.0991,
-    "image": "static/images/products/chemdor_CHI_12413.png",
-    "brand": "Chemdor®",
-    "description": "Dichloromethane ≥ 99.8%, gaz kromatografisi sınıfı (ECD ve FID uyumlu) yüksek saflıkta bir çözücüdür. Chemdor'un titiz kalite kontrol standartlarına uygun olarak, hassas analitik uygulamalarda ve kromatografik analizlerde mükemmel performans sağlar. Laboratuvar ortamında güvenilir ve tutarlı sonuçlar için ideal bir tercihtir.",
-    "safety": "Bu kimyasal, uygun havalandırmalı bir ortamda, kimyasal sızdırmaz eldivenler ve gözlük takılarak, serin ve kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12414",
-    "name": "Dıethyl ether  ≥ 99.5%, bp , ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.9381,
-    "image": "static/images/products/chemdor_CHI_12414.png",
-    "brand": "Chemdor®",
-    "description": "Diethyl ether, ≥ %99.5 saflıkta ve Farmakope (Ph. Eur.) standartlarına uygun olarak, kimyasal sentezlerde ve ekstraksiyon işlemlerinde yüksek performanslı bir çözücü olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, hassas laboratuvar analizleri için güvenilir bir saflık seviyesi sunar.",
-    "safety": "Yanıcı ve uyuşturucu buharları nedeniyle, bu kimyasalın manipülasyonu sırasında kimyasal sızdırmazlık gözlüğü, nitril eldiven ve laboratuvar önlüğü giyilmeli; ayrıca soğuk, kuru, havalandırılmış ve ateş kaynaklarından uzak bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12415",
     "name": "Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
     "specifications": "1 piece / pack",
@@ -4205,6 +4145,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12410",
+    "name": "Congo red ındıcator, (c.ı. 22120) for mıcroscopy",
+    "price": 9.8063,
+    "image": "static/images/products/chemdor_CHI_12410.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Congo red ındıc",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Congo red ındıcator, (c.ı. 22120) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Congo red ındıcator, (c.ı. 22120) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Congo red ındıcator, (c.ı. 22120) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12411",
+    "name": "Cyclohexane  ≥ 99.8%, ekstra saf",
+    "price": 50.8275,
+    "image": "static/images/products/chemdor_CHI_12411.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Cyclohexane  ≥ ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Cyclohexane  ≥ 99.8%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Cyclohexane  ≥ 99.8%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Cyclohexane  ≥ 99.8%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12412",
+    "name": "Dıchloromethane ≥ 99%, ph. eur., nf",
+    "price": 24.1093,
+    "image": "static/images/products/chemdor_CHI_12412.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dıchloromethane",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dıchloromethane ≥ 99%, ph. eur., nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dıchloromethane ≥ 99%, ph. eur., nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dıchloromethane ≥ 99%, ph. eur., nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12413",
+    "name": "Dıchloromethane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
+    "price": 34.0991,
+    "image": "static/images/products/chemdor_CHI_12413.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dıchloromethane",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dıchloromethane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dıchloromethane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dıchloromethane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12414",
+    "name": "Dıethyl ether  ≥ 99.5%, bp , ph. eur.",
+    "price": 34.9381,
+    "image": "static/images/products/chemdor_CHI_12414.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dıethyl ether  ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dıethyl ether  ≥ 99.5%, bp , ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dıethyl ether  ≥ 99.5%, bp , ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dıethyl ether  ≥ 99.5%, bp , ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
