@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12395",
-    "name": "Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 36.4982,
-    "image": "static/images/products/chemdor_CHI_12395.png",
-    "brand": "Chemdor®",
-    "description": "Brıllant cresyl blue (C.I. 51010), mikroskopi çalışmalarında hücre çekirdekleri ve sitoplazmanın keskin kontrastla boyanması için kullanılan yüksek saflıkta bir kimyasal boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, histolojik ve hematolojik preparatlarda tutarlı ve tekrarlanabilir sonuçlar elde etmek için idealdir.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün kuru, serin ve doğrudan güneş ışığından korunan bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12396",
-    "name": "Brıllıant green ındıcator, (c.ı. 42040) ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 9.1639,
-    "image": "static/images/products/chemdor_CHI_12396.png",
-    "brand": "Chemdor®",
-    "description": "Brıllant Green Indicator (CI 42040), su arıtma ve kimyasal analizlerde renk değişimi tabanlı hassas ölçümler için yüksek saflıkta kullanılan bir kimyasal göstergedir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar ortamlarında tutarlı ve güvenilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; kuru, serin ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12397",
-    "name": "Calcıum chlorıde dıhydrate ≥ 97%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.9403,
-    "image": "static/images/products/chemdor_CHI_12397.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %97 saflıkta kalsiyum klorür dihidrat, yüksek saflık standardı ile titrasyon, kurutma maddesi ve laboratuvar reaksiyonlarında güvenilir bir reaktif olarak öne çıkar. Ekstra saf kalitesi, hassas analizlerde ve kimyasal sentezlerde tutarlı sonuçlar almanızı sağlar.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanları kullanmalı ve ürünü kuru, havalandırmalı bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12398",
-    "name": "Calcıum chlorıde dıhydrate ≥ 99%, acs , reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.7495,
-    "image": "static/images/products/chemdor_CHI_12398.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Kalsiyum Klorür Dihidrat, %99 saflıkta ACS ve Reag. Ph Eur standartlarına uygun olarak laboratuvar analizleri, kuru ortam hazırlama ve kimyasal sentezlerde yüksek performans sağlar. Bu ürün, hassas deneylerde güvenilir sonuçlar elde etmek için ideal bir reaktif olarak öne çıkar.",
-    "safety": "Kullanım sırasında nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; kimyasal, kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12399",
-    "name": "Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.1552,
-    "image": "static/images/products/chemdor_CHI_12399.png",
-    "brand": "Chemdor®",
-    "description": "Calcium nitrate tetrahydrate, analitik saflıkta (ACS) ve %99 üzeri saflıkta olup, kimyasal analizler, toprak iyileştirme çalışmaları ve bitki besleme araştırmalarında yüksek güvenilirlik sağlar. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, hassas laboratuvar deneyleri için ideal bir referans standardı sunar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve iyi havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
     "id": "CHI.12400",
     "name": "Carbol fuchsın dye toz form, for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -3995,6 +3935,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Buffer çözeltisi ph 11.00 ± 0.05 at 20°c (glycıne, sodıum chlorıde, sodıum hydroxıde) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12395",
+    "name": "Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy",
+    "price": 36.4982,
+    "image": "static/images/products/chemdor_CHI_12395.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Brıllıant cresy",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Brıllıant cresyl blue, (c.ı. 51010) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12396",
+    "name": "Brıllıant green ındıcator, (c.ı. 42040) ",
+    "price": 9.1639,
+    "image": "static/images/products/chemdor_CHI_12396.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Brıllıant green",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Brıllıant green ındıcator, (c.ı. 42040) . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Brıllıant green ındıcator, (c.ı. 42040)  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Brıllıant green ındıcator, (c.ı. 42040)  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12397",
+    "name": "Calcıum chlorıde dıhydrate ≥ 97%, ekstra saf",
+    "price": 19.9403,
+    "image": "static/images/products/chemdor_CHI_12397.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Calcıum chlorıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Calcıum chlorıde dıhydrate ≥ 97%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Calcıum chlorıde dıhydrate ≥ 97%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Calcıum chlorıde dıhydrate ≥ 97%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12398",
+    "name": "Calcıum chlorıde dıhydrate ≥ 99%, acs , reag. ph eur",
+    "price": 21.7495,
+    "image": "static/images/products/chemdor_CHI_12398.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Calcıum chlorıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Calcıum chlorıde dıhydrate ≥ 99%, acs , reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Calcıum chlorıde dıhydrate ≥ 99%, acs , reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Calcıum chlorıde dıhydrate ≥ 99%, acs , reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12399",
+    "name": "Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs",
+    "price": 15.1552,
+    "image": "static/images/products/chemdor_CHI_12399.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Calcıum nıtrate",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
