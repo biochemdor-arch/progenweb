@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12540",
-    "name": "Rhodamıne b, (c.ı.45170) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 11.4975,
-    "image": "static/images/products/chemdor_CHI_12540.png",
-    "brand": "Chemdor®",
-    "description": "Rhodamine B (C.I. 45170), yüksek parlaklığı ve keskin kontrastı ile biyolojik dokuların ve hücrelerin floresan mikroskopi altında incelenmesi için ideal bir boyadır. Chemdor kalite standartlarında sunulan bu ürün, optik analizlerde tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Toz oluşumundan kaçınmak için nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; kimyasal, kuru, serin ve ışık almayan bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12541",
-    "name": "Salıcyclıc acıd ≥99.5%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.4239,
-    "image": "static/images/products/chemdor_CHI_12541.png",
-    "brand": "Chemdor®",
-    "description": "Salisilik asit, ≥%99.5 saflıkta ekstra saf kalitesiyle Chemdor laboratuvar standartlarına uygun olarak sunulmaktadır. Bu yüksek saflık, farmasötik araştırmalar, polimer sentezi ve hassas analitik uygulamalar için ideal bir baz sağlar. Ürün, tutarlı kimyasal yapı ve minimum iz element içeriği ile güvenilir sonuçlar elde edilmesini garanti eder.",
-    "safety": "Toz oluşumuna karşı N95 maske, kimyasal dayanıklı eldiven ve koruyucu gözlük kullanılması; ürünün kuru, serin ve iyi havalandırılmış bir ortamda, nemden uzak tutularak saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12542",
-    "name": "Salıcylıc acıd ≥ 99.5%, ph.eur, bp, usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 32.5652,
-    "image": "static/images/products/chemdor_CHI_12542.png",
-    "brand": "Chemdor®",
-    "description": "Salisilik asit, kimyasal sentezlerde ve farmasötik araştırmalarda yüksek saflık gerektiren reaksiyonlar için ideal bir başlangıç maddesidir. Chemdor kalite kontrol standartlarına uygun olarak %99.5 saflıkta sunulan bu ürün, PH.Eur., BP ve USP spesifikasyonlarını karşılayarak tutarlı ve güvenilir sonuçlar sağlar. Laboratuvar ortamında hassas analizler ve formülasyon çalışmaları için mükemmel bir seçimdir.",
-    "safety": "Çalışma sırasında gözlük, eldiven ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı; ürünü kuru, serin ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak tutarak saklamalısınız."
-  },
-  {
-    "id": "CHI.12543",
-    "name": "Safranıne, (c.ı.50240) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.6315,
-    "image": "static/images/products/chemdor_CHI_12543.png",
-    "brand": "Chemdor®",
-    "description": "Safranin E (c.i.50240), mikroskopi uygulamalarında hücre çekirdekleri ve kıkırdak dokularının kontrastlı boyanması için yüksek saflıkta kullanılan bir kimyasal boyadır. Chemdor kalite standartlarına uygun olarak hazırlanan bu ürün, net ve tutarlı mikroskopik görüntüleme sonuçları elde etmek amacıyla laboratuvarlarda tercih edilir.",
-    "safety": "Bu kimyasal ile çalışırken eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve ışık almayan bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12544",
-    "name": "Sılıca gel 60, for column chromatgraphy ,70-230 mesh",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.8121,
-    "image": "static/images/products/chemdor_CHI_12544.png",
-    "brand": "Chemdor®",
-    "description": "Sılıca gel 60, 70-230 mesh boyut aralığıyla kolon kromatografisi uygulamalarında yüksek çözünürlüklü ve etkili bir ayrıştırma ortamı sunar. Chemdor kalite standartlarında üretilen bu silika jel, homojen tane dağılımı sayesinde tutarlı ve tekrarlanabilir kromatografik sonuçlar elde edilmesini sağlar.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve koruyucu gözlük kullanılması, ürünün kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
     "id": "CHI.12545",
     "name": "Sılıca gel 60, for column chromatgraphy ,230-400 mesh",
     "specifications": "1 piece / pack",
@@ -6025,6 +5965,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Rhodızonıc acıd dısodıum salt ≥ 97% от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12540",
+    "name": "Rhodamıne b, (c.ı.45170) for mıcroscopy",
+    "price": 11.4975,
+    "image": "static/images/products/chemdor_CHI_12540.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Rhodamıne b, (c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Rhodamıne b, (c.ı.45170) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Rhodamıne b, (c.ı.45170) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Rhodamıne b, (c.ı.45170) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12541",
+    "name": "Salıcyclıc acıd ≥99.5%, ekstra saf",
+    "price": 24.4239,
+    "image": "static/images/products/chemdor_CHI_12541.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Salıcyclıc acıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Salıcyclıc acıd ≥99.5%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Salıcyclıc acıd ≥99.5%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Salıcyclıc acıd ≥99.5%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12542",
+    "name": "Salıcylıc acıd ≥ 99.5%, ph.eur, bp, usp",
+    "price": 32.5652,
+    "image": "static/images/products/chemdor_CHI_12542.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Salıcylıc acıd ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Salıcylıc acıd ≥ 99.5%, ph.eur, bp, usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Salıcylıc acıd ≥ 99.5%, ph.eur, bp, usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Salıcylıc acıd ≥ 99.5%, ph.eur, bp, usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12543",
+    "name": "Safranıne, (c.ı.50240) for mıcroscopy",
+    "price": 21.6315,
+    "image": "static/images/products/chemdor_CHI_12543.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Safranıne, (c.ı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Safranıne, (c.ı.50240) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Safranıne, (c.ı.50240) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Safranıne, (c.ı.50240) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12544",
+    "name": "Sılıca gel 60, for column chromatgraphy ,70-230 mesh",
+    "price": 29.8121,
+    "image": "static/images/products/chemdor_CHI_12544.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılıca gel 60, ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılıca gel 60, for column chromatgraphy ,70-230 mesh. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılıca gel 60, for column chromatgraphy ,70-230 mesh by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılıca gel 60, for column chromatgraphy ,70-230 mesh от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
