@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12485",
-    "name": "Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.8434,
-    "image": "static/images/products/chemdor_CHI_12485.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %65 nitrik asit, dition ile yapılan tayinler için özel olarak formüle edilmiş, Reag. Iso ve Reag. Ph. Eur. standartlarına uygun yüksek saflıkta bir reaktiftir. Bu ürün, hassas analitik işlemlerde güvenilir sonuçlar elde etmek için laboratuvarlarda tercih edilen profesyonel bir çözücüdür.",
-    "safety": "Kullanım sırasında asit dayanıklı eldiven, gözlük ve önlük takılmalı; kimyasal, serin, kuru ve havalandırmalı bir ortamda orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12486",
-    "name": "Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 39.8937,
-    "image": "static/images/products/chemdor_CHI_12486.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %65 Nitrik Asit, dition ile yapılan tayinler için özel olarak formüle edilmiş, Reag. Iso ve Reag. Ph. Eur. standartlarına uygun yüksek saflıkta bir reaktiftir. Bu ürün, analitik kimya laboratuvarlarında hassas ve güvenilir sonuçlar elde etmek için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve iyi havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12487",
-    "name": "Nessler's reagent",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 6.8565,
-    "image": "static/images/products/chemdor_CHI_12487.png",
-    "brand": "Chemdor®",
-    "description": "Nessler Reajanti, suda amonyak ve amonyum iyonlarının hassas tayini için kullanılan yüksek saflıkta bir kimyasal reaktiftir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar analizlerinde güvenilir ve tekrarlanabilir sonuçlar sağlar. 1 adet/paket olarak sunulan bu reaktif, su kalitesi ve çevresel analizlerde yaygın olarak tercih edilir.",
-    "safety": "Kullanım sırasında kimyasal dayanımlı eldiven, gözlük ve laboratuvar önlüğü takılmalı; reaktif serin, karanlık ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12488",
-    "name": "Nınhydrıne gr analitik saflık acs,reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 81.4,
-    "image": "static/images/products/chemdor_CHI_12488.png",
-    "brand": "Chemdor®",
-    "description": "Ninhydrin, amino asitlerin ve proteinlerin tespitinde kullanılan yüksek saflıkta analitik reaktiftir. Chemdor'un ACS ve Reag. Ph. Eur. standartlarına uygun olarak sunulan bu ürün, hassas laboratuvar analizleri için mükemmel bir performans sağlar.",
-    "safety": "Kullanım sırasında nitril eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve ışık almayan bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12489",
-    "name": "Nitrik asit 0,1 mol/l (0,1n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 16.689,
-    "image": "static/images/products/chemdor_CHI_12489.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 0,1 mol/l nitrik asit, titrasyon ve su analizleri gibi hassas laboratuvar prosedürleri için yüksek saflıkta ve kalibre edilmiş bir standart çözelti olarak tasarlanmıştır. Ürün, tekrarlanabilir sonuçlar elde etmek amacıyla sıkı kalite kontrol süreçlerinden geçirilerek laboratuvar ortamında güvenilir bir referans noktası sunar.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, koruyucu gözlük ve önlük takılmalı; çözelti serin, kuru ve havalandırmalı bir dolapta, orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12490",
     "name": "New fuchsın, (c.ı. 42520) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -5255,6 +5195,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Nitrik asit 65%, acs  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12485",
+    "name": "Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.",
+    "price": 24.8434,
+    "image": "static/images/products/chemdor_CHI_12485.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nitrik asit 65%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12486",
+    "name": "Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.",
+    "price": 39.8937,
+    "image": "static/images/products/chemdor_CHI_12486.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nitrik asit 65%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12487",
+    "name": "Nessler's reagent",
+    "price": 6.8565,
+    "image": "static/images/products/chemdor_CHI_12487.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nessler's reage",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nessler's reagent. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nessler's reagent by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nessler's reagent от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12488",
+    "name": "Nınhydrıne gr analitik saflık acs,reag.ph.eur",
+    "price": 81.4,
+    "image": "static/images/products/chemdor_CHI_12488.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nınhydrıne gr a",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nınhydrıne gr analitik saflık acs,reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nınhydrıne gr analitik saflık acs,reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nınhydrıne gr analitik saflık acs,reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12489",
+    "name": "Nitrik asit 0,1 mol/l (0,1n)",
+    "price": 16.689,
+    "image": "static/images/products/chemdor_CHI_12489.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nitrik asit 0,1",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nitrik asit 0,1 mol/l (0,1n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nitrik asit 0,1 mol/l (0,1n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nitrik asit 0,1 mol/l (0,1n) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
