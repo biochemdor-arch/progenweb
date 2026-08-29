@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12585",
-    "name": "Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.4443,
-    "image": "static/images/products/chemdor_CHI_12585.png",
-    "brand": "Chemdor®",
-    "description": "Sulfuric acid %95-97, cıva (Hg) tayini için yüksek saflıkta ve hassas analizlerde kullanılmak üzere tasarlanmış bir reaktiftir. ACS reagent, ISO ve Ph. Eur. standartlarına uygunluğu, laboratuvar ortamlarında güvenilir ve tutarlı sonuçlar elde edilmesini sağlar. Chemdor kalite kontrol süreçlerinden geçen bu ürün, kritik kimyasal analizlerde üstün performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, yüz koruyucu gözlük ve laboratuvar önlüğü kullanılması, ayrıca maddelerin soğuk, kuru ve iyi havalandırılmış bir ortamda asit dayanıklı kaplarda saklanması esastır."
-  },
-  {
-    "id": "CHI.12586",
-    "name": "Sülfürik asit 0,25 mol/l (0,5 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 17.0561,
-    "image": "static/images/products/chemdor_CHI_12586.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 0,25 mol/l (0,5 n) sülfürik asit, titrasyonlar ve standart çözelti hazırlamaları için yüksek saflıkta ve hassas konsantrasyonda üretilmiştir. Laboratuvar analizlerinde güvenilir sonuçlar elde etmek amacıyla titiz kalite kontrol süreçlerinden geçirilmiştir.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, koruyucu gözlük ve önlük kullanılması ile soğuk, kuru ve havalandırmalı bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12587",
-    "name": "Sülfürik asit 0,5 mol/l (1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.9621,
-    "image": "static/images/products/chemdor_CHI_12587.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı 0,5 mol/l sülfürik asit, titrasyon ve standart çözelti hazırlama gibi hassas analizlerde yüksek saflıkta ve tutarlılıkta performans sunar. Laboratuvar ortamında güvenilir sonuçlar elde etmek için ideal bir referans maddesidir.",
-    "safety": "Kullanım sırasında asite dayanıklı eldiven, koruyucu gözlük ve önlük takılmalı; kimyasal, serin, kuru ve havalandırmalı bir dolapta dik pozisyonda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12588",
-    "name": "Sucrose ph.eur,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 14.0277,
-    "image": "static/images/products/chemdor_CHI_12588.png",
-    "brand": "Chemdor®",
-    "description": "Sucrose ph.eur,usp, yüksek saflıkta ve kimyasal olarak karakterize edilmiş bir referans standardı olup, analitik kimyada kalibrasyon ve doğrulama çalışmalarında hassas sonuçlar sağlar. Chemdor kalite kontrol süreçlerinden geçen bu ürün, farmakope gereksinimlerini karşılayarak laboratuvar güvenilirliğini artırır.",
-    "safety": "Toz bulutlarını önlemek için toz maskesi ve eldiven kullanılması, ürünün kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12589",
-    "name": "Sucrose ph.eur,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 53.3053,
-    "image": "static/images/products/chemdor_CHI_12589.png",
-    "brand": "Chemdor®",
-    "description": "Sucrose ph.eur,usp, farmakope standartlarına uygun yüksek saflıkta bir disakkarit olup kimyasal analizlerde referans maddesi ve biyokimyasal deneylerde besin kaynağı olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, laboratuvar uygulamalarında tutarlı ve güvenilir sonuçlar elde etmek için idealdir.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve gözlük takılmalı, ürün kuru, serin ve ışıktan korunaklı bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12590",
     "name": "Succınıc acıd ≥ 97% analitik saflık acs",
     "specifications": "1 piece / pack",
@@ -6655,6 +6595,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12585",
+    "name": "Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur.",
+    "price": 22.4443,
+    "image": "static/images/products/chemdor_CHI_12585.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sulfurıc acıd 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12586",
+    "name": "Sülfürik asit 0,25 mol/l (0,5 n)",
+    "price": 17.0561,
+    "image": "static/images/products/chemdor_CHI_12586.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sülfürik asit 0",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sülfürik asit 0,25 mol/l (0,5 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sülfürik asit 0,25 mol/l (0,5 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sülfürik asit 0,25 mol/l (0,5 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12587",
+    "name": "Sülfürik asit 0,5 mol/l (1 n)",
+    "price": 13.9621,
+    "image": "static/images/products/chemdor_CHI_12587.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sülfürik asit 0",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sülfürik asit 0,5 mol/l (1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sülfürik asit 0,5 mol/l (1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sülfürik asit 0,5 mol/l (1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12588",
+    "name": "Sucrose ph.eur,usp",
+    "price": 14.0277,
+    "image": "static/images/products/chemdor_CHI_12588.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sucrose ph.eur,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sucrose ph.eur,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sucrose ph.eur,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sucrose ph.eur,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12589",
+    "name": "Sucrose ph.eur,usp",
+    "price": 53.3053,
+    "image": "static/images/products/chemdor_CHI_12589.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sucrose ph.eur,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sucrose ph.eur,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sucrose ph.eur,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sucrose ph.eur,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
