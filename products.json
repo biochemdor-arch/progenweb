@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12430",
-    "name": "Fast green fcf , (c.ı. 42053) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.1231,
-    "image": "static/images/products/chemdor_CHI_12430.png",
-    "brand": "Chemdor®",
-    "description": "Fast Green FCF (C.I. 42053), mikroskopi çalışmalarında hücre çekirdeklerini ve diğer yapıları net bir şekilde boyamak için kullanılan yüksek saflıklı bir asidik boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, optik berraklığı ve tutarlı renk yoğunluğu ile güvenilir sonuçlar sunar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, ürün kuru, serin ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12431",
-    "name": "Formaldehyde çözeltisi about 37%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 16.3088,
-    "image": "static/images/products/chemdor_CHI_12431.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %37 Formaldehyde çözeltisi, ekstra saflık derecesiyle histolojik fiksasyon, biyokimyasal analizler ve polimer sentezleri gibi hassas laboratuvar uygulamaları için idealdir. Yüksek saflık standardı, reaktiflerin stabilitesini ve deney sonuçlarının tutarlılığını garanti altına alarak güvenilir bir performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken mutlaka kimyasal dayanımlı eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda orijinal kapalı kapta saklamalısınız."
-  },
-  {
-    "id": "CHI.12432",
-    "name": "Formaldehyde çözeltisi about 37%, gr analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.8019,
-    "image": "static/images/products/chemdor_CHI_12432.png",
-    "brand": "Chemdor®",
-    "description": "Formaldehit çözeltisi (%37), kimyasal sentezlerde ve biyolojik örneklerin fikse edilmesinde kullanılan yüksek saflıkta bir reaktiftir. ACS, Reag. ve Ph. Eur. standartlarına uygun olarak sunulan bu ürün, Chemdor'un titiz kalite kontrol süreçlerinden geçerek analitik çalışmalar için güvenilirlik sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve uygun bir gaz maske kullanılması, ayrıca ürünün serin, kuru ve iyi havalandırılmış bir ortamda asitlere uzak tutulması gerekmektedir."
-  },
-  {
-    "id": "CHI.12433",
-    "name": "Formıc acıd ≥%85, ekstra saf  ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.3249,
-    "image": "static/images/products/chemdor_CHI_12433.png",
-    "brand": "Chemdor®",
-    "description": "Formic acid ≥%85 ekstra saf, yüksek saflık derecesi ile hassas kimyasal sentezler, titrasyonlar ve çözelti hazırlamada güvenilir bir reaktif olarak öne çıkar. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar analizlerinde tutarlı ve tekrarlanabilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında asit dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; kimyasal, serin, kuru ve havalandırmalı bir ortamda, reaktiflerden uzakta saklanmalıdır."
-  },
-  {
-    "id": "CHI.12434",
-    "name": "Formıc acıd ≥%98 , dac, fcc",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 41.0474,
-    "image": "static/images/products/chemdor_CHI_12434.png",
-    "brand": "Chemdor®",
-    "description": "Formik asit (≥%98), DAC ve FCC standartlarına uygun yüksek saflıkta, kimyasal sentezlerde ve endüstriyel süreçlerde güvenilir bir reaktif olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, laboratuvar uygulamalarında tutarlı performans ve yüksek verimlilik sağlar.",
-    "safety": "Kullanım sırasında asite dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve iyi havalandırılmış bir ortamda, oksitleyicilerden uzakta saklanmalıdır."
-  },
-  {
     "id": "CHI.12435",
     "name": "Formıc acıd 0.1% ın acetonıtrıle, lc-ms",
     "specifications": "1 piece / pack",
@@ -4485,6 +4425,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Evans blue, (c.ı. 23860) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12430",
+    "name": "Fast green fcf , (c.ı. 42053) for mıcroscopy",
+    "price": 31.1231,
+    "image": "static/images/products/chemdor_CHI_12430.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Fast green fcf ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Fast green fcf , (c.ı. 42053) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Fast green fcf , (c.ı. 42053) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Fast green fcf , (c.ı. 42053) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12431",
+    "name": "Formaldehyde çözeltisi about 37%, ekstra saf",
+    "price": 16.3088,
+    "image": "static/images/products/chemdor_CHI_12431.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Formaldehyde çö",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Formaldehyde çözeltisi about 37%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Formaldehyde çözeltisi about 37%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Formaldehyde çözeltisi about 37%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12432",
+    "name": "Formaldehyde çözeltisi about 37%, gr analitik saflık acs,reag. ph eur",
+    "price": 21.8019,
+    "image": "static/images/products/chemdor_CHI_12432.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Formaldehyde çö",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Formaldehyde çözeltisi about 37%, gr analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Formaldehyde çözeltisi about 37%, gr analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Formaldehyde çözeltisi about 37%, gr analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12433",
+    "name": "Formıc acıd ≥%85, ekstra saf  ",
+    "price": 26.3249,
+    "image": "static/images/products/chemdor_CHI_12433.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Formıc acıd ≥%8",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Formıc acıd ≥%85, ekstra saf  . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Formıc acıd ≥%85, ekstra saf   by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Formıc acıd ≥%85, ekstra saf   от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12434",
+    "name": "Formıc acıd ≥%98 , dac, fcc",
+    "price": 41.0474,
+    "image": "static/images/products/chemdor_CHI_12434.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Formıc acıd ≥%9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Formıc acıd ≥%98 , dac, fcc. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Formıc acıd ≥%98 , dac, fcc by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Formıc acıd ≥%98 , dac, fcc от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
