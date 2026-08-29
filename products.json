@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12550",
-    "name": "Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.2477,
-    "image": "static/images/products/chemdor_CHI_12550.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Asetat Trihidrat, ph.eur, bp, jp, usp, fcc ve e262 standartlarına uygun olarak %99.5'in üzerinde saflıkta sunulmaktadır. Bu ekstra saf kimyasal, tampon hazırlama, kristalizasyon ajanı ve çeşitli analitik prosedürlerde yüksek performans sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12551",
-    "name": "Sodıum acetate trıhydrate  ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.6257,
-    "image": "static/images/products/chemdor_CHI_12551.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Asetat Trihidrat, %99.5'in üzerindeki analitik saflığıyla (ACS, ISO, Reag. Ph. Eur.) hassas kimyasal analizler ve tampon çözelti hazırlama gibi laboratuvar uygulamaları için idealdir. Yüksek saflık standardı, tekrarlanabilir ve güvenilir deneysel sonuçlar elde edilmesini sağlar.",
-    "safety": "Göz ve cilt temasını önlemek için eldiven ve koruyucu gözlük kullanılması, maddenin kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12552",
-    "name": "Sodıum carbonate susuz kalite ≥ 99.5%, ph eur , bp , jp , nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.5791,
-    "image": "static/images/products/chemdor_CHI_12552.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı susuz sodyum karbonat, ≥%99.5 saflıkta olup PH Eur, BP, JP ve NF standartlarına uygun olarak laboratuvar analizleri, tampon çözelti hazırlama ve titrasyon işlemlerinde yüksek hassasiyetle kullanılır. Bu ürün, kimyasal reaksiyonlarda güvenilir bir baz kaynağı olarak profesyonel uygulamalarda tercih edilir.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun maske, eldiven ve koruyucu gözlük takılmalı; ürün kuru, serin ve havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12553",
-    "name": "Sodıum carbonate susuz kalite ≥ 99.8%, acs ,  ıso ,  reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 33.0372,
-    "image": "static/images/products/chemdor_CHI_12553.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı susuz sodyum karbonat, ≥%99.8 saflıkta ve ACS, ISO, Reag. Ph. Eur. standartlarına uygun olarak yüksek saflıkta sunulmaktadır. Bu ürün, tampon hazırlama, pH ayarlaması ve çeşitli analitik kimya prosedürlerinde güvenilir bir reaktif olarak kullanılmaktadır.",
-    "safety": "Toz solumayı önlemek için toz maskesi, koruyucu gözlük ve eldiven kullanılması ile kimyasalın kuru, serin ve havalandırmalı bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12554",
-    "name": "Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 7.6169,
-    "image": "static/images/products/chemdor_CHI_12554.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum klorür, ≥99.5% saflıkta ve ph.eur, bp, usp, jp standartlarına uygun olarak yüksek kalitede sunulmaktadır. Chemdor laboratuvar kalitesi, hassas analizler ve genel kimyasal uygulamalar için güvenilir bir temel tuz sağlar. Bu ürün, tutarlı saflık derecesiyle laboratuvar süreçlerinde mükemmel performans gösterir.",
-    "safety": "Toz oluşumunu önlemek için gözlük ve eldiven kullanılması önerilir; kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12555",
     "name": "Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp",
     "specifications": "1 piece / pack",
@@ -6165,6 +6105,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sılver nıtrate 0,1 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12550",
+    "name": "Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262",
+    "price": 22.2477,
+    "image": "static/images/products/chemdor_CHI_12550.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum acetate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12551",
+    "name": "Sodıum acetate trıhydrate  ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 19.6257,
+    "image": "static/images/products/chemdor_CHI_12551.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum acetate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum acetate trıhydrate  ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum acetate trıhydrate  ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum acetate trıhydrate  ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12552",
+    "name": "Sodıum carbonate susuz kalite ≥ 99.5%, ph eur , bp , jp , nf",
+    "price": 21.5791,
+    "image": "static/images/products/chemdor_CHI_12552.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum carbonat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum carbonate susuz kalite ≥ 99.5%, ph eur , bp , jp , nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum carbonate susuz kalite ≥ 99.5%, ph eur , bp , jp , nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum carbonate susuz kalite ≥ 99.5%, ph eur , bp , jp , nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12553",
+    "name": "Sodıum carbonate susuz kalite ≥ 99.8%, acs ,  ıso ,  reag. ph eur",
+    "price": 33.0372,
+    "image": "static/images/products/chemdor_CHI_12553.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum carbonat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum carbonate susuz kalite ≥ 99.8%, acs ,  ıso ,  reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum carbonate susuz kalite ≥ 99.8%, acs ,  ıso ,  reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum carbonate susuz kalite ≥ 99.8%, acs ,  ıso ,  reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12554",
+    "name": "Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp",
+    "price": 7.6169,
+    "image": "static/images/products/chemdor_CHI_12554.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum chlorıde",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
