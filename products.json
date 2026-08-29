@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12530",
-    "name": "Potassıum fluorıde susuz kalite ≥ 98% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 61.6432,
-    "image": "static/images/products/chemdor_CHI_12530.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Potasyum Florür, %98 üzeri ekstra saf susuz kalitesiyle hassas sentezler ve analizler için idealdir. Yüksek saflık derecesi, laboratuvar ortamlarında güvenilir ve tutarlı sonuçlar almayı sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanılması, maddenin nemden korunması için hava almayan kaplarda ve kuru ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12531",
-    "name": "Ponceau s, (c.ı.27195) for electrophoresıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.1799,
-    "image": "static/images/products/chemdor_CHI_12531.png",
-    "brand": "Chemdor®",
-    "description": "Ponceau S (C.I. 27195), protein elektroforezi sonrası membranlarda protein bantlarının hızlı ve net bir şekilde görselleştirilmesi için kullanılan yüksek saflukta bir asit turuncusu boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, düşük arka plan gürültüsü ve yüksek kontrast sağlayarak güvenilir sonuçlar sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; ürün serin, kuru ve ışıktan uzak bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12532",
-    "name": "1-propanol ≥ 99% , ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.8289,
-    "image": "static/images/products/chemdor_CHI_12532.png",
-    "brand": "Chemdor®",
-    "description": "1-propanol ≥ 99% ekstra saf, kimyasal sentezlerde ve analitik çalışmalarda yüksek saflık gerektiren uygulamalar için ideal bir çözücü olarak kullanılır. Chemdor markası, laboratuvar standartlarına uygun olarak minimum safsızlık oranıyla maksimum performans ve tekrarlanabilirlik sunar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal gözlük ve laboratuvar önlüğü takılmalı, ayrıca yangından korunmak için havalandırmalı dolapta veya çekmecede saklanmalıdır."
-  },
-  {
-    "id": "CHI.12533",
-    "name": "1-propanol ≥ 99.5% , analitik saflık acs,reag. ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 46.724,
-    "image": "static/images/products/chemdor_CHI_12533.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor 1-propanol, %99.5'in üzerindeki yüksek saflığı ve ACS, Reag. Ph. Eur. standartlarına uygunluğu ile hassas analitik çalışmalar ve sentez reaksiyonları için ideal bir çözücü olarak öne çıkar. Bu ürün, laboratuvar ortamlarında güvenilir sonuçlar elde etmek isteyen profesyoneller için mükemmel bir kalite standardı sunar.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün ısı, kıvılcım ve alevden uzak tutularak havalandırması iyi bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12534",
-    "name": "2-propanol ≥ 99.8% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.8522,
-    "image": "static/images/products/chemdor_CHI_12534.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor 2-propanol, %99.8 üzeri ekstra saflığıyla hassas analitik işlemler, cam eşya temizliği ve çözgen olarak yüksek performans sunar. Laboratuvar standartlarına uygun bu ürün, minimum safsızlık oranı sayesinde güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve havalandırmalı ortam zorunludur; ürünü ışıktan ve alev kaynaklarından uzak, serin bir yerde saklayınız."
-  },
-  {
     "id": "CHI.12535",
     "name": "2-propanol ≥ 99.5%, ph eur,bp,jp,usp",
     "specifications": "1 piece / pack",
@@ -5885,6 +5825,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12530",
+    "name": "Potassıum fluorıde susuz kalite ≥ 98% ekstra saf",
+    "price": 61.6432,
+    "image": "static/images/products/chemdor_CHI_12530.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum fluor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum fluorıde susuz kalite ≥ 98% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum fluorıde susuz kalite ≥ 98% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum fluorıde susuz kalite ≥ 98% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12531",
+    "name": "Ponceau s, (c.ı.27195) for electrophoresıs",
+    "price": 19.1799,
+    "image": "static/images/products/chemdor_CHI_12531.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ponceau s, (c.ı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ponceau s, (c.ı.27195) for electrophoresıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ponceau s, (c.ı.27195) for electrophoresıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ponceau s, (c.ı.27195) for electrophoresıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12532",
+    "name": "1-propanol ≥ 99% , ekstra saf",
+    "price": 28.8289,
+    "image": "static/images/products/chemdor_CHI_12532.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 1-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 1-propanol ≥ 99% , ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 1-propanol ≥ 99% , ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 1-propanol ≥ 99% , ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12533",
+    "name": "1-propanol ≥ 99.5% , analitik saflık acs,reag. ph eur.",
+    "price": 46.724,
+    "image": "static/images/products/chemdor_CHI_12533.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 1-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 1-propanol ≥ 99.5% , analitik saflık acs,reag. ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 1-propanol ≥ 99.5% , analitik saflık acs,reag. ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 1-propanol ≥ 99.5% , analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12534",
+    "name": "2-propanol ≥ 99.8% ekstra saf",
+    "price": 18.8522,
+    "image": "static/images/products/chemdor_CHI_12534.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 2-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 2-propanol ≥ 99.8% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 2-propanol ≥ 99.8% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 2-propanol ≥ 99.8% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
