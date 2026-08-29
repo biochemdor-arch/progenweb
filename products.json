@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12560",
-    "name": "Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 27.3868,
-    "image": "static/images/products/chemdor_CHI_12560.png",
-    "brand": "Chemdor®",
-    "description": "Dı-sodıum hydrogen phosphate dıhydrate, ≥%99.5 saflıkta reagent grade kalitesiyle kimyasal analizler, tampon çözelti hazırlama ve farmasötik araştırmalarda yüksek performans sunar. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, laboratuvar uygulamalarında güvenilir ve tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Çalışma sırasında gözlük, eldiven ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12561",
-    "name": "Dı-sodıum hydrogen phosphate dodecahydrate ≥ 99%, analitik saflık ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.8267,
-    "image": "static/images/products/chemdor_CHI_12561.png",
-    "brand": "Chemdor®",
-    "description": "Dı-sodıum hydrogen phosphate dodecahydrate, ≥%99 analitik saflıkta ve Eur. Ph. uyumlu olarak sunulan, tampon çözeltilerinin hazırlanması ve biyokimyasal analizlerde kritik bir bileşendir. Chemdor'un yüksek saflık standartları, hassas laboratuvar uygulamalarında tutarlı ve güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında tozlaşmayı önlemek için uygun eldiven ve koruyucu gözlük kullanılması, kimyasalın nemli ortamlardan uzak tutularak hava almayan kaplarda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12562",
-    "name": "Sodıum hydrogen carbonate ≥ 99%, ph eur,bp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 17.5674,
-    "image": "static/images/products/chemdor_CHI_12562.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum hidrojen karbonat, ≥%99 saflıkta ve Eur/Bp standartlarına uygun olarak, titrasyonlar, tampon hazırlama ve çeşitli sentez reaksiyonlarında güvenilir bir reaktif olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, laboratuvar analizlerinde yüksek doğruluk ve tekrarlanabilirlik sağlar.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun eldiven ve gözlük takılmalı, ürün kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12563",
-    "name": "Sodıum hydrogen carbonate ≥ 99.7%, analitik saflık acs,reag.ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 17.5674,
-    "image": "static/images/products/chemdor_CHI_12563.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum hidrojen karbonat (NaHCO3), ≥99.7% analitik saflıkta (ACS, Reag. Ph. Eur.) olup titrasyonlar, tampon hazırlama ve çeşitli kimyasal sentezlerde güvenilir bir reaktif olarak kullanılır. Chemdor markası, laboratuvar standartlarına tam uyumlu yüksek saflık ve tutarlılık garantisi sunarak hassas analizlerde mükemmel sonuçlar elde edilmesini sağlar.",
-    "safety": "Toz oluşumundan kaçınmak için nitril eldiven ve gözlük takılmalı, ürün kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12564",
-    "name": "Sodıum hydroxıde ≥ 99%, pelet form saf kalite",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.5616,
-    "image": "static/images/products/chemdor_CHI_12564.png",
-    "brand": "Chemdor®",
-    "description": "Saf kalitede ve %99 saflıkta sunulan Chemdor Sodyum Hidroksit peletleri, titrasyon, pH ayarı ve çeşitli sentez reaksiyonları için ideal bir bazdır. Yüksek saflık derecesi, hassas laboratuvar analizlerinde tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Kullanım sırasında mutlaka asite dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; kimyasal, neme karşı koruyucu, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12565",
     "name": "Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524",
     "specifications": "1 piece / pack",
@@ -6305,6 +6245,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12560",
+    "name": "Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur",
+    "price": 27.3868,
+    "image": "static/images/products/chemdor_CHI_12560.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dı-sodıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12561",
+    "name": "Dı-sodıum hydrogen phosphate dodecahydrate ≥ 99%, analitik saflık ıso,reag. ph eur",
+    "price": 25.8267,
+    "image": "static/images/products/chemdor_CHI_12561.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dı-sodıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dı-sodıum hydrogen phosphate dodecahydrate ≥ 99%, analitik saflık ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dı-sodıum hydrogen phosphate dodecahydrate ≥ 99%, analitik saflık ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dı-sodıum hydrogen phosphate dodecahydrate ≥ 99%, analitik saflık ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12562",
+    "name": "Sodıum hydrogen carbonate ≥ 99%, ph eur,bp",
+    "price": 17.5674,
+    "image": "static/images/products/chemdor_CHI_12562.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydrogen",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydrogen carbonate ≥ 99%, ph eur,bp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydrogen carbonate ≥ 99%, ph eur,bp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydrogen carbonate ≥ 99%, ph eur,bp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12563",
+    "name": "Sodıum hydrogen carbonate ≥ 99.7%, analitik saflık acs,reag.ph eur",
+    "price": 17.5674,
+    "image": "static/images/products/chemdor_CHI_12563.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydrogen",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydrogen carbonate ≥ 99.7%, analitik saflık acs,reag.ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydrogen carbonate ≥ 99.7%, analitik saflık acs,reag.ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydrogen carbonate ≥ 99.7%, analitik saflık acs,reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12564",
+    "name": "Sodıum hydroxıde ≥ 99%, pelet form saf kalite",
+    "price": 15.5616,
+    "image": "static/images/products/chemdor_CHI_12564.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydroxıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydroxıde ≥ 99%, pelet form saf kalite. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydroxıde ≥ 99%, pelet form saf kalite by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydroxıde ≥ 99%, pelet form saf kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
