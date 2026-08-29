@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12455",
-    "name": "1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 59.8865,
-    "image": "static/images/products/chemdor_CHI_12455.png",
-    "brand": "Chemdor®",
-    "description": "1-hexanesulfonic acid sodium salt, iyon çift kromatografisinde ters faz ayrıştırmaları için yüksek saflıkta (>99.0%) bir iyon çift reagenti olarak kullanılır. Chemdor kalite standartlarına uygun olarak sunulan bu ürün, hassas analitik uygulamalarda tutarlı ve güvenilir sonuçlar elde etmek için idealdir. Yüksek saflığı, matris etkilerini en aza indirgeyerek kromatografik verimliliği artırır.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12456",
-    "name": "Hexadecyltrımethylammonıum bromıde ≥97.0% for synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.5616,
-    "image": "static/images/products/chemdor_CHI_12456.png",
-    "brand": "Chemdor®",
-    "description": "Hexadecyltrimethylammonium bromide, ≥%97.0 saflıkta ve sentez uygulamaları için özel olarak hazırlanmış, yüksek performanslı bir kationik yüzey aktif maddedir. Chemdor kalite standartlarına uygun olarak sunulan bu ürün, emülsiyon stabilizasyonu ve mikroemülsiyon hazırlamada güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük kullanılması; ürünün kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12457",
-    "name": "Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.2731,
-    "image": "static/images/products/chemdor_CHI_12457.png",
-    "brand": "Chemdor®",
-    "description": "Hidroklorik asit fuming %37, yüksek saflıkta ve yoğun asidik reaksiyonlar için ideal olan güçlü bir kimyasal ajandır. Chemdor kalite standartlarına uygun olarak hazırlanan bu ürün, analitik ve sentetik laboratuvar uygulamalarında güvenilir sonuçlar sunar. EUR, BP, JP ve NF farmakope standartlarına uygunluğu, hassas deneylerde tutarlı performans garantisi verir.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanımlı eldiven, yüz koruyucu gözlük ve laboratuvar önlüğü takılmalı, ürün serin, kuru ve havalandırılmış bir ortamda asit dayanımlı kaplarda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12458",
-    "name": "Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.1056,
-    "image": "static/images/products/chemdor_CHI_12458.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %37 Hidroklorik Asit Fuming, Eur, BP, JP ve NF standartlarına uygun yüksek saflıkta olup titrasyon, metal çözündürme ve çeşitli sentez reaksiyonları için idealdir. Laboratuvar ortamlarında güvenilir sonuçlar sunan bu ürün, kimyasal analizlerde tutarlı performans sağlar.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, yüz koruyucu gözlük ve laboratuvar önlüğü kullanılması, ayrıca maddelerin soğuk, kuru ve havalandırmalı bir ortamda asit dayanıklı kaplarda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12459",
-    "name": "Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.2731,
-    "image": "static/images/products/chemdor_CHI_12459.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Hidroklorik Asit Fuming %37, ACS Reagent, Reag. ISO ve Reag. Ph. Eur. standartlarına uygun yüksek saflıkta bir laboratuvar reaktifidir. Bu ürün, hassas kimyasal analizler, titrasyonlar ve çeşitli sentez reaksiyonlarında güvenilir sonuçlar elde etmek için idealdir. Kimyasalın yüksek konsantrasyonu ve saflığı, kritik deneylerde tutarlılık ve doğruluk sağlar.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı, ürün havalandırması iyi bir asit dolabında veya fume hood altında saklanmalıdır."
-  },
-  {
     "id": "CHI.12460",
     "name": "Hydrofluorıc acıd ≥40%, reag. ıso, reag. ph. eur. ",
     "specifications": "1 piece / pack",
@@ -4835,6 +4775,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт 1-heptane sulphonıc acıd sodıum salt susuz kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12455",
+    "name": "1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
+    "price": 59.8865,
+    "image": "static/images/products/chemdor_CHI_12455.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 1-hexanesulfonı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12456",
+    "name": "Hexadecyltrımethylammonıum bromıde ≥97.0% for synthesıs",
+    "price": 15.5616,
+    "image": "static/images/products/chemdor_CHI_12456.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hexadecyltrımet",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hexadecyltrımethylammonıum bromıde ≥97.0% for synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hexadecyltrımethylammonıum bromıde ≥97.0% for synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hexadecyltrımethylammonıum bromıde ≥97.0% for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12457",
+    "name": "Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf",
+    "price": 15.2731,
+    "image": "static/images/products/chemdor_CHI_12457.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12458",
+    "name": "Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf",
+    "price": 25.1056,
+    "image": "static/images/products/chemdor_CHI_12458.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit fumıng 37% , ph eur,bp,jp,nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12459",
+    "name": "Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur.",
+    "price": 15.2731,
+    "image": "static/images/products/chemdor_CHI_12459.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hidroklorik asi",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hidroklorik asit fumıng 37%, acs reagent, reag. ıso, reag. ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
