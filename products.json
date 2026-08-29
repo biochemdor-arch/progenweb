@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12605",
-    "name": "Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 41.1523,
-    "image": "static/images/products/chemdor_CHI_12605.png",
-    "brand": "Chemdor®",
-    "description": "Trıchloroasetik asit, ≥ %99.5 saflıkta ve analitik kalitede (ACS, Reag. Ph. Eur.) sunulmaktadır. Bu yüksek saflık, hassas kimyasal sentezler ve analitik laboratuvar uygulamaları için idealdir. Chemdor'un titiz kalite kontrol süreçleri, ürünün güvenilirliğini ve tutarlılığını garanti eder.",
-    "safety": "Kullanım sırasında asit dayanıklı eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; kimyasal, serin, kuru ve havalandırmalı bir ortamda, su ve alkali maddelerden uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12606",
-    "name": "Trıethylamıne ≥ 99%, for synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.9185,
-    "image": "static/images/products/chemdor_CHI_12606.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Trietilamin (≥ %99), organik sentezlerde baz katalizör ve nötralizan olarak yüksek verimlilik sağlar. Laboratuvar sınıfı saflığı, hassas kimyasal reaksiyonlarda güvenilir sonuçlar almanızı garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve havalandırmalı bir dolapta (fume hood) çalışmanız; ürünü serin, kuru ve iyi havalandırılmış bir ortamda, ateş kaynaklarından uzak tutmanız gerekmektedir."
-  },
-  {
-    "id": "CHI.12607",
-    "name": "Trıfluoroasetik asit 0.1% ın water, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 51.4043,
-    "image": "static/images/products/chemdor_CHI_12607.png",
-    "brand": "Chemdor®",
-    "description": "Trifluoroasetik asit (TFA) %0.1 sulu çözeltisi, LC-MS analizlerinde iyon baskılanmasını önlemek ve piki iyileştirmek için kritik bir katkı maddesi olarak kullanılır. Chemdor kalite standartlarında, LC-MS uygulamalarına özel düşük metal ve partikül içeriğiyle yüksek saflıkta sunulur. Bu ürün, hassas kromatografik analizlerde güvenilir ve tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Kullanım sırasında asit dirençli eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve havalandırmalı bir dolapta, orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12608",
-    "name": "Trıfluoroasetik asit ≥ 99.0% synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.5506,
-    "image": "static/images/products/chemdor_CHI_12608.png",
-    "brand": "Chemdor®",
-    "description": "Trifluoroasetik asit, ≥99.0% saflıkta ve sentez derecesinde olup, organik sentezlerde ve protein analizlerinde yüksek verimlilik sağlar. Chemdor kalite standartlarına uygun olarak laboratuvar uygulamaları için güvenilir bir reaktanttır.",
-    "safety": "Kullanım sırasında asit dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı, kimyasal serin, kuru ve iyi havalandırılmış bir dolapta saklanmalıdır."
-  },
-  {
-    "id": "CHI.12609",
-    "name": "Trıfluoroasetik asit ≥ 99.0% synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 76.038,
-    "image": "static/images/products/chemdor_CHI_12609.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Trifluoroasetik asit, %99.0'dan yüksek saflıkta olup organik sentezlerde ve protein hidrolizinde kritik bir reaktif olarak kullanılır. Yüksek saflık standardı, hassas laboratuvar analizlerinde tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı, ürün soğuk, kuru ve havalandırmalı bir dolapta saklanmalıdır."
-  },
-  {
     "id": "CHI.12610",
     "name": "Trypan blue, (c.ı.23850) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -6935,6 +6875,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12605",
+    "name": "Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.",
+    "price": 41.1523,
+    "image": "static/images/products/chemdor_CHI_12605.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıchloroasetik",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12606",
+    "name": "Trıethylamıne ≥ 99%, for synthesıs",
+    "price": 25.9185,
+    "image": "static/images/products/chemdor_CHI_12606.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıethylamıne ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıethylamıne ≥ 99%, for synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıethylamıne ≥ 99%, for synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıethylamıne ≥ 99%, for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12607",
+    "name": "Trıfluoroasetik asit 0.1% ın water, lc-ms",
+    "price": 51.4043,
+    "image": "static/images/products/chemdor_CHI_12607.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıfluoroasetik",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıfluoroasetik asit 0.1% ın water, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıfluoroasetik asit 0.1% ın water, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıfluoroasetik asit 0.1% ın water, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12608",
+    "name": "Trıfluoroasetik asit ≥ 99.0% synthesıs",
+    "price": 18.5506,
+    "image": "static/images/products/chemdor_CHI_12608.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıfluoroasetik",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıfluoroasetik asit ≥ 99.0% synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıfluoroasetik asit ≥ 99.0% synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıfluoroasetik asit ≥ 99.0% synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12609",
+    "name": "Trıfluoroasetik asit ≥ 99.0% synthesıs",
+    "price": 76.038,
+    "image": "static/images/products/chemdor_CHI_12609.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıfluoroasetik",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıfluoroasetik asit ≥ 99.0% synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıfluoroasetik asit ≥ 99.0% synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıfluoroasetik asit ≥ 99.0% synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
