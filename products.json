@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12600",
-    "name": "Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 89.384,
-    "image": "static/images/products/chemdor_CHI_12600.png",
-    "brand": "Chemdor®",
-    "description": "Toluen ≥ 99.8%, gaz kromatografisi sınıfı (ECD ve FID) olarak, yüksek hassasiyetli analitik ölçümler ve kromatografik analizlerde mükemmel saflık ve tekrarlanabilirlik sağlar. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, düşük arka plan sinyali ile güvenilir sonuçlar elde etmenizi destekler.",
-    "safety": "Bu kimyasal ile çalışırken uygun eldiven, gözlük ve havalandırmalı bir ortamda dikkatli olunmalı; ayrıca serin, kuru ve iyi havalandırılmış bir alanda, ateş kaynaklarından uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12601",
-    "name": "Toluen ≥99.5% , analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.2783,
-    "image": "static/images/products/chemdor_CHI_12601.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Toluen (≥%99.5, ACS saflık), organik sentezlerde ve kromatografik analizlerde yüksek performans sağlayan güvenilir bir çözücü olarak kullanılır. Analitik saflık standardı, hassas laboratuvar uygulamalarında tutarlı ve tekrarlanabilir sonuçlar elde edilmesini garanti eder.",
-    "safety": "Bu kimyasalın manipülasyonu sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve havalandırmalı bir dolapta çalışılması; ayrıca ışıktan ve ısı kaynaklarından uzakta, sıkıca kapatılmış orijinal ambalajında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12602",
-    "name": "Toluen ≥ 99.9%, for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 58.1035,
-    "image": "static/images/products/chemdor_CHI_12602.png",
-    "brand": "Chemdor®",
-    "description": "Toluen ≥ 99.9%, for liquid chromatography, yüksek saflık derecesiyle sıvı kromatografi analizlerinde güvenilir sonuçlar elde etmek için idealdir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, düşük UV emilimi ve yüksek çözünürlük gerektiren hassas laboratuvar uygulamalarında mükemmel performans gösterir. 1 piece / pack ambalajı, kimyasalın bütünlüğünü koruyarak uzun süreli saklama imkanı sunar.",
-    "safety": "Toluen buharları zararlı olduğundan, iyi havalandırılmış bir ortamda veya aspiratör altında çalışılmalı; nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar mutlaka kullanılmalıdır."
-  },
-  {
-    "id": "CHI.12603",
-    "name": "Toluıdıne blue, (c.ı.52040) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 38.8843,
-    "image": "static/images/products/chemdor_CHI_12603.png",
-    "brand": "Chemdor®",
-    "description": "Toluıdıne blue (C.I. 52040), mikroskopi uygulamalarında hücre çekirdekleri ve sitoplazmanın kontrastlı boyanması için kullanılan yüksek saflıklı bir kimyasal maddedir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, optik netlik ve tekrarlanabilir sonuçlar için laboratuvar düzeyinde saflıkta sunulmaktadır.",
-    "safety": "Çalışma sırasında nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanılması, kimyasalın kuru, serin ve karanlık bir ortamda orijinal ambalajında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12604",
-    "name": "Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 8.4035,
-    "image": "static/images/products/chemdor_CHI_12604.png",
-    "brand": "Chemdor®",
-    "description": "Trıchloroasetik asit, ≥99.5% analitik saflıkta (ACS, Reag. Ph. Eur.) olup kimyasal sentezlerde ve laboratuvar analizlerinde yüksek hassasiyet gerektiren uygulamalar için idealdir. Chemdor kalite standartlarına uygun olarak sunulan bu ürün, güvenilir sonuçlar elde etmek isteyen profesyonel laboratuvarlar için mükemmel bir tercihtir.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanılması, ayrıca maddenin serin, kuru ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12605",
     "name": "Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.",
     "specifications": "1 piece / pack",
@@ -6865,6 +6805,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Tetraethyl orthosılıcate 97.5%, for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12600",
+    "name": "Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
+    "price": 89.384,
+    "image": "static/images/products/chemdor_CHI_12600.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Toluen ≥ 99.8%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Toluen ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12601",
+    "name": "Toluen ≥99.5% , analitik saflık acs",
+    "price": 28.2783,
+    "image": "static/images/products/chemdor_CHI_12601.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Toluen ≥99.5% ,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Toluen ≥99.5% , analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Toluen ≥99.5% , analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Toluen ≥99.5% , analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12602",
+    "name": "Toluen ≥ 99.9%, for lıquıd chromatography",
+    "price": 58.1035,
+    "image": "static/images/products/chemdor_CHI_12602.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Toluen ≥ 99.9%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Toluen ≥ 99.9%, for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Toluen ≥ 99.9%, for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Toluen ≥ 99.9%, for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12603",
+    "name": "Toluıdıne blue, (c.ı.52040) for mıcroscopy",
+    "price": 38.8843,
+    "image": "static/images/products/chemdor_CHI_12603.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Toluıdıne blue,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Toluıdıne blue, (c.ı.52040) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Toluıdıne blue, (c.ı.52040) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Toluıdıne blue, (c.ı.52040) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12604",
+    "name": "Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.",
+    "price": 8.4035,
+    "image": "static/images/products/chemdor_CHI_12604.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trıchloroasetik",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trıchloroasetik asit ≥ 99.5% , analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
