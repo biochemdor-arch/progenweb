@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12580",
-    "name": "Sodıum arsenıte ≥90%",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.1595,
-    "image": "static/images/products/chemdor_CHI_12580.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum arsenit, ≥%90 saflıkta olup kimyasal sentezlerde ve endüstriyel analizlerde güvenilir bir ara madde olarak kullanılır. Chemdor kalite standartlarına uygun olarak paketlenen bu ürün, laboratuvar uygulamalarında tutarlı sonuçlar sağlar.",
-    "safety": "Bu kimyasal toksik ve kanserojen özelliklere sahip olduğundan, nitril eldiven, kimyasal sızdırmaz gözlük ve uygun havalandırmalı bir ortamda muhafaza edilmeli ve kullanmalıdır."
-  },
-  {
-    "id": "CHI.12581",
-    "name": "Starch, soluble ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 30.7954,
-    "image": "static/images/products/chemdor_CHI_12581.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı ekstra saf çözünür nişasta, yüksek saflık standardıyla biyokimyasal analizlerde ve hücre kültürü uygulamalarında tutarlı sonuçlar sunar. Laboratuvar ortamlarında güvenilir bir substrat olarak kullanılan bu ürün, minimum kontaminasyon riskiyle hassas deney protokollerine uygundur.",
-    "safety": "Kullanım sırasında toz solumayı önlemek için toz maskesi ve eldiven takılmalı, ürün kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12582",
-    "name": "Starch, soluble gr analitik saflık ıso",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 14.2506,
-    "image": "static/images/products/chemdor_CHI_12582.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı çözünür nişasta, analitik saflıkta yüksek homojenlik ve düşük ıslak kütle içeriği ile karakterize edilen, hassas laboratuvar analizleri ve kalibrasyon çalışmaları için ideal bir referans maddedir. ISO standartlarına uygun üretim süreci, ürünün tekrarlanabilir sonuçlar vermesini sağlayarak güvenilir bir performans sunar.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve gözlük kullanılması, ayrıca maddenin kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12583",
-    "name": "Sulfurıc acıd 95-98% , saf kalite",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 16.925,
-    "image": "static/images/products/chemdor_CHI_12583.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %95-98 saflıkta sülfürik asit, laboratuvar ortamlarında asitleştirme, kurutma ve çeşitli kimyasal sentez reaksiyonlarında kritik bir reaktif olarak kullanılır. Yüksek saflık standardı, hassas analitik çalışmalar ve endüstriyel süreçlerde tutarlı sonuçlar almayı garanti eder. Bu ürün, kimyasal reaksiyonlarda güvenilir ve yüksek verimlilik sağlayan saf bir kalitededir.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, kimyasal sızdırmaz gözlük ve önlük gibi kişisel koruyucu ekipmanlar zorunlu olup, ürünü serin, kuru ve havalandırmalı bir alanda, su ve diğer reaktiflerden uzak tutarak saklayınız."
-  },
-  {
-    "id": "CHI.12584",
-    "name": "Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 20.7925,
-    "image": "static/images/products/chemdor_CHI_12584.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %95-98 saflıkta sülfürik asit, farmakope standartlarına (Eur, BP, JPE, NF) uygun yüksek kalitede olup titrasyon, kurutma ve çeşitli kimyasal sentezlerde güvenilir bir reaktif olarak kullanılır. Laboratuvar analizlerinde tutarlı sonuçlar almanızı sağlayan bu ürün, endüstriyel ve akademik araştırmalarda kritik öneme sahiptir.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, yüz koruyucu gözlük ve önlük takılmalı; ayrıca serin, kuru ve iyi havalandırılmış bir ortamda, diğer kimyasallardan ayrı olarak saklanmalıdır."
-  },
-  {
     "id": "CHI.12585",
     "name": "Sulfurıc acıd 95-97% for determınatıon of hg, acs reagent, reag. ıso, reag. ph. eur.",
     "specifications": "1 piece / pack",
@@ -6585,6 +6525,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum tetraethylborate ≥ 97%  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12580",
+    "name": "Sodıum arsenıte ≥90%",
+    "price": 21.1595,
+    "image": "static/images/products/chemdor_CHI_12580.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum arsenıte",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum arsenıte ≥90%. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum arsenıte ≥90% by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum arsenıte ≥90% от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12581",
+    "name": "Starch, soluble ekstra saf",
+    "price": 30.7954,
+    "image": "static/images/products/chemdor_CHI_12581.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Starch, soluble",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Starch, soluble ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Starch, soluble ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Starch, soluble ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12582",
+    "name": "Starch, soluble gr analitik saflık ıso",
+    "price": 14.2506,
+    "image": "static/images/products/chemdor_CHI_12582.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Starch, soluble",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Starch, soluble gr analitik saflık ıso. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Starch, soluble gr analitik saflık ıso by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Starch, soluble gr analitik saflık ıso от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12583",
+    "name": "Sulfurıc acıd 95-98% , saf kalite",
+    "price": 16.925,
+    "image": "static/images/products/chemdor_CHI_12583.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sulfurıc acıd 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sulfurıc acıd 95-98% , saf kalite. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sulfurıc acıd 95-98% , saf kalite by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sulfurıc acıd 95-98% , saf kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12584",
+    "name": "Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf",
+    "price": 20.7925,
+    "image": "static/images/products/chemdor_CHI_12584.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sulfurıc acıd 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sulfurıc acıd 95-98% ,  ph eur,bp,jpe,nf от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
