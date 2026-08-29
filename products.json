@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12425",
-    "name": "Ethyl acetate ≥ 99.5%, ph. eur., bp, nf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.665,
-    "image": "static/images/products/chemdor_CHI_12425.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Ethyl acetate, Farmakope (ph. eur., bp, nf) standartlarına uygun olarak %99.5 saflıkta sunulmakta olup, hassas analizler ve farmasötik formülasyonlar için idealdir. Yüksek saflık derecesi, güvenilir sonuçlar ve tutarlı performans arayan profesyonel laboratuvar ortamlarında tercih edilen bir çözücüdür.",
-    "safety": "Bu kimyasal, iyi havalandırılmış bir ortamda, alev almaya karşı koruyucu eldiven ve gözlük takılarak, ısı ve alev kaynaklarından uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12426",
-    "name": "Ethyl acetate 99.7% lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 39.1071,
-    "image": "static/images/products/chemdor_CHI_12426.png",
-    "brand": "Chemdor®",
-    "description": "Ethyl acetate 99.7% LC-MS, yüksek saflıkta ve düşük UV absorbanslı yapısıyla sıvı kromatografi-kütle spektrometrisi (LC-MS) analizlerinde ideal bir çözücü olarak öne çıkar. Chemdor kalite standartlarında sunulan bu ürün, hassas analitik çalışmalarda güvenilir sonuçlar elde etmek için tasarlanmıştır. 99.7% saflık derecesi, iz seviyesindeki kontaminasyonları minimize ederek hassas ölçümlerde tutarlılık sağlar.",
-    "safety": "Bu kimyasalın buharları yanıcı ve uyuşturucu etkilere sahip olduğundan, iyi havalandırılmış bir ortamda çalışırken kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün, ateş kaynaklarından uzak, serin ve kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12427",
-    "name": "Ethylene glycol ≥ 99%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.1209,
-    "image": "static/images/products/chemdor_CHI_12427.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %99 ekstra saf Etilen Glikol, yüksek saflık standardıyla hassas kimyasal sentezler, soğutucu sıvı formülasyonları ve laboratuvar araştırmaları için idealdir. Ürün, minimum safsızlık içeriği sayesinde tekrarlanabilir ve güvenilir deneysel sonuçlar elde edilmesini sağlar. Her paket, kalite kontrol süreçlerinden geçmiş 1 adet yüksek konsantrasyonlu kimyasal içerir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanılması; ayrıca maddenin serin, kuru ve iyi havalandırılmış bir ortamda, orijinal kapalı kabında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12428",
-    "name": "Erıochrome black t, (c.ı. 14645)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.9228,
-    "image": "static/images/products/chemdor_CHI_12428.png",
-    "brand": "Chemdor®",
-    "description": "Eriochrome Black T, su sertliği tayini için titrasyonlarda kullanılan yüksek saflıklı bir metalo-indikatördür. Chemdor kalite standartlarına uygun olarak, hassas laboratuvar analizlerinde tutarlı ve net renk değişimi sağlar. Bu ürün, kimyasal analizlerde güvenilir sonuçlar almak için ideal bir seçenektir.",
-    "safety": "Kullanım sırasında eldiven ve gözlük takılmalı, kuru, serin ve karanlık bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12429",
-    "name": "Evans blue, (c.ı. 23860) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 37.4422,
-    "image": "static/images/products/chemdor_CHI_12429.png",
-    "brand": "Chemdor®",
-    "description": "Evans Blue, histokimyasal boyama ve mikroskopi çalışmalarında doku penetrasyonunu ve sızıntıyı değerlendirmek için kullanılan yüksek saflıklı bir aniyonik boya olarak öne çıkar. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, hücre membranı bütünlüğünün analizinde tutarlı ve net sonuçlar sağlar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve ışık almayan bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12430",
     "name": "Fast green fcf , (c.ı. 42053) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -4415,6 +4355,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Eosın yellow, (c.ı. 45380) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12425",
+    "name": "Ethyl acetate ≥ 99.5%, ph. eur., bp, nf",
+    "price": 19.665,
+    "image": "static/images/products/chemdor_CHI_12425.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ethyl acetate ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ethyl acetate ≥ 99.5%, ph. eur., bp, nf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ethyl acetate ≥ 99.5%, ph. eur., bp, nf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ethyl acetate ≥ 99.5%, ph. eur., bp, nf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12426",
+    "name": "Ethyl acetate 99.7% lc-ms",
+    "price": 39.1071,
+    "image": "static/images/products/chemdor_CHI_12426.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ethyl acetate 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ethyl acetate 99.7% lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ethyl acetate 99.7% lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ethyl acetate 99.7% lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12427",
+    "name": "Ethylene glycol ≥ 99%, ekstra saf",
+    "price": 28.1209,
+    "image": "static/images/products/chemdor_CHI_12427.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ethylene glycol",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ethylene glycol ≥ 99%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ethylene glycol ≥ 99%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ethylene glycol ≥ 99%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12428",
+    "name": "Erıochrome black t, (c.ı. 14645)",
+    "price": 13.9228,
+    "image": "static/images/products/chemdor_CHI_12428.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Erıochrome blac",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Erıochrome black t, (c.ı. 14645). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Erıochrome black t, (c.ı. 14645) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Erıochrome black t, (c.ı. 14645) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12429",
+    "name": "Evans blue, (c.ı. 23860) for mıcroscopy",
+    "price": 37.4422,
+    "image": "static/images/products/chemdor_CHI_12429.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Evans blue, (c.",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Evans blue, (c.ı. 23860) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Evans blue, (c.ı. 23860) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Evans blue, (c.ı. 23860) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
