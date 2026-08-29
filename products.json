@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12555",
-    "name": "Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.563,
-    "image": "static/images/products/chemdor_CHI_12555.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum klorür, ≥99.5% saflıkta ve ph.eur, bp, usp, jp standartlarına uygun olarak, titrasyon çözeltileri ve tampon hazırlama gibi hassas analizlerde güvenilir bir referans maddesi olarak kullanılır. Chemdor'un yüksek saflık garantisi, laboratuvar sonuçlarınızda tutarlılık ve doğruluk sağlar.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve koruyucu gözlük takılarak, kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12556",
-    "name": "Sodıum chlorıde ≥ 99.5%, analitik saflık acs,ıso,reag.ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 11.6548,
-    "image": "static/images/products/chemdor_CHI_12556.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Klorür, ≥%99.5 saflıkta ve analitik kalitede (ACS, ISO, Reag. Ph. Eur.) sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, tampon çözelti hazırlama ve standart laboratuvar prosedürleri için idealdir. Ürün, güvenilir sonuçlar için titiz kalite kontrol süreçlerinden geçirilmiştir.",
-    "safety": "Toz oluşumuna karşı laboratuvar gözlüğü ve eldiven kullanılması önerilir; kuru, serin ve iyi havalandırılmış bir ortamda, orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12557",
-    "name": "Trı-sodıum cıtrate dıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.2775,
-    "image": "static/images/products/chemdor_CHI_12557.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Trı-sodıum cıtrate dıhydrate, ≥%99 analitik saflıkta olup ACS, ISO ve Reag. Ph Eur standartlarına uygun olarak laboratuvar analizlerinde ve tampon hazırlamada güvenle kullanılır. Yüksek saflık derecesi, hassas kimyasal reaksiyonlar ve kalite kontrol süreçleri için ideal bir performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12558",
-    "name": "Sodıum dıhydrogen phosphate dıhydrate ≥ 99%, ph eur,bp,usp,jpe,e 339.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.4116,
-    "image": "static/images/products/chemdor_CHI_12558.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum dihidrojen fosfat dihidrat, ≥%99 saflıkta olup Ph. Eur., BP, USP, JP ve E 339 standartlarına uygun olarak laboratuvar analizlerinde, tampon çözelti hazırlamada ve gıda katkı maddesi çalışmalarında kullanılır. Chemdor tarafından sunulan bu yüksek saflıklı ürün, hassas kimyasal deneyler ve kalite kontrol süreçleri için güvenilir bir referans noktası sunar.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun eldiven, gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve havalandırmalı bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12559",
-    "name": "Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.3722,
-    "image": "static/images/products/chemdor_CHI_12559.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Dikromat, analitik saflıkta (ACS, Reag. Ph. Eur.) ve %98'den yüksek saflıkta sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, kalite kontrol testleri ve standart çözeltilerinin hazırlanması için idealdir. Laboratuvar uygulamalarında güvenilir sonuçlar elde etmek için tasarlanmıştır.",
-    "safety": "Göz, cilt ve solunum yollarına zarar verebilir; bu nedenle nitril eldiven, kimyasal sızdırmaz gözlük ve uygun havalandırma altında saklanmalıdır."
-  },
-  {
     "id": "CHI.12560",
     "name": "Dı-sodıum hydrogen phosphate dıhydrate ≥ 99.5%, reagent grade, reag. ph eur",
     "specifications": "1 piece / pack",
@@ -6235,6 +6175,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12555",
+    "name": "Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp",
+    "price": 29.563,
+    "image": "static/images/products/chemdor_CHI_12555.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum chlorıde",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum chlorıde ≥ 99.5%, ph.eur, bp,usp,jp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12556",
+    "name": "Sodıum chlorıde ≥ 99.5%, analitik saflık acs,ıso,reag.ph eur",
+    "price": 11.6548,
+    "image": "static/images/products/chemdor_CHI_12556.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum chlorıde",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum chlorıde ≥ 99.5%, analitik saflık acs,ıso,reag.ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum chlorıde ≥ 99.5%, analitik saflık acs,ıso,reag.ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum chlorıde ≥ 99.5%, analitik saflık acs,ıso,reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12557",
+    "name": "Trı-sodıum cıtrate dıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 21.2775,
+    "image": "static/images/products/chemdor_CHI_12557.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trı-sodıum cıtr",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trı-sodıum cıtrate dıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trı-sodıum cıtrate dıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trı-sodıum cıtrate dıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12558",
+    "name": "Sodıum dıhydrogen phosphate dıhydrate ≥ 99%, ph eur,bp,usp,jpe,e 339.",
+    "price": 31.4116,
+    "image": "static/images/products/chemdor_CHI_12558.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum dıhydrog",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum dıhydrogen phosphate dıhydrate ≥ 99%, ph eur,bp,usp,jpe,e 339.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum dıhydrogen phosphate dıhydrate ≥ 99%, ph eur,bp,usp,jpe,e 339. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum dıhydrogen phosphate dıhydrate ≥ 99%, ph eur,bp,usp,jpe,e 339. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12559",
+    "name": "Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur",
+    "price": 13.3722,
+    "image": "static/images/products/chemdor_CHI_12559.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum dısulfıt",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum dısulfıte ≥ 98%, analitik saflık acs, reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
