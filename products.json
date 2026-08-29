@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12575",
-    "name": "Sodıum thıosulphate 0,1 mol/l (0,1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.464,
-    "image": "static/images/products/chemdor_CHI_12575.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Tiyosülfat 0,1 mol/L çözeltisi, iotometrik analizlerde ve gümüş iyonu tayinlerinde kullanılan yüksek saflıkta bir standart çözücüdür. Laboratuvar kalite standartlarına uygun olarak hazırlanan bu ürün, hassas ölçümler için güvenilir bir referans noktası sunar.",
-    "safety": "Çözeltiyle temas halinde eldiven ve koruyucu gözlük kullanılması, ayrıca çözeltinin serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12576",
-    "name": "Sodıum algınate",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.8573,
-    "image": "static/images/products/chemdor_CHI_12576.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Aljinat, yüksek saflıkta olup gıda, kozmetik ve biyomedikal uygulamalarda jel oluşturucu ve stabilizatör olarak güvenle kullanılmaktadır. Laboratuvar standartlarına uygun bu ürün, tutarlı viskozite ve çözünürlük özellikleriyle hassas formülasyonlarda mükemmel performans sağlar.",
-    "safety": "Toz formundaki ürünü manipüle ederken toz maskesi ve eldiven kullanılması, ayrıca kuru, serin ve havalandırmalı bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12577",
-    "name": "Trı-sodıum phosphate dodecahydrate ≥98% acs, reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.6599,
-    "image": "static/images/products/chemdor_CHI_12577.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Trı-sodıum phosphate dodecahydrate, ≥98% saflıkta ACS, Reag. Ph. Eur. standartlarına uygun olarak laboratuvar analizleri, tampon hazırlama ve biyokimyasal uygulamalar için yüksek performans sağlar. Bu ürün, kimyasal reaksiyonlarda güvenilir bir reaktif olarak kullanılmak üzere titizlikle saflaştırılmıştır.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun maske, eldiven ve koruyucu gözlük takılmalı; ürün kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12578",
-    "name": "Sodıum tetraethylborate ≥ 97% ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 69.129,
-    "image": "static/images/products/chemdor_CHI_12578.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum tetraetilborat, yüksek saflıkta (≥ %97) ve Chemdor kalite standartlarında sunularak hassas organik sentezlerde ve bor kimyası araştırmalarında güvenilir bir reaktif olarak kullanılır. Bu ürün, laboratuvar ortamlarında tutarlı sonuçlar almak isteyen profesyoneller için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12579",
-    "name": "Sodıum tetraethylborate ≥ 97% ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 325.3509,
-    "image": "static/images/products/chemdor_CHI_12579.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum tetraetilborat, yüksek saflıkta (≥%97) organik sentezlerde ve bor kimyası araştırmalarında kritik bir reaktif olarak kullanılır. Chemdor kalite standartlarında sunulan bu ürün, laboratuvar uygulamalarında tutarlı sonuçlar almanızı sağlar.",
-    "safety": "Hidrojen gazı çıkarma riski nedeniyle su ve nemden uzakta, havasız kaplarda saklanmalı ve manipülasyon sırasında kimyasal sızdırmaz eldiven, yüz koruyucu gözlük ve uygun havalandırma altında çalışılmalıdır."
-  },
-  {
     "id": "CHI.12580",
     "name": "Sodıum arsenıte ≥90%",
     "specifications": "1 piece / pack",
@@ -6515,6 +6455,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum hydroxıde 1 mol/l (1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12575",
+    "name": "Sodıum thıosulphate 0,1 mol/l (0,1 n)",
+    "price": 13.464,
+    "image": "static/images/products/chemdor_CHI_12575.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum thıosulp",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum thıosulphate 0,1 mol/l (0,1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum thıosulphate 0,1 mol/l (0,1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum thıosulphate 0,1 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12576",
+    "name": "Sodıum algınate",
+    "price": 31.8573,
+    "image": "static/images/products/chemdor_CHI_12576.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum algınate",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum algınate. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum algınate by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum algınate от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12577",
+    "name": "Trı-sodıum phosphate dodecahydrate ≥98% acs, reag.ph.eur",
+    "price": 24.6599,
+    "image": "static/images/products/chemdor_CHI_12577.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trı-sodıum phos",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trı-sodıum phosphate dodecahydrate ≥98% acs, reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trı-sodıum phosphate dodecahydrate ≥98% acs, reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trı-sodıum phosphate dodecahydrate ≥98% acs, reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12578",
+    "name": "Sodıum tetraethylborate ≥ 97% ",
+    "price": 69.129,
+    "image": "static/images/products/chemdor_CHI_12578.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum tetraeth",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum tetraethylborate ≥ 97% . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum tetraethylborate ≥ 97%  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum tetraethylborate ≥ 97%  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12579",
+    "name": "Sodıum tetraethylborate ≥ 97% ",
+    "price": 325.3509,
+    "image": "static/images/products/chemdor_CHI_12579.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum tetraeth",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum tetraethylborate ≥ 97% . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum tetraethylborate ≥ 97%  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum tetraethylborate ≥ 97%  от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
