@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12545",
-    "name": "Sılıca gel 60, for column chromatgraphy ,230-400 mesh",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 35.5412,
-    "image": "static/images/products/chemdor_CHI_12545.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Sılıca Gel 60, 230-400 mesh granülometrisi ile kolon kromatografisinde yüksek çözünürlüklü ve etkili ayırma işlemleri için idealdir. Laboratuvar standartlarına uygun yüksek saflıkta üretilen bu ürün, organik bileşiklerin saflaştırılmasında tutarlı ve güvenilir performans sağlar.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve eldiven kullanılması, ürünün kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12546",
-    "name": "Sılver nıtrate  ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 157.0185,
-    "image": "static/images/products/chemdor_CHI_12546.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Gümüş Nitrat, ≥99.8% analitik saflıkta (ACS, ISO, Reag. Ph. Eur.) sunulmakta olup hassas kimyasal analizler ve sentez reaksiyonları için idealdir. Yüksek saflık standardı, laboratuvar sonuçlarınızın güvenilirliğini ve tekrarlanabilirliğini garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve ışık almayan bir ortamda orijinal ambalajında saklamalısınız."
-  },
-  {
-    "id": "CHI.12547",
-    "name": "Sılver sulfate ≥ 98.5%, gr analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 86.7227,
-    "image": "static/images/products/chemdor_CHI_12547.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Silver Sulfate (Gümüş Sülfat), ≥%98.5 saflıkta ve ACS analitik kalitede olup hassas kimyasal analizler ve laboratuvar araştırmaları için idealdir. Yüksek saflık standardı, tekrarlanabilir ve güvenilir deneysel sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızıntıya dayanıklı gözlük ve laboratuvar önlüğü kullanılması, maddenin kuru, serin ve havalandırmalı bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12548",
-    "name": "Sılver sulfate ≥ 98.5%, gr analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 337.4252,
-    "image": "static/images/products/chemdor_CHI_12548.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Silver Sulfate (Ag2SO4), %98.5 saflıkta ve ACS analitik kalitede olup hassas kimyasal analizler, elektrokimyasal çalışmalar ve referans standartları için idealdir. Yüksek saflık derecesi, güvenilir ve tekrarlanabilir laboratuvar sonuçları elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, gözlük ve laboratuvar önlüğü kullanılması, kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12549",
-    "name": "Sılver nıtrate 0,1 mol/l (0,1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 132.6601,
-    "image": "static/images/products/chemdor_CHI_12549.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Silver Nitrate 0,1 mol/l çözeltisi, titrasyon analizleri ve kalitatif testler için yüksek saflıkta hazırlanmış hassas bir standart çözüktür. Laboratuvar ortamlarında güvenilir sonuçlar elde etmek amacıyla titizlikle formüle edilmiştir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, güvenlik gözlüğü ve laboratuvar önlüğü takılmalı, çözelti karanlık ve serin bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12550",
     "name": "Sodıum acetate trıhydrate ≥ 99.5%, ekstra saf, ph.eur, bp,jp,usp,fcc,e262",
     "specifications": "1 piece / pack",
@@ -6095,6 +6035,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sılıca gel 60, for column chromatgraphy ,70-230 mesh от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12545",
+    "name": "Sılıca gel 60, for column chromatgraphy ,230-400 mesh",
+    "price": 35.5412,
+    "image": "static/images/products/chemdor_CHI_12545.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılıca gel 60, ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılıca gel 60, for column chromatgraphy ,230-400 mesh. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılıca gel 60, for column chromatgraphy ,230-400 mesh by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılıca gel 60, for column chromatgraphy ,230-400 mesh от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12546",
+    "name": "Sılver nıtrate  ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 157.0185,
+    "image": "static/images/products/chemdor_CHI_12546.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılver nıtrate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılver nıtrate  ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılver nıtrate  ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılver nıtrate  ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12547",
+    "name": "Sılver sulfate ≥ 98.5%, gr analitik saflık acs",
+    "price": 86.7227,
+    "image": "static/images/products/chemdor_CHI_12547.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılver sulfate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılver sulfate ≥ 98.5%, gr analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılver sulfate ≥ 98.5%, gr analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılver sulfate ≥ 98.5%, gr analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12548",
+    "name": "Sılver sulfate ≥ 98.5%, gr analitik saflık acs",
+    "price": 337.4252,
+    "image": "static/images/products/chemdor_CHI_12548.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılver sulfate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılver sulfate ≥ 98.5%, gr analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılver sulfate ≥ 98.5%, gr analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılver sulfate ≥ 98.5%, gr analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12549",
+    "name": "Sılver nıtrate 0,1 mol/l (0,1 n)",
+    "price": 132.6601,
+    "image": "static/images/products/chemdor_CHI_12549.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sılver nıtrate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sılver nıtrate 0,1 mol/l (0,1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sılver nıtrate 0,1 mol/l (0,1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sılver nıtrate 0,1 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
