@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12565",
-    "name": "Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.9308,
-    "image": "static/images/products/chemdor_CHI_12565.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Sodyum Hidroksit, ≥%98 saflıkta pelet formunda sunulmakta olup; pH eur, bp, fcc, jp, nf ve e 524 standartlarına tam uyum sağlamaktadır. Bu yüksek saflık, titrasyon, asit-baz nötralizasyonu ve çeşitli organik sentezler gibi hassas laboratuvar uygulamaları için ideal bir performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken mutlaka asit baz dayanımlı eldiven, koruyucu gözlük ve önlük kullanmalı; ürünü kuru, serin ve havalandırmalı bir ortamda, nemden uzak tutarak saklamalısınız."
-  },
-  {
-    "id": "CHI.12566",
-    "name": "Sodıum nıtrıte ≥ 99%, ph eur,bp,usp,fcc,e250",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.8908,
-    "image": "static/images/products/chemdor_CHI_12566.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum nitrit, ≥%99 saflıkta ve Eur, BP, USP, FCC standartlarına uygun olarak sunulan, gıda koruyucu (E250) ve kimyasal sentezlerde kritik öneme sahip yüksek kaliteli bir bileşiktir. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, laboratuvar analizleri ve endüstriyel uygulamalar için güvenilir bir performans sergiler.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı; ürün, kuru, serin ve iyi havalandırılmış bir ortamda, oksitleyicilerden uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12567",
-    "name": "Sodıum sulfate susuz kalite ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 16.7415,
-    "image": "static/images/products/chemdor_CHI_12567.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı susuz sodyum sülfat, ≥%99.5 saflıkta ve ACS, ISO, Reag. Ph Eur standartlarına uygun analitik kalitede sunulmaktadır. Yüksek saflığı sayesinde hassas kimyasal analizlerde ve kurutma işlemlerinde güvenilir bir performans sergiler. Laboratuvar uygulamalarında tutarlı sonuçlar alabilmek için ideal bir reaktif seçeneğidir.",
-    "safety": "Toz oluşumuna karşı toz maskesi, koruyucu gözlük ve eldiven kullanılması ile kuru ve serin bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12568",
-    "name": "Sodıum sulfıte susuz kalite ≥ 98%, reag.ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.8041,
-    "image": "static/images/products/chemdor_CHI_12568.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum sülfat (Na2SO4), yüksek saflıkta (≥%98) ve reag.ph eur kalitesinde, kimyasal analizler ve laboratuvar preparasyonları için idealdir. Chemdor markasının sunduğu bu susuz form, düşük ıslaklık içeriği sayesinde hassas deneysel çalışmalarda güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için uygun eldiven ve gözlük kullanılması, kimyasalın kuru ve serin bir ortamda orijinal ambalajında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12569",
-    "name": "Sodıum thıosulfate susuz kalite ≥ 98%",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 23.3489,
-    "image": "static/images/products/chemdor_CHI_12569.png",
-    "brand": "Chemdor®",
-    "description": "Sodyum tiyosülfat susuz, fotokimya ve iyotometri dahil olmak üzere çeşitli analizlerde kullanılan yüksek saflıkta bir kimyasal reaktiftir. Chemdor kalite standardı, %98 ve üzeri saflık garantisiyle laboratuvar hassasiyetine uygun güvenilir sonuçlar sunar. Bu ürün, titrasyon çözeltilerinin hazırlanmasında ve redoks reaksiyonlarında kritik bir rol oynar.",
-    "safety": "Çalışma sırasında toz solumayı önlemek için uygun eldiven ve gözlük kullanılması, kimyasalın kuru ve serin bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12570",
     "name": "Sodıum acetate susuz kalite ≥ 99%, analitik saflık acs,reag.ph eur.",
     "specifications": "1 piece / pack",
@@ -6375,6 +6315,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Sodıum hydroxıde ≥ 99%, pelet form saf kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12565",
+    "name": "Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524",
+    "price": 18.9308,
+    "image": "static/images/products/chemdor_CHI_12565.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum hydroxıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum hydroxıde ≥ 98%, pelet form  ph eur,bp,fcc,jp,nf,e 524 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12566",
+    "name": "Sodıum nıtrıte ≥ 99%, ph eur,bp,usp,fcc,e250",
+    "price": 29.8908,
+    "image": "static/images/products/chemdor_CHI_12566.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum nıtrıte ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum nıtrıte ≥ 99%, ph eur,bp,usp,fcc,e250. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum nıtrıte ≥ 99%, ph eur,bp,usp,fcc,e250 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum nıtrıte ≥ 99%, ph eur,bp,usp,fcc,e250 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12567",
+    "name": "Sodıum sulfate susuz kalite ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 16.7415,
+    "image": "static/images/products/chemdor_CHI_12567.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum sulfate ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum sulfate susuz kalite ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum sulfate susuz kalite ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum sulfate susuz kalite ≥ 99.5%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12568",
+    "name": "Sodıum sulfıte susuz kalite ≥ 98%, reag.ph eur",
+    "price": 24.8041,
+    "image": "static/images/products/chemdor_CHI_12568.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum sulfıte ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum sulfıte susuz kalite ≥ 98%, reag.ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum sulfıte susuz kalite ≥ 98%, reag.ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum sulfıte susuz kalite ≥ 98%, reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12569",
+    "name": "Sodıum thıosulfate susuz kalite ≥ 98%",
+    "price": 23.3489,
+    "image": "static/images/products/chemdor_CHI_12569.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Sodıum thıosulf",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Sodıum thıosulfate susuz kalite ≥ 98%. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Sodıum thıosulfate susuz kalite ≥ 98% by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Sodıum thıosulfate susuz kalite ≥ 98% от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
