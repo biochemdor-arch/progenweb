@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12400",
-    "name": "Carbol fuchsın dye toz form, for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 5.4669,
-    "image": "static/images/products/chemdor_CHI_12400.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Carbol Fuchsın, mikroskopi çalışmalarında Gram pozitif bakterilerin ve sporelerin yüksek kontrastlı boyanması için kullanılan yüksek saflıkta bir toz formdadır. Laboratuvar ortamında tutarlı ve net sonuçlar elde etmek amacıyla titizlikle formüle edilmiştir.",
-    "safety": "Kullanım sırasında nitril eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün kuru, serin ve ışıktan korunaklı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12401",
-    "name": "Carmıne, (c.ı.75470) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 54.7211,
-    "image": "static/images/products/chemdor_CHI_12401.png",
-    "brand": "Chemdor®",
-    "description": "Carmine (c.i.75470), mikroskopi çalışmalarında histolojik boyama ve hücre yapılarının netleştirilmesi için kullanılan yüksek saflıkta bir kimyasal renklendiricidir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar ortamlarında tutarlı ve güvenilir sonuçlar elde etmek amacıyla tasarlanmıştır.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve ışıktan korunan bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12402",
-    "name": "Chlorobenzene ≥ 99% , for synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 47.9039,
-    "image": "static/images/products/chemdor_CHI_12402.png",
-    "brand": "Chemdor®",
-    "description": "Chlorobenzene ≥ 99%, sentez amaçlı yüksek saflıkta bir kimyasal olup, organik sentezlerde ve farmasötik araştırmalarda güvenilir bir başlangıç maddesi olarak kullanılır. Chemdor kalite standartlarına uygun olarak titizlikle saflaştırılmış bu ürün, hassas laboratuvar uygulamaları için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün serin, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12403",
-    "name": "Chloroform ≥ 99%, bp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 32.4997,
-    "image": "static/images/products/chemdor_CHI_12403.png",
-    "brand": "Chemdor®",
-    "description": "Chloroform ≥ 99%, bp kalitesindeki bu ürün, kimyasal sentezlerde ve analizlerde yüksek saflık gerektiren kritik uygulamalar için idealdir. Chemdor'un titiz saflık standartları, güvenilir ve tekrarlanabilir laboratuvar sonuçları elde edilmesini sağlar. Bu yüksek konsantrasyonlu çözücü, hassas deney protokollerinde mükemmel performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken mutlaka kimyasal dayanıklı eldiven, gözlük ve fume hood altında çalışılmalı; ayrıca serin, karanlık ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12404",
-    "name": "Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.6577,
-    "image": "static/images/products/chemdor_CHI_12404.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı sitrik asit monohidrat, ACS, ISO ve Reag. Ph. Eur. standartlarına uygun ≥%99.7 analitik saflıkta olup titrasyon, tampon hazırlama ve metal iyonları ile kompleks oluşturmak için idealdir. Yüksek saflık derecesi, hassas kimyasal analizlerde ve farmasötik araştırmalarda güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Çalışma sırasında gözlük, eldiven ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü kuru, serin bir ortamda orijinal ambalajında saklamalısınız."
-  },
-  {
     "id": "CHI.12405",
     "name": "Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed)",
     "specifications": "1 piece / pack",
@@ -4065,6 +4005,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Calcıum nıtrate tetrahydrate ≥ 99%, analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12400",
+    "name": "Carbol fuchsın dye toz form, for mıcroscopy",
+    "price": 5.4669,
+    "image": "static/images/products/chemdor_CHI_12400.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Carbol fuchsın ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Carbol fuchsın dye toz form, for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Carbol fuchsın dye toz form, for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Carbol fuchsın dye toz form, for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12401",
+    "name": "Carmıne, (c.ı.75470) for mıcroscopy",
+    "price": 54.7211,
+    "image": "static/images/products/chemdor_CHI_12401.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Carmıne, (c.ı.7",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Carmıne, (c.ı.75470) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Carmıne, (c.ı.75470) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Carmıne, (c.ı.75470) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12402",
+    "name": "Chlorobenzene ≥ 99% , for synthesıs",
+    "price": 47.9039,
+    "image": "static/images/products/chemdor_CHI_12402.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Chlorobenzene ≥",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Chlorobenzene ≥ 99% , for synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Chlorobenzene ≥ 99% , for synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Chlorobenzene ≥ 99% , for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12403",
+    "name": "Chloroform ≥ 99%, bp",
+    "price": 32.4997,
+    "image": "static/images/products/chemdor_CHI_12403.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Chloroform ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Chloroform ≥ 99%, bp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Chloroform ≥ 99%, bp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Chloroform ≥ 99%, bp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12404",
+    "name": "Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur",
+    "price": 21.6577,
+    "image": "static/images/products/chemdor_CHI_12404.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Cıtrıc acıd mon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
