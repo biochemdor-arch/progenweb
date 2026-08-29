@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12415",
-    "name": "Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 109.7831,
-    "image": "static/images/products/chemdor_CHI_12415.png",
-    "brand": "Chemdor®",
-    "description": "Dımethyl sulfoxıde (DMSO), gaz kromatografisi analizlerinde yüksek hassasiyet gerektiren ECD ve FID dedektörleri için ideal olan ≥%99.8 saflıkta, kimyasal olarak saf bir çözücüdür. Chemdor kalite standartlarında sunulan bu ürün, düşük arka plan sinyali ve üstün çözünürlük sağlayarak güvenilir analitik sonuçlar elde edilmesine olanak tanır.",
-    "safety": "Kullanım sırasında nitril eldiven, kimyasal sızıntıya dayanıklı önlük ve gözlük takılmalı; ürün serin, kuru ve iyi havalandırılmış bir ortamda, alev kaynaklarından uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12416",
-    "name": "Dımethyl sulfoxıde ≥ 99.9%, analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 36.7211,
-    "image": "static/images/products/chemdor_CHI_12416.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Dimetilsülfoksit (DMSO), %99.9 analitik saflıkta (ACS) sunulmakta olup yüksek çözünücülük kapasitesi sayesinde organik sentez, biyokimya ve farmakoloji laboratuvarlarında kritik bir çözücü olarak kullanılmaktadır. Ürün, titrasyon ve hassas analizler için ideal olan üstün kimyasal saflığı ve düşük ıslaklık seviyesi ile güvenilir sonuçlar sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün serin, kuru ve havalandırmalı bir ortamda, ıslaklığa karşı koruyucu kapakla saklanmalıdır."
-  },
-  {
-    "id": "CHI.12417",
-    "name": "N,n-dımethylformamıde ≥ 99% , ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 23.7422,
-    "image": "static/images/products/chemdor_CHI_12417.png",
-    "brand": "Chemdor®",
-    "description": "N,N-Dimethylformamide (DMF) ≥ %99 ekstra saflıkta, organik sentezlerde ve polimer üretiminde yüksek verimlilik sağlayan mükemmel bir çözücü olarak kullanılır. Chemdor'un titiz saflık kontrolü, hassas laboratuvar analizlerinde güvenilir ve tutarlı sonuçlar almanızı garanti eder.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmazlık gözlük ve havalandırmalı bir dolapta (fume hood) çalışılması; ayrıca kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda, ateş kaynaklarından uzak tutulması gerekmektedir."
-  },
-  {
-    "id": "CHI.12418",
-    "name": "N,n-dımethylformamıde ≥ 99.8%,  gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 73.3767,
-    "image": "static/images/products/chemdor_CHI_12418.png",
-    "brand": "Chemdor®",
-    "description": "N,N-Dimethylformamide (DMF), GC sınıfı ECD ve FID dedektörleriyle uyumlu ≥%99.8 saflıkta, hassas gaz kromatografisi analizleri için ideal bir çözücüdür. Chemdor'un yüksek saflık garantisi, düşük arka plan sinyali ve mükemmel tekrarlanabilirlik sunarak kritik kalite kontrol süreçlerinde güvenilir sonuçlar sağlar. Bu ürün, özellikle iz seviyesindeki bileşenlerin tespitinde üstün performans gösterir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda tutmalıdır."
-  },
-  {
-    "id": "CHI.12419",
-    "name": "Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 83.8384,
-    "image": "static/images/products/chemdor_CHI_12419.png",
-    "brand": "Chemdor®",
-    "description": "Decane-1 sulphonıc acıd sodıum salt, HPLC analizlerinde yüksek saflık gerektiren kromatografik çalışmalarda kritik bir referans standardı olarak kullanılır. Chemdor markası, ≥%99 saflık garantisiyle laboratuvar hassasiyetine uygun, yüksek performanslı ve güvenilir bir kimyasal sunar. Bu ürün, özellikle yağ asidi analizi ve kalite kontrol süreçlerinde tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve kuru, serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12420",
     "name": "Dıbutyl phthalate ≥99.0%",
     "specifications": "1 piece / pack",
@@ -4275,6 +4215,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Dıethyl ether  ≥ 99.5%, bp , ph. eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12415",
+    "name": "Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
+    "price": 109.7831,
+    "image": "static/images/products/chemdor_CHI_12415.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dımethyl sulfox",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dımethyl sulfoxıde ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12416",
+    "name": "Dımethyl sulfoxıde ≥ 99.9%, analitik saflık acs",
+    "price": 36.7211,
+    "image": "static/images/products/chemdor_CHI_12416.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dımethyl sulfox",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dımethyl sulfoxıde ≥ 99.9%, analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dımethyl sulfoxıde ≥ 99.9%, analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dımethyl sulfoxıde ≥ 99.9%, analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12417",
+    "name": "N,n-dımethylformamıde ≥ 99% , ekstra saf",
+    "price": 23.7422,
+    "image": "static/images/products/chemdor_CHI_12417.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N,n-dımethylfor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N,n-dımethylformamıde ≥ 99% , ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N,n-dımethylformamıde ≥ 99% , ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N,n-dımethylformamıde ≥ 99% , ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12418",
+    "name": "N,n-dımethylformamıde ≥ 99.8%,  gaz kromatografisi sınıfı ecd and fıd",
+    "price": 73.3767,
+    "image": "static/images/products/chemdor_CHI_12418.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N,n-dımethylfor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N,n-dımethylformamıde ≥ 99.8%,  gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N,n-dımethylformamıde ≥ 99.8%,  gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N,n-dımethylformamıde ≥ 99.8%,  gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12419",
+    "name": "Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc",
+    "price": 83.8384,
+    "image": "static/images/products/chemdor_CHI_12419.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Decane-1 sulpho",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Decane-1 sulphonıc acıd sodıum salt ≥99%  for hplc от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
