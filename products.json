@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12535",
-    "name": "2-propanol ≥ 99.5%, ph eur,bp,jp,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.9199,
-    "image": "static/images/products/chemdor_CHI_12535.png",
-    "brand": "Chemdor®",
-    "description": "2-propanol, ≥%99.5 saflıkta ve PH Eur, BP, JP, USP standartlarına uygun olarak laboratuvarlarda hassas analizler, çözgen olarak ve temizlik işlemlerinde güvenle kullanılmaktadır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, yüksek saflık derecesiyle tekrarlanabilir ve güvenilir sonuçlar sağlar.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün, havalandırmalı bir dolapta, ışıktan ve ateş kaynaklarından uzakta serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12536",
-    "name": "2-propanol ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 101.7991,
-    "image": "static/images/products/chemdor_CHI_12536.png",
-    "brand": "Chemdor®",
-    "description": "2-propanol, gaz kromatografisi analizlerinde yüksek hassasiyet gerektiren ECD ve FID dedektörleri için ideal olan ≥%99.8 saflıkta, kimyasal sınıfı bir çözücüdür. Chemdor kalite standartlarında sunulan bu ürün, düşük arka plan sinyali ve üstün saflığıyla güvenilir sonuçlar sağlar. Laboratuvar ortamında hassas ölçümler ve örnek hazırlama süreçlerinde tercih edilen profesyonel bir seçenektir.",
-    "safety": "Bu kimyasal, yanıcı ve uçucu bir madde olduğu için havalandırması iyi bir dolapta, ateş kaynaklarından uzakta saklanmalı ve manipülasyon sırasında nitril eldiven ile kimyasal sızdırmaz gözlük kullanılması gerekmektedir."
-  },
-  {
-    "id": "CHI.12537",
-    "name": "2-propanol ≥ 99.95%, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.9695,
-    "image": "static/images/products/chemdor_CHI_12537.png",
-    "brand": "Chemdor®",
-    "description": "2-propanol ≥ 99.95%, lc-ms kalitesi, yüksek hassasiyetli sıvı kromatografisi ve kütle spektrometrisi analizleri için ideal bir çözücü olarak kullanılır. Chemdor'un %99.95 üzerindeki saflık garantisi, iz seviyesindeki kontaminasyonların minimumda tutulmasını sağlayarak güvenilir ve tekrarlanabilir laboratuvar sonuçları sunar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ayrıca ürün, havalandırmalı dolapta, ateş kaynaklarından uzak ve serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12538",
-    "name": "Pyronın b, (c.ı.45010) ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 142.9514,
-    "image": "static/images/products/chemdor_CHI_12538.png",
-    "brand": "Chemdor®",
-    "description": "Pyronin B, özellikle mikrobiyolojide ve histolojide Gram-pozitif bakterilerin ve mantarların ayırt edilmesinde kullanılan yüksek saflıkta bir asit baz boyasıdır. Chemdor kalite standartlarında sunulan bu ürün, tutarlı renk verimi ve düşük arka plan gürültüsü ile hassas laboratuvar analizleri için idealdir.",
-    "safety": "Kullanım sırasında kimyasal dirençli eldiven ve gözlük takılmalı, ürün kuru, serin ve ışıktan korunaklı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12539",
-    "name": "Rhodızonıc acıd dısodıum salt ≥ 97%",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 39.0022,
-    "image": "static/images/products/chemdor_CHI_12539.png",
-    "brand": "Chemdor®",
-    "description": "Rhodizonik asit disodyum tuzu (≥%97 saflık), Chemdor kalite standartlarında, özellikle demir ve çelik analizlerinde kullanılan hassas kimyasal bir reaktif olarak öne çıkar. Yüksek saflık derecesi, spektrofotometrik ve gravimetrik ölçümlerde güvenilir ve tekrarlanabilir sonuçlar almanızı sağlar. Bu ürün, laboratuvar ortamlarında titrasyon ve renk reaksiyonları için ideal bir seçenektir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük kullanılması, ayrıca maddenin kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12540",
     "name": "Rhodamıne b, (c.ı.45170) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -5955,6 +5895,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт 2-propanol ≥ 99.8% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12535",
+    "name": "2-propanol ≥ 99.5%, ph eur,bp,jp,usp",
+    "price": 21.9199,
+    "image": "static/images/products/chemdor_CHI_12535.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 2-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 2-propanol ≥ 99.5%, ph eur,bp,jp,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 2-propanol ≥ 99.5%, ph eur,bp,jp,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 2-propanol ≥ 99.5%, ph eur,bp,jp,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12536",
+    "name": "2-propanol ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
+    "price": 101.7991,
+    "image": "static/images/products/chemdor_CHI_12536.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 2-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 2-propanol ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 2-propanol ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 2-propanol ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12537",
+    "name": "2-propanol ≥ 99.95%, lc-ms",
+    "price": 29.9695,
+    "image": "static/images/products/chemdor_CHI_12537.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 2-propanol ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 2-propanol ≥ 99.95%, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 2-propanol ≥ 99.95%, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 2-propanol ≥ 99.95%, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12538",
+    "name": "Pyronın b, (c.ı.45010) ",
+    "price": 142.9514,
+    "image": "static/images/products/chemdor_CHI_12538.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Pyronın b, (c.ı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Pyronın b, (c.ı.45010) . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Pyronın b, (c.ı.45010)  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Pyronın b, (c.ı.45010)  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12539",
+    "name": "Rhodızonıc acıd dısodıum salt ≥ 97%",
+    "price": 39.0022,
+    "image": "static/images/products/chemdor_CHI_12539.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Rhodızonıc acıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Rhodızonıc acıd dısodıum salt ≥ 97%. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Rhodızonıc acıd dısodıum salt ≥ 97% by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Rhodızonıc acıd dısodıum salt ≥ 97% от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
