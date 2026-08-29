@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12520",
-    "name": "Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 32.2506,
-    "image": "static/images/products/chemdor_CHI_12520.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Potasyum Nitrat, ≥%99 analitik saflıkta ve ISO/Reag.Ph.Eur standartlarına uygun olarak, hassas kimyasal analizler ve laboratuvar araştırmaları için idealdir. Yüksek saflığı sayesinde titrasyon, spektroskopi ve diğer analitik prosedürlerde güvenilir sonuçlar sağlar. Ürün, 1 paketlik pratik ambalajda sunulmakta olup tekrarlanabilirlik gerektiren deneyler için uygundur.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için uygun koruyucu gözlük ve eldiven takılmalı, kimyasal kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12521",
-    "name": "Dı-potassıum hydrogen phosphate susuz kalite ≥ 98% , ekstra saf, ph eur, bp, usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 32.5784,
-    "image": "static/images/products/chemdor_CHI_12521.png",
-    "brand": "Chemdor®",
-    "description": "Dipotasyum hidrojen fosfat, tampon çözelti hazırlama, biyokimyasal analizler ve farmasötik formülasyonlarda kritik bir bileşen olarak kullanılır. Chemdor'un ≥%98 saflıkta, ekstra saf ve PH Eur, BP, USP standartlarına uygun kalitesi, hassas laboratuvar uygulamaları için güvenilir sonuçlar sağlar. Susuz formu, dozu hassas gerektiren deneylerde tutarlılık ve yüksek verimlilik sunar.",
-    "safety": "Tozla teması önlemek için nitril eldiven, gözlük ve laboratuvar önlüğü giyilmeli; kimyasal kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12522",
-    "name": "Dı-potassıum hydrogen phosphate susuz kalite ≥ 99%, analitik saflık reagent, acs, reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 47.4189,
-    "image": "static/images/products/chemdor_CHI_12522.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Dı-potassıum hydrogen phosphate, ≥%99 saflıkta susuz formda sunularak analitik kimya, tampon çözelti hazırlama ve kalite kontrol testleri için ideal bir referans standardıdır. ACS ve Reag. Ph. Eur. standartlarına uygun bu yüksek saflıkta reagent, hassas laboratuvar analizlerinde güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için uygun nitril eldiven, laboratuvar önlüğü ve göz koruyucu kullanılması; kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanması önerilir."
-  },
-  {
-    "id": "CHI.12523",
-    "name": "Potassıum sulfate ≥ 99% , analitik saflık acs,ıso, reag.ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 31.3329,
-    "image": "static/images/products/chemdor_CHI_12523.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Potasyum Sülfat, ≥%99 analitik saflıkta olup ACS, ISO ve Reag. Ph. Eur. standartlarına uygun olarak laboratuvar analizlerinde ve kalite kontrol süreçlerinde yüksek güvenilirlik sağlar. Bu yüksek saflık derecesi, hassas kimyasal reaksiyonlar ve referans ölçümleri için ideal bir baz kimyasal sunar.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için toz maskesi ve eldiven kullanılması, kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12524",
-    "name": "Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 51.8238,
-    "image": "static/images/products/chemdor_CHI_12524.png",
-    "brand": "Chemdor®",
-    "description": "Potasyum heksasyanoferrat(II) trihidrat, ≥%99 ekstra saflıkta olup Chemdor kalite standartlarına uygun olarak analiz ve sentez işlemlerinde yüksek güvenilirlik sağlar. Bu ürün, hassas kimyasal analizler ve referans materyal hazırlama gibi kritik laboratuvar uygulamaları için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün serin, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12525",
     "name": "Polysorbate 20 synthesıs",
     "specifications": "1 piece / pack",
@@ -5745,6 +5685,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12520",
+    "name": "Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur",
+    "price": 32.2506,
+    "image": "static/images/products/chemdor_CHI_12520.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum nıtra",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12521",
+    "name": "Dı-potassıum hydrogen phosphate susuz kalite ≥ 98% , ekstra saf, ph eur, bp, usp",
+    "price": 32.5784,
+    "image": "static/images/products/chemdor_CHI_12521.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dı-potassıum hy",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dı-potassıum hydrogen phosphate susuz kalite ≥ 98% , ekstra saf, ph eur, bp, usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dı-potassıum hydrogen phosphate susuz kalite ≥ 98% , ekstra saf, ph eur, bp, usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dı-potassıum hydrogen phosphate susuz kalite ≥ 98% , ekstra saf, ph eur, bp, usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12522",
+    "name": "Dı-potassıum hydrogen phosphate susuz kalite ≥ 99%, analitik saflık reagent, acs, reag.ph.eur",
+    "price": 47.4189,
+    "image": "static/images/products/chemdor_CHI_12522.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Dı-potassıum hy",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Dı-potassıum hydrogen phosphate susuz kalite ≥ 99%, analitik saflık reagent, acs, reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Dı-potassıum hydrogen phosphate susuz kalite ≥ 99%, analitik saflık reagent, acs, reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Dı-potassıum hydrogen phosphate susuz kalite ≥ 99%, analitik saflık reagent, acs, reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12523",
+    "name": "Potassıum sulfate ≥ 99% , analitik saflık acs,ıso, reag.ph eur",
+    "price": 31.3329,
+    "image": "static/images/products/chemdor_CHI_12523.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum sulfa",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum sulfate ≥ 99% , analitik saflık acs,ıso, reag.ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum sulfate ≥ 99% , analitik saflık acs,ıso, reag.ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum sulfate ≥ 99% , analitik saflık acs,ıso, reag.ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12524",
+    "name": "Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf",
+    "price": 51.8238,
+    "image": "static/images/products/chemdor_CHI_12524.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum hexac",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
