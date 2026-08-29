@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12470",
-    "name": "Isooctane ≥ 99%, for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 74.5828,
-    "image": "static/images/products/chemdor_CHI_12470.png",
-    "brand": "Chemdor®",
-    "description": "Isooctane ≥ 99%, for liquid chromatography, sıvı kromatografi analizlerinde yüksek saflık gerektiren hassas uygulamalar için ideal bir çözücü olarak kullanılır. Chemdor kalite standardı, bu ürünün iz element kirliliğinden arındırılmış ve LC sistemlerinde güvenilir sonuçlar almayı garanti eden üstün saflık seviyesine sahip olduğunu doğrular. Bu yüksek performanslı kimyasal, özellikle gaz kromatografisi ve sıvı kromatografisi gibi hassas enstrümantal analizlerde tercih edilir.",
-    "safety": "Bu kimyasal ile çalışırken yanıcı buharlara karşı dikkatli olunmalı, uygun havalandırma altında nitril eldiven ve koruyucu gözlük kullanılarak, ısı ve alev kaynaklarından uzakta, orijinal kapaklı ambalajında serin ve kuru bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12471",
-    "name": "(s)-lactıc acıd about 90% , ph eur,bp,e 270",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 27.0721,
-    "image": "static/images/products/chemdor_CHI_12471.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı (s)-laktik asit, %90 saflıkta olup EP, BP ve E 270 standartlarına uygun yüksek kalitede bir kimyasal maddedir. Bu ürün, gıda endüstrisinde asitlik düzenleyici ve tatlandırıcı olarak, ayrıca laboratuvar analizlerinde referans madde olarak yaygın şekilde kullanılmaktadır.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanmalı ve ürünü serin, kuru ve iyi havalandırılmış bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12472",
-    "name": "(s)-lactıc acıd about 90% , ph eur,bp,e 270",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 56.1501,
-    "image": "static/images/products/chemdor_CHI_12472.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı (s)-laktik asit, %90 saflıkta olup EP, BP ve E270 standartlarına uygun olarak laboratuvar analizleri, biyokimyasal çalışmalar ve referans materyal olarak kullanılmaktadır. Yüksek saflık derecesi, hassas deneysel sonuçlar için güvenilir bir kimyasal baz sağlar.",
-    "safety": "Çalışma sırasında eldiven, koruyucu gözlük ve laboratuvar önlüğü giyilmeli; kimyasal, serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12473",
-    "name": "Lıght green sf yellowısh, (c.ı. 42095) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 36.9046,
-    "image": "static/images/products/chemdor_CHI_12473.png",
-    "brand": "Chemdor®",
-    "description": "Light Green SF Yellowish (C.I. 42095), mikroskopi çalışmalarında histolojik boyama ve kontrast sağlama amacıyla kullanılan yüksek saflıkta bir kimyasal maddedir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, doku kesitlerinde nükleer detayların netleştirilmesi için güvenilir performans sunar.",
-    "safety": "Çalışma sırasında eldiven ve koruyucu gözlük takılmalı, ürün kuru, serin ve ışıktan uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12474",
-    "name": "Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.3169,
-    "image": "static/images/products/chemdor_CHI_12474.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Magnezyum Sülfat Heptahidrat, analitik saflıkta (ACS, Reag. Ph. Eur.) %99'dan yüksek bir saflıkta sunulmaktadır. Bu yüksek saflık, hassas kimyasal analizler, doku kültürü ortamları ve standart çözeltilerin hazırlanması gibi laboratuvar uygulamaları için idealdir. Ürün, tutarlı kalite kontrol süreçlerinden geçirilerek güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Toz oluşumuna karşı toz maskesi, göz koruması ve eldiven kullanılması ile kuru ve serin bir ortamda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12475",
     "name": "Malachıte green, (c.ı. 42000) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -5045,6 +4985,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12470",
+    "name": "Isooctane ≥ 99%, for lıquıd chromatography",
+    "price": 74.5828,
+    "image": "static/images/products/chemdor_CHI_12470.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Isooctane ≥ 99%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Isooctane ≥ 99%, for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Isooctane ≥ 99%, for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Isooctane ≥ 99%, for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12471",
+    "name": "(s)-lactıc acıd about 90% , ph eur,bp,e 270",
+    "price": 27.0721,
+    "image": "static/images/products/chemdor_CHI_12471.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: (s)-lactıc acıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta (s)-lactıc acıd about 90% , ph eur,bp,e 270. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity (s)-lactıc acıd about 90% , ph eur,bp,e 270 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт (s)-lactıc acıd about 90% , ph eur,bp,e 270 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12472",
+    "name": "(s)-lactıc acıd about 90% , ph eur,bp,e 270",
+    "price": 56.1501,
+    "image": "static/images/products/chemdor_CHI_12472.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: (s)-lactıc acıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta (s)-lactıc acıd about 90% , ph eur,bp,e 270. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity (s)-lactıc acıd about 90% , ph eur,bp,e 270 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт (s)-lactıc acıd about 90% , ph eur,bp,e 270 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12473",
+    "name": "Lıght green sf yellowısh, (c.ı. 42095) for mıcroscopy",
+    "price": 36.9046,
+    "image": "static/images/products/chemdor_CHI_12473.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Lıght green sf ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Lıght green sf yellowısh, (c.ı. 42095) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Lıght green sf yellowısh, (c.ı. 42095) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Lıght green sf yellowısh, (c.ı. 42095) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12474",
+    "name": "Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur",
+    "price": 21.3169,
+    "image": "static/images/products/chemdor_CHI_12474.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Magnesıum sulfa",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Magnesıum sulfate heptahydrate ≥ 99%, analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
