@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12480",
-    "name": "Methyl blue, (c.ı.42780) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.405,
-    "image": "static/images/products/chemdor_CHI_12480.png",
-    "brand": "Chemdor®",
-    "description": "Methyl Blue (CI 42780), yüksek saflukta ve tutarlı renk yoğunluğuyla histolojik boyama ve mikroskobik incelemelerde hücre çekirdeklerinin net bir şekilde görselleştirilmesi için idealdir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, laboratuvar ortamlarında güvenilir ve tekrarlanabilir sonuçlar sağlar.",
-    "safety": "Toz oluşumunu önlemek için nitril eldiven ve gözlük takılmalı, ürün kuru, serin ve ışık almayan bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12481",
-    "name": "Methyl vıolet, (c.ı. 42535) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.0685,
-    "image": "static/images/products/chemdor_CHI_12481.png",
-    "brand": "Chemdor®",
-    "description": "Methyl Violet (C.I. 42535), mikroskopi uygulamalarında hücre çekirdekleri ve diğer yapıların net bir şekilde boyanması için kullanılan yüksek saflıklı bir kimyasal renklendiricidir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, tutarlı sonuçlar ve üstün çözünürlük sağlamak üzere titizlikle saflaştırılmıştır.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; kuru, serin ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak şekilde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12482",
-    "name": "Methylene blue, (c.ı. 52015) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.984,
-    "image": "static/images/products/chemdor_CHI_12482.png",
-    "brand": "Chemdor®",
-    "description": "Methylene Blue (CI 52015), mikroskopi uygulamalarında hücre çekirdekleri ve sitoplazmanın kontrastlı boyanması için yüksek saflıkta kullanılan standart bir histokimyasal reagenttir. Chemdor kalite standartlarına uygun olarak hazırlanan bu ürün, optik netlik ve tekrarlanabilirlik gerektiren laboratuvar analizlerinde güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; ürün doğrudan güneş ışığından uzak, serin ve kuru bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12483",
-    "name": "Methylene blue, (c.ı. 52015) ar for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.311,
-    "image": "static/images/products/chemdor_CHI_12483.png",
-    "brand": "Chemdor®",
-    "description": "Methylene Blue (c.i. 52015), mikroskopi uygulamalarında hücre çekirdeklerinin ve sitoplazmanın boyanması için yüksek saflıkta kullanılan standart bir kimyasal reaktiftir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, optik netlik ve tutarlı sonuçlar elde etmek için idealdir.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün serin, kuru ve karanlık bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12484",
-    "name": "Nitrik asit 65%, acs ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 20.9891,
-    "image": "static/images/products/chemdor_CHI_12484.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %65 Nitrik Asit (ACS), yüksek saflık standardıyla analiz laboratuvarlarında hassas ölçümler ve çözelti hazırlama işlemleri için idealdir. ACS (American Chemical Society) kalite sertifikası, kimyasalın minimum düzeyde impurite içerdiğini ve güvenilir sonuçlar elde edilmesini garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, yüz koruyucu gözlük ve laboratuvar önlüğü kullanılması, ayrıca maddenin soğuk, kuru ve havalandırmalı bir ortamda asitlere dayanıklı kaplarda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12485",
     "name": "Nitrik asit 65%, for determınatıons wıth dıthızone, reag. ıso, reag. ph. eur.",
     "specifications": "1 piece / pack",
@@ -5185,6 +5125,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Methylene chlorıde ≥ 99.5%, ekstra saf  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12480",
+    "name": "Methyl blue, (c.ı.42780) for mıcroscopy",
+    "price": 22.405,
+    "image": "static/images/products/chemdor_CHI_12480.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Methyl blue, (c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Methyl blue, (c.ı.42780) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Methyl blue, (c.ı.42780) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Methyl blue, (c.ı.42780) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12481",
+    "name": "Methyl vıolet, (c.ı. 42535) for mıcroscopy",
+    "price": 10.0685,
+    "image": "static/images/products/chemdor_CHI_12481.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Methyl vıolet, ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Methyl vıolet, (c.ı. 42535) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Methyl vıolet, (c.ı. 42535) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Methyl vıolet, (c.ı. 42535) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12482",
+    "name": "Methylene blue, (c.ı. 52015) for mıcroscopy",
+    "price": 25.984,
+    "image": "static/images/products/chemdor_CHI_12482.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Methylene blue,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Methylene blue, (c.ı. 52015) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Methylene blue, (c.ı. 52015) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Methylene blue, (c.ı. 52015) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12483",
+    "name": "Methylene blue, (c.ı. 52015) ar for mıcroscopy",
+    "price": 19.311,
+    "image": "static/images/products/chemdor_CHI_12483.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Methylene blue,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Methylene blue, (c.ı. 52015) ar for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Methylene blue, (c.ı. 52015) ar for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Methylene blue, (c.ı. 52015) ar for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12484",
+    "name": "Nitrik asit 65%, acs ",
+    "price": 20.9891,
+    "image": "static/images/products/chemdor_CHI_12484.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Nitrik asit 65%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Nitrik asit 65%, acs . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Nitrik asit 65%, acs  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Nitrik asit 65%, acs  от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
