@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12495",
-    "name": "Patent blue v (vf), (c.ı.42045) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.5368,
-    "image": "static/images/products/chemdor_CHI_12495.png",
-    "brand": "Chemdor®",
-    "description": "Patent Blue V (C.I. 42045), histolojik preparasyonlarda ve mikroskopi çalışmalarında doku kontrastını artırmak için kullanılan yüksek saflıkta bir kimyasal boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, tutarlı sonuçlar ve net görüntüleme için laboratuvar ortamlarında güvenilir bir performans sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; ürün ışıktan ve nemden korunarak serin, kuru bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12496",
-    "name": "N-pentane about 95% , ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 60.9877,
-    "image": "static/images/products/chemdor_CHI_12496.png",
-    "brand": "Chemdor®",
-    "description": "N-pentane about 95% ekstra saf, kimyasal sentezlerde ve analizlerde yüksek verimlilik sağlayan güvenilir bir çözücü olarak öne çıkar. Chemdor'un titiz saflık standartları, bu ürünün laboratuvar ortamlarında tutarlı ve tekrarlanabilir sonuçlar elde edilmesine olanak tanır. Ekstra saf kalitesi, hassas deneylerde istenmeyen kontaminasyonları en aza indirger.",
-    "safety": "Yanıcı bu kimyasalı kullanırken nitril eldiven, kimyasal gözlük ve laboratuvar önlüğü takılmalı, ayrıca havalandırmalı dolapta veya yangın dolabında serin ve kuru bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12497",
-    "name": "Pentane ≥ 99% , for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 54.9702,
-    "image": "static/images/products/chemdor_CHI_12497.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Pentane ≥ 99%, sıvı kromatografi (LC) analizlerinde yüksek saflıkta çözücü olarak kullanılmak üzere tasarlanmıştır. Kimyasal, LC uygulamaları için kritik olan düşük UV emilimi ve yüksek saflık standartlarına uygun olarak üretilmiştir. Bu ürün, hassas analitik sonuçlar gerektiren laboratuvar ortamlarında güvenilir performans sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı; ürün, havalandırmalı dolapta, ateş kaynaklarından uzak ve serin bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12498",
-    "name": "Perchlorıc acıd 70-72% , acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 120.2318,
-    "image": "static/images/products/chemdor_CHI_12498.png",
-    "brand": "Chemdor®",
-    "description": "Perchloric acid 70-72% (ACS, ISO, Reag. Ph. Eur.), yüksek saflıkta ve analiz amaçlı kullanıma uygun kimyasal bir asittir. Chemdor kalite standartlarına uygun olarak sunulan bu ürün, hassas laboratuvar analizleri ve sentez işlemleri için idealdir. Ürün, 1 adet/paket olarak tedarik edilmektedir.",
-    "safety": "Bu kimyasal ile çalışırken asit dayanıklı eldiven, yüz koruyucu gözlük ve laboratuvar önlüğü kullanılması, ayrıca soğuk, kuru ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12499",
-    "name": "Petroleum ether boılıng range 40-60°c , dab",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 82.2521,
-    "image": "static/images/products/chemdor_CHI_12499.png",
-    "brand": "Chemdor®",
-    "description": "Petroleum ether (40-60°C), laboratuvarlarda ekstraksiyon, yıkama ve çözücü olarak yaygın kullanılan yüksek saflıklı bir alifatik hidrokarbon karışımıdır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, düşük polaritesi sayesinde organik bileşiklerin ayrıştırılmasında mükemmel performans gösterir. Geniş kaynama aralığı, kontrollü buharlaşma gerektiren hassas analiz ve preparatif işlemler için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken yanıcı buharlardan korunmak için iyi havalandırılmış bir ortamda, alev kaynaklarından uzakta, uygun kimyasal eldiven ve gözlük takılarak saklanmalı ve kullanılmalıdır."
-  },
-  {
     "id": "CHI.12500",
     "name": "Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur",
     "specifications": "1 piece / pack",
@@ -5395,6 +5335,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Orceın, for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12495",
+    "name": "Patent blue v (vf), (c.ı.42045) for mıcroscopy",
+    "price": 29.5368,
+    "image": "static/images/products/chemdor_CHI_12495.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Patent blue v (",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Patent blue v (vf), (c.ı.42045) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Patent blue v (vf), (c.ı.42045) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Patent blue v (vf), (c.ı.42045) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12496",
+    "name": "N-pentane about 95% , ekstra saf",
+    "price": 60.9877,
+    "image": "static/images/products/chemdor_CHI_12496.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N-pentane about",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N-pentane about 95% , ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N-pentane about 95% , ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N-pentane about 95% , ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12497",
+    "name": "Pentane ≥ 99% , for lıquıd chromatography",
+    "price": 54.9702,
+    "image": "static/images/products/chemdor_CHI_12497.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Pentane ≥ 99% ,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Pentane ≥ 99% , for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Pentane ≥ 99% , for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Pentane ≥ 99% , for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12498",
+    "name": "Perchlorıc acıd 70-72% , acs,ıso,reag. ph eur",
+    "price": 120.2318,
+    "image": "static/images/products/chemdor_CHI_12498.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Perchlorıc acıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Perchlorıc acıd 70-72% , acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Perchlorıc acıd 70-72% , acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Perchlorıc acıd 70-72% , acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12499",
+    "name": "Petroleum ether boılıng range 40-60°c , dab",
+    "price": 82.2521,
+    "image": "static/images/products/chemdor_CHI_12499.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Petroleum ether",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Petroleum ether boılıng range 40-60°c , dab. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Petroleum ether boılıng range 40-60°c , dab by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Petroleum ether boılıng range 40-60°c , dab от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
