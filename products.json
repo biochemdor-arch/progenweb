@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12515",
-    "name": "Potassıum hydroxıde ≥ 85%, pelet form saf kalite",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.8959,
-    "image": "static/images/products/chemdor_CHI_12515.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Potasyum Hidroksit (%85 üzeri), pelet formundaki yüksek saflığı ile titrasyon, sabunlaştırma ve çeşitli organik sentezlerde güvenilir bir baz kaynağı olarak öne çıkar. Laboratuvar standartlarına uygun bu ürün, homojen yapısı ve düşük kirlilik oranı sayesinde hassas kimyasal analizlerde tutarlı sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında mutlaka nitril eldiven, kimyasal sızdırmaz gözlük ve asit/alkali dayanıklı önlük kullanmalı, ürünü kuru, serin ve havalandırmalı bir ortamda orijinal ambalajında saklamalısınız."
-  },
-  {
-    "id": "CHI.12516",
-    "name": "Potassıum hydroxıde ≥ 85%, pelet form  ph.eur,bp,jp nf,fcc,e 525",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.8959,
-    "image": "static/images/products/chemdor_CHI_12516.png",
-    "brand": "Chemdor®",
-    "description": "Potasyum hidroksit, kimyasal sentez, sabun üretimi ve pH ayarlaması gibi çeşitli laboratuvar süreçlerinde yüksek reaktivitesiyle öne çıkan temel bir bazdır. Chemdor markası, pelet formundaki bu üründe en az %85 saflık garantisi sunarak, Farmakope (Ph.Eur, BP, JP, NF) ve FCC standartlarına tam uyumlu, güvenilir bir kalite kontrolü sağlar.",
-    "safety": "Çalışma sırasında mutlaka asit baz dayanımlı eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve havalandırmalı bir ortamda, nemden uzak tutarak saklamalısınız."
-  },
-  {
-    "id": "CHI.12517",
-    "name": "Potassıum hydroxıde ≥ 85%, pelet form analitik saflık reagent grade, acs, ıso, reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 17.4756,
-    "image": "static/images/products/chemdor_CHI_12517.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Potasyum Hidroksit, ≥%85 saflıkta, ACS, ISO ve Reag. Ph Eur standartlarına uygun analitik kalitede pelet formda sunulmaktadır. Bu yüksek saflık, hassas titrasyonlar, pH ayarlamaları ve çeşitli kimyasal sentezlerde güvenilir sonuçlar almanızı sağlar. Laboratuvar uygulamalarında tutarlı performans ve yüksek reaktivite arayan profesyoneller için ideal bir reagenttir.",
-    "safety": "Bu kimyasal ile çalışırken mutlaka asit baz dayanımlı eldiven, koruyucu gözlük ve laboratuvar önlüğü kullanmalı, ürünü kuru, serin ve iyi havalandırılmış bir ortamda, nemden uzak şekilde saklamalısınız."
-  },
-  {
-    "id": "CHI.12518",
-    "name": "Potassıum ıodate ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 35.0824,
-    "image": "static/images/products/chemdor_CHI_12518.png",
-    "brand": "Chemdor®",
-    "description": "Potasyum iyodat, ≥%99.8 analitik saflıkta (ACS, ISO, Reag. Ph. Eur.) olup titrasyonlar, iyotometri ve standart çözelti hazırlamada yüksek hassasiyet gerektiren laboratuvar analizlerinde kullanılır. Chemdor kalite kontrol standartlarına uygun olarak üretilen bu ürün, güvenilir ve tekrarlanabilir sonuçlar için idealdir.",
-    "safety": "Çalışma sırasında nitril eldiven, gözlük ve laboratuvar önlüğü takılmalı; kimyasal kuru, serin ve iyi havalandırılmış bir ortamda, orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12519",
-    "name": "Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 179.1875,
-    "image": "static/images/products/chemdor_CHI_12519.png",
-    "brand": "Chemdor®",
-    "description": "Potasyum iyodür, titrasyon ve iyot kimyası analizlerinde yüksek hassasiyet gerektiren laboratuvar uygulamaları için idealdir. Chemdor'un ≥ %99.8 analitik saflık standardı, sonuçların doğruluğunu ve tekrarlanabilirliğini garanti eder. Reag. Ph Eur uyumlu bu ürün, farmasötik ve kimyasal analizlerde güvenilir bir referans noktası sunar.",
-    "safety": "Nemden uzak tutmak için kuru ve serin bir ortamda saklayın; manipülasyon sırasında toz oluşumunu önlemek için uygun eldiven ve göz koruyucu kullanın."
-  },
-  {
     "id": "CHI.12520",
     "name": "Potassıum nıtrate ≥ 99%, analitik saflık ıso,reag.ph.eur",
     "specifications": "1 piece / pack",
@@ -5675,6 +5615,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12515",
+    "name": "Potassıum hydroxıde ≥ 85%, pelet form saf kalite",
+    "price": 24.8959,
+    "image": "static/images/products/chemdor_CHI_12515.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum hydroxıde ≥ 85%, pelet form saf kalite. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum hydroxıde ≥ 85%, pelet form saf kalite by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum hydroxıde ≥ 85%, pelet form saf kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12516",
+    "name": "Potassıum hydroxıde ≥ 85%, pelet form  ph.eur,bp,jp nf,fcc,e 525",
+    "price": 24.8959,
+    "image": "static/images/products/chemdor_CHI_12516.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum hydroxıde ≥ 85%, pelet form  ph.eur,bp,jp nf,fcc,e 525. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum hydroxıde ≥ 85%, pelet form  ph.eur,bp,jp nf,fcc,e 525 by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum hydroxıde ≥ 85%, pelet form  ph.eur,bp,jp nf,fcc,e 525 от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12517",
+    "name": "Potassıum hydroxıde ≥ 85%, pelet form analitik saflık reagent grade, acs, ıso, reag. ph eur",
+    "price": 17.4756,
+    "image": "static/images/products/chemdor_CHI_12517.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum hydroxıde ≥ 85%, pelet form analitik saflık reagent grade, acs, ıso, reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum hydroxıde ≥ 85%, pelet form analitik saflık reagent grade, acs, ıso, reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum hydroxıde ≥ 85%, pelet form analitik saflık reagent grade, acs, ıso, reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12518",
+    "name": "Potassıum ıodate ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 35.0824,
+    "image": "static/images/products/chemdor_CHI_12518.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum ıodat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum ıodate ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum ıodate ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum ıodate ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12519",
+    "name": "Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur",
+    "price": 179.1875,
+    "image": "static/images/products/chemdor_CHI_12519.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum ıodıd",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum ıodıde ≥ 99.8%, analitik saflık ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
