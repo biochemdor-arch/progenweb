@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12405",
-    "name": "Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 114.2012,
-    "image": "static/images/products/chemdor_CHI_12405.png",
-    "brand": "Chemdor®",
-    "description": "Chloroform ≥ 99.8% GC sınıfı, amilene ile stabilize edilmiş olup gaz kromatografisinde ECD ve FID dedektörleriyle yüksek hassasiyetli analizler için idealdir. Chemdor'un üstün saflık standartları, arka plan gürültüsünü minimize ederek güvenilir ve tekrarlanabilir sonuçlar sağlar. Bu ürün, hassas kalitatif ve kantitatif tayinler için laboratuvarlarda tercih edilen premium bir çözücüdür.",
-    "safety": "Bu kimyasalın manipülasyonu sırasında uygun kimyasal dayanıklı eldiven, gözlük ve havalandırılmış bir aspiratör altında çalışılması; ayrıca serin, kuru ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak olarak saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12406",
-    "name": "Chloroform ≥ 99.8%,  for lıquıd chromatography , stabılızed amylene",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 64.003,
-    "image": "static/images/products/chemdor_CHI_12406.png",
-    "brand": "Chemdor®",
-    "description": "Chloroform ≥ 99.8%, for liquid chromatography, stabilized amylene, kimyasal analizlerde yüksek saflık gerektiren sıvı kromatografi uygulamaları için idealdir. Chemdor markasının %99.8 üzeri saflık garantisi, hassas laboratuvar sonuçları için güvenilir bir performans sunar. Amilen ile stabilize edilmiş bu ürün, uzun süreli saklamada bile kimyasal bütünlüğünü korur.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve fume hood (duman emici) altında çalışılmalı; serin, kuru ve iyi havalandırılmış bir ortamda, doğrudan güneş ışığından uzak tutulmalıdır."
-  },
-  {
-    "id": "CHI.12407",
-    "name": "Cobalt(ıı) chlorıde hexahydrate ≥ 99% , analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.8915,
-    "image": "static/images/products/chemdor_CHI_12407.png",
-    "brand": "Chemdor®",
-    "description": "Cobalt(II) chlorid hexahydrate, analitik saflıkta ve yüksek kimyasal bütünlükte, kimyasal analizler, kromatografik çalışmalar ve çeşitli sentez reaksiyonlarında güvenilir bir reaktif olarak kullanılır. Chemdor markası, %99 üzeri saflık garantisiyle laboratuvar standartlarına tam uyumlu, yüksek performanslı bir ürün sunar.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12408",
-    "name": "Copper ıı sulfate ≥ 98%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.456,
-    "image": "static/images/products/chemdor_CHI_12408.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %98 saflıkta ekstra saf Bakır(II) Sülfat, titrasyon, kristallografi ve çeşitli sentez reaksiyonları için yüksek performanslı bir laboratuvar standardıdır. Ürün, minimum safsızlık içeriği sayesinde hassas analitik çalışmalarda güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanılması, maddenin kuru, serin ve havalandırmalı bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12409",
-    "name": "Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 46.3176,
-    "image": "static/images/products/chemdor_CHI_12409.png",
-    "brand": "Chemdor®",
-    "description": "Copper(II) sulfate pentahydrate, analitik saflıkta (ACS, ISO, Reag. Ph. Eur.) ve %99 üzeri saflıkta sunulmakta olup kimyasal analizler, titrasyonlar ve çeşitli sentez reaksiyonlarında güvenilir bir referans maddesi olarak kullanılır. Chemdor markasının titiz kalite kontrol süreçlerinden geçen bu ürün, laboratuvar çalışmalarında yüksek doğruluk ve tekrarlanabilirlik sağlar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12410",
     "name": "Congo red ındıcator, (c.ı. 22120) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -4135,6 +4075,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Cıtrıc acıd monohydrate ≥ 99.7%, analitik saflık acs,ıso,reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12405",
+    "name": "Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed)",
+    "price": 114.2012,
+    "image": "static/images/products/chemdor_CHI_12405.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Chloroform  ≥ 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Chloroform  ≥ 99.8% gaz kromatografisi sınıfı ecd and fıd (amylene stabılızed) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12406",
+    "name": "Chloroform ≥ 99.8%,  for lıquıd chromatography , stabılızed amylene",
+    "price": 64.003,
+    "image": "static/images/products/chemdor_CHI_12406.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Chloroform ≥ 99",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Chloroform ≥ 99.8%,  for lıquıd chromatography , stabılızed amylene. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Chloroform ≥ 99.8%,  for lıquıd chromatography , stabılızed amylene by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Chloroform ≥ 99.8%,  for lıquıd chromatography , stabılızed amylene от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12407",
+    "name": "Cobalt(ıı) chlorıde hexahydrate ≥ 99% , analitik saflık acs,reag. ph eur",
+    "price": 18.8915,
+    "image": "static/images/products/chemdor_CHI_12407.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Cobalt(ıı) chlo",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Cobalt(ıı) chlorıde hexahydrate ≥ 99% , analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Cobalt(ıı) chlorıde hexahydrate ≥ 99% , analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Cobalt(ıı) chlorıde hexahydrate ≥ 99% , analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12408",
+    "name": "Copper ıı sulfate ≥ 98%, ekstra saf",
+    "price": 26.456,
+    "image": "static/images/products/chemdor_CHI_12408.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Copper ıı sulfa",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Copper ıı sulfate ≥ 98%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Copper ıı sulfate ≥ 98%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Copper ıı sulfate ≥ 98%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12409",
+    "name": "Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 46.3176,
+    "image": "static/images/products/chemdor_CHI_12409.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Copper(ıı) sulf",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Copper(ıı) sulfate pentahydrate  ≥ 99%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
