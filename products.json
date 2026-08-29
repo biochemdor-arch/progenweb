@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12505",
-    "name": "Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 56.1895,
-    "image": "static/images/products/chemdor_CHI_12505.png",
-    "brand": "Chemdor®",
-    "description": "Pentane-1-sulfonic acid sodium salt, ≥%99.0 saflıkta olup özellikle iyon çift kromatografisi (IPC) uygulamalarında yüksek performanslı bir referans standardı olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, hassas analitik çalışmalarda güvenilir sonuçlar elde etmek için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve koruyucu gözlük takılmalı; kuru, serin ve havalandırmalı bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12506",
-    "name": "Phenolphthaleın acs,reag.ph.eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.1989,
-    "image": "static/images/products/chemdor_CHI_12506.png",
-    "brand": "Chemdor®",
-    "description": "Phenolphthalein, asit-baz titrasyonlarında yaygın olarak kullanılan yüksek saflukta bir gösterge kimyasalıdır. ACS ve Reag. Ph. Eur. standartlarına uygunluğu, hassas laboratuvar analizlerinde güvenilir sonuçlar alınmasını sağlar. Chemdor kalite kontrol süreçlerinden geçen bu ürün, tutarlı ve tekrarlanabilir deney verileri sunar.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve kimyasal, serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12507",
-    "name": "Potassıum carbonate ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 30.035,
-    "image": "static/images/products/chemdor_CHI_12507.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Potasyum Karbonat, ≥%99 analitik saflıkta olup ISO ve Reag. Ph Eur standartlarına uygun olarak laboratuvar analizlerinde yüksek güvenilirlik sağlar. Bu ürün, titrasyonlar, tampon çözelti hazırlama ve çeşitli kimyasal sentezlerde kritik bir bileşen olarak kullanılır. Kimyasalın yüksek saflığı, hassas ölçümlerde tutarlı ve tekrarlanabilir sonuçlar elde edilmesini garanti eder.",
-    "safety": "Çalışma sırasında tozlaşmayı önlemek için uygun eldiven, gözlük ve laboratuvar önlüğü kullanmalı; ürünü kuru, serin ve iyi havalandırılmış bir ortamda, nemden uzak tutarak saklamalısınız."
-  },
-  {
-    "id": "CHI.12508",
-    "name": "Potassıum chlorıde ≥99% usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.3635,
-    "image": "static/images/products/chemdor_CHI_12508.png",
-    "brand": "Chemdor®",
-    "description": "Potasyum klorür (≥%99 USP), kimyasal sentezlerde ve analitik laboratuvar çalışmalarında yüksek saflık gerektiren standart bir bileşen olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, USP standartlarına uygunluğu ile güvenilir sonuçlar elde edilmesini sağlar.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için uygun eldiven ve gözlük kullanılması, maddenin kuru ve serin bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12509",
-    "name": "Potassıum chlorıde ≥ 99%, analitik saflık",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 22.6672,
-    "image": "static/images/products/chemdor_CHI_12509.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Potasyum Klorür, %99'dan yüksek analitik saflıkta olup titrasyon, tampon hazırlama ve referans standartları gibi hassas laboratuvar uygulamaları için idealdir. Yüksek saflık derecesi, güvenilir ve tekrarlanabilir deneysel sonuçlar elde edilmesini sağlar.",
-    "safety": "Toz oluşumunu önlemek için toz maskesi ve gözlük kullanılması, kimyasalın kuru, serin ve havalandırmalı bir ortamda saklanması önerilir."
-  },
-  {
     "id": "CHI.12510",
     "name": "Potassıum chromate ≥ 99.5%, analitik saflık acs,reag. ph eur",
     "specifications": "1 piece / pack",
@@ -5535,6 +5475,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Pıcrıc acıd ≥ 99%, moıstened wıth water от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12505",
+    "name": "Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
+    "price": 56.1895,
+    "image": "static/images/products/chemdor_CHI_12505.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Pentane-1-sulfo",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12506",
+    "name": "Phenolphthaleın acs,reag.ph.eur",
+    "price": 21.1989,
+    "image": "static/images/products/chemdor_CHI_12506.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Phenolphthaleın",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Phenolphthaleın acs,reag.ph.eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Phenolphthaleın acs,reag.ph.eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Phenolphthaleın acs,reag.ph.eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12507",
+    "name": "Potassıum carbonate ≥ 99%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 30.035,
+    "image": "static/images/products/chemdor_CHI_12507.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum carbo",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum carbonate ≥ 99%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum carbonate ≥ 99%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum carbonate ≥ 99%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12508",
+    "name": "Potassıum chlorıde ≥99% usp",
+    "price": 19.3635,
+    "image": "static/images/products/chemdor_CHI_12508.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum chlor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum chlorıde ≥99% usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum chlorıde ≥99% usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum chlorıde ≥99% usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12509",
+    "name": "Potassıum chlorıde ≥ 99%, analitik saflık",
+    "price": 22.6672,
+    "image": "static/images/products/chemdor_CHI_12509.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum chlor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum chlorıde ≥ 99%, analitik saflık. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum chlorıde ≥ 99%, analitik saflık by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum chlorıde ≥ 99%, analitik saflık от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
