@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12440",
-    "name": "Gallıc acıd monohydrate ≥99% for synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.5557,
-    "image": "static/images/products/chemdor_CHI_12440.png",
-    "brand": "Chemdor®",
-    "description": "Gallik asit monohidrat, ≥%99 saflıkta olup kimyasal sentezlerde yüksek verimlilik ve saflık gerektiren ara maddeler için ideal bir başlangıç bileşenidir. Chemdor kalite standartlarına uygun olarak titizlikle saflaştırılmış bu ürün, hassas laboratuvar analizleri ve akademik araştırmalar için güvenilir bir performans sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanılması, maddenin kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12441",
-    "name": "Gallıc acıd susuz kalite ≥99% ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.5557,
-    "image": "static/images/products/chemdor_CHI_12441.png",
-    "brand": "Chemdor®",
-    "description": "Gallik asit susuz kalite ≥99%, yüksek saflık derecesiyle kimyasal sentezlerde ve analitik laboratuvar çalışmalarında güvenilir bir ara ürün olarak kullanılır. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, hassas deneyler için idealdir.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün kuru, serin ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12442",
-    "name": "Gıemsa's staın, for mıcroscopy                               ",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.1799,
-    "image": "static/images/products/chemdor_CHI_12442.png",
-    "brand": "Chemdor®",
-    "description": "Giemsa's stain, özellikle parazitler ve kan hücreleri gibi mikroskobik yapıların morfolojik analizinde yüksek kontrast ve netlik sağlayan standart bir laboratuvar reaktifidir. Chemdor kalite kontrol süreçlerinden geçen bu ürün, tutarlı boyama sonuçları ve yüksek saflık derecesi ile güvenilir bir performans sunar.",
-    "safety": "Kullanım sırasında nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün oda sıcaklığında, kuru ve karanlık bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12443",
-    "name": "D(+)-glucose monohydrate ≥ 97.5%, ph eur,bp,usp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 30.992,
-    "image": "static/images/products/chemdor_CHI_12443.png",
-    "brand": "Chemdor®",
-    "description": "D(+)-glucose monohydrate, Chemdor'un yüksek saflık standartlarına uygun olarak ≥ %97.5 saflıkta sunulmakta olup, farmakope (Eur, BP, USP) gereksinimlerini karşılar. Bu ürün, biyokimyasal analizlerde, hücre kültürü ortamlarında ve referans standartları olarak güvenilir bir kaynak karbonhidrat sağlar. Laboratuvar uygulamalarında tutarlı sonuçlar için ideal bir seçenektir.",
-    "safety": "Tozla çalışırken toz maskesi ve eldiven kullanılması, ürünün kuru, serin ve havalandırmalı bir ortamda saklanması önerilir."
-  },
-  {
-    "id": "CHI.12444",
-    "name": "Gliserol %85 ph eur,bp",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.4727,
-    "image": "static/images/products/chemdor_CHI_12444.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %85 Gliserol, Farmakope (Eur/BP) standartlarına uygun yüksek saflıkta olup, laboratuvarlarda nemlendirici ajan, çözücü ve reaktif olarak geniş bir yelpazede kullanılmaktadır. Bu ürün, analitik ve sentetik çalışmalarda tutarlı sonuçlar almayı garantileyen katı kalite kontrol süreçlerinden geçmiştir.",
-    "safety": "Çalışma sırasında eldiven, gözlük ve laboratuvar önlüğü takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda orijinal kapalı ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12445",
     "name": "Glycıne ≥ 98.5% ekstra saf",
     "specifications": "1 piece / pack",
@@ -4625,6 +4565,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Fuchsın basıc, (c.ı. 42510) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12440",
+    "name": "Gallıc acıd monohydrate ≥99% for synthesıs",
+    "price": 13.5557,
+    "image": "static/images/products/chemdor_CHI_12440.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Gallıc acıd mon",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Gallıc acıd monohydrate ≥99% for synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Gallıc acıd monohydrate ≥99% for synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Gallıc acıd monohydrate ≥99% for synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12441",
+    "name": "Gallıc acıd susuz kalite ≥99% ",
+    "price": 13.5557,
+    "image": "static/images/products/chemdor_CHI_12441.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Gallıc acıd sus",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Gallıc acıd susuz kalite ≥99% . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Gallıc acıd susuz kalite ≥99%  by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Gallıc acıd susuz kalite ≥99%  от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12442",
+    "name": "Gıemsa's staın, for mıcroscopy                               ",
+    "price": 19.1799,
+    "image": "static/images/products/chemdor_CHI_12442.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Gıemsa's staın,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Gıemsa's staın, for mıcroscopy                               . Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Gıemsa's staın, for mıcroscopy                                by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Gıemsa's staın, for mıcroscopy                                от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12443",
+    "name": "D(+)-glucose monohydrate ≥ 97.5%, ph eur,bp,usp",
+    "price": 30.992,
+    "image": "static/images/products/chemdor_CHI_12443.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: D(+)-glucose mo",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta D(+)-glucose monohydrate ≥ 97.5%, ph eur,bp,usp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity D(+)-glucose monohydrate ≥ 97.5%, ph eur,bp,usp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт D(+)-glucose monohydrate ≥ 97.5%, ph eur,bp,usp от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12444",
+    "name": "Gliserol %85 ph eur,bp",
+    "price": 25.4727,
+    "image": "static/images/products/chemdor_CHI_12444.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Gliserol %85 ph",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Gliserol %85 ph eur,bp. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Gliserol %85 ph eur,bp by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Gliserol %85 ph eur,bp от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
