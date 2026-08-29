@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12465",
-    "name": "Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 41.1785,
-    "image": "static/images/products/chemdor_CHI_12465.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı sublimed iyot, %99.8'in üzerindeki analitik saflığıyla (ACS, ISO, Reag. Ph. Eur.) hassas kimyasal analizler ve sentez reaksiyonları için idealdir. Yüksek saflık standardı, laboratuvar sonuçlarının tutarlılığını ve güvenilirliğini garanti eder. Bu ürün, titrasyonlar ve referans materyal olarak kullanımda üstün performans sağlar.",
-    "safety": "İyot buharları toksik ve tahriş edici olduğundan, çalışırken kimyasal koruyucu gözlük, nitril eldiven ve uygun havalandırma altında (duman dolabı) çalışılmalı; kuru, serin ve ışık almayan bir ortamda hava geçirmez kapta saklanmalıdır."
-  },
-  {
-    "id": "CHI.12466",
-    "name": "Iodıne 0,05 mol/l (0,1 n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 44.0496,
-    "image": "static/images/products/chemdor_CHI_12466.png",
-    "brand": "Chemdor®",
-    "description": "Iodine 0,05 mol/l (0,1 n) çözeltisi, redoks titrasyonları ve iyotometri analizlerinde yüksek hassasiyet gerektiren laboratuvar çalışmalarında standart bir referans maddesi olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, belirlenen konsantrasyonda yüksek saflıkta ve stabil bir formda sunulmaktadır.",
-    "safety": "Çözeltiyle çalışırken nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün doğrudan güneş ışığından uzak, serin ve karanlık bir dolapta saklanmalıdır."
-  },
-  {
-    "id": "CHI.12467",
-    "name": "Iron(ııı) chlorıde hexahydrate ≥ 97%, analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 34.5448,
-    "image": "static/images/products/chemdor_CHI_12467.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Iron(III) chloride hexahydrate, analitik saflıkta (ACS, Reag. Ph. Eur.) ve %97 üzeri saflık oranıyla laboratuvar analizleri, su arıtma süreçleri ve kimyasal sentezlerde yüksek performans sunar. Bu ürün, hassas deneysel çalışmalarda güvenilir sonuçlar elde etmek için idealdir.",
-    "safety": "Nemli ortamlardan uzak tutulmalı ve manipülasyon sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar mutlaka kullanılmalıdır."
-  },
-  {
-    "id": "CHI.12468",
-    "name": "Iron(ıı) sulfate heptahydrate ≥ 99.5%, analitik saflık acs , ıso , reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 28.8682,
-    "image": "static/images/products/chemdor_CHI_12468.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Iron(II) sulfate heptahydrate, %99.5'in üzerindeki yüksek saflığı ve ACS, ISO, Reag. Ph. Eur. standartlarına uygunluğuyla analitik çalışmalar için idealdir. Bu ürün, titrasyonlar, kalibrasyon çözeltileri ve çeşitli kimyasal sentezlerde güvenilir bir referans maddesi olarak kullanılır. Laboratuvar ortamında tutarlı ve tekrarlanabilir sonuçlar elde etmek için mükemmel bir seçimdir.",
-    "safety": "Çalışma sırasında tozdan kaçınmak için uygun eldiven, gözlük ve laboratuvar önlüğü giyilmeli, ürün kuru ve serin bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12469",
-    "name": "Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur.",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 62.1283,
-    "image": "static/images/products/chemdor_CHI_12469.png",
-    "brand": "Chemdor®",
-    "description": "Isooctane, yüksek analitik saflıkta (≥ 99.5%) ve acs, reag. ph eur. standartlarına uygun olarak, hassas kimyasal analizlerde ve referans ölçümlerinde güvenilir bir çözücü olarak kullanılır. Chemdor'un titiz kalite kontrol süreçleri, bu ürünün laboratuvar ortamlarında maksimum performans ve tekrarlanabilirlik sağladığını garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken yanıcı buharlardan kaçınmak için iyi havalandırılmış bir ortamda, uygun eldiven ve koruyucu gözlük kullanılması ile birlikte, ısı ve alev kaynaklarından uzakta, orijinal kapalı kapta saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12470",
     "name": "Isooctane ≥ 99%, for lıquıd chromatography",
     "specifications": "1 piece / pack",
@@ -4975,6 +4915,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Hidroklorik asit 1 mol/l (1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12465",
+    "name": "Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur",
+    "price": 41.1785,
+    "image": "static/images/products/chemdor_CHI_12465.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Iodıne sublımat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Iodıne sublımated ≥ 99.8%, analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12466",
+    "name": "Iodıne 0,05 mol/l (0,1 n)",
+    "price": 44.0496,
+    "image": "static/images/products/chemdor_CHI_12466.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Iodıne 0,05 mol",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Iodıne 0,05 mol/l (0,1 n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Iodıne 0,05 mol/l (0,1 n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Iodıne 0,05 mol/l (0,1 n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12467",
+    "name": "Iron(ııı) chlorıde hexahydrate ≥ 97%, analitik saflık acs,reag. ph eur",
+    "price": 34.5448,
+    "image": "static/images/products/chemdor_CHI_12467.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Iron(ııı) chlor",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Iron(ııı) chlorıde hexahydrate ≥ 97%, analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Iron(ııı) chlorıde hexahydrate ≥ 97%, analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Iron(ııı) chlorıde hexahydrate ≥ 97%, analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12468",
+    "name": "Iron(ıı) sulfate heptahydrate ≥ 99.5%, analitik saflık acs , ıso , reag. ph eur",
+    "price": 28.8682,
+    "image": "static/images/products/chemdor_CHI_12468.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Iron(ıı) sulfat",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Iron(ıı) sulfate heptahydrate ≥ 99.5%, analitik saflık acs , ıso , reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Iron(ıı) sulfate heptahydrate ≥ 99.5%, analitik saflık acs , ıso , reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Iron(ıı) sulfate heptahydrate ≥ 99.5%, analitik saflık acs , ıso , reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12469",
+    "name": "Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur.",
+    "price": 62.1283,
+    "image": "static/images/products/chemdor_CHI_12469.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Isooctane ≥ 99.",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur.. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur. by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Isooctane ≥ 99.5%, analitik saflık acs,reag. ph eur. от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
