@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12450",
-    "name": "N-heptane ≥ 98%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 51.0241,
-    "image": "static/images/products/chemdor_CHI_12450.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor N-heptane ≥ 98% ekstra saf, gaz kromatografisi ve hassas laboratuvar analizleri için ideal bir çözücü olarak öne çıkar. Yüksek saflık derecesi, minimum kirlilikle güvenilir ve tekrarlanabilir sonuçlar almanızı sağlar. Bu ürün, kimyasal sentez ve ekstraksiyon işlemlerinde üstün performans sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal gözlük ve havalandırmalı bir ortam kullanılması; ayrıca maddenin alev alıcı olması nedeniyle ateş kaynaklarından uzakta, serin ve kuru bir yerde saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12451",
-    "name": "N-hexane ≥ 96%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 54.3803,
-    "image": "static/images/products/chemdor_CHI_12451.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor N-hexane ≥ 96%, ekstra saf kalitesi ile hassas kimyasal analizler, çözücü uygulamaları ve laboratuvar içi ekstraksiyon işlemleri için idealdir. Yüksek saflık derecesi, reaksiyonlarda istenmeyen yan ürünlerin oluşumunu minimize ederek güvenilir sonuçlar sağlar. Bu ürün, kimyasal bütünlüğü koruyan özel ambalajlama standartlarına uygun olarak sunulmaktadır.",
-    "safety": "Bu kimyasalın kullanımı sırasında uygun nitril eldiven, kimyasal sızdırmaz gözlük ve havalandırmalı bir ortamda çalışılması, ayrıca yangın riskine karşı soğuk, kuru ve iyi havalandırılmış bir alanda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12452",
-    "name": "Hexane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 61.9054,
-    "image": "static/images/products/chemdor_CHI_12452.png",
-    "brand": "Chemdor®",
-    "description": "Hexane ≥ 99.8%, gaz kromatografisi sınıfı (ECD ve FID uyumlu) yüksek saflıkta bir çözücüdür. Kimyasal analizlerde hassas sonuçlar için ideal olan bu ürün, Chemdor'un titiz kalite kontrol standartlarına uygun olarak paketlenmiştir. 1 adet/paket formatında sunulan bu kimyasal, laboratuvar ortamlarında güvenilir performans sağlar.",
-    "safety": "Kullanım sırasında uygun eldiven, gözlük ve havalandırmalı ortamda çalışılmalı; ayrıca kimyasal, ısı ve alev kaynaklarından uzak, serin ve kuru bir yerde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12453",
-    "name": "N-hexane ≥ 98%, for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 60.8566,
-    "image": "static/images/products/chemdor_CHI_12453.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor N-hexane ≥ 98%, sıvı kromatografi uygulamaları için yüksek saflıkta ve düşük UV emilimine sahip bir çözücüdür. Bu ürün, hassas analizlerde güvenilir sonuçlar almak üzere optimize edilmiş kimyasal saflığa sahiptir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal gözlük ve havalandırmalı bir ortam kullanılması ile birlikte, ısı ve alev kaynaklarından uzakta, serin ve kuru bir yerde saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12454",
-    "name": "1-heptane sulphonıc acıd sodıum salt susuz kalite",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 56.491,
-    "image": "static/images/products/chemdor_CHI_12454.png",
-    "brand": "Chemdor®",
-    "description": "1-heptane sülfonik asit sodyum tuzu, yüksek saflıkta ve susuz kalitede sunularak organik sentezlerde ve yüzey aktif madde üretiminde mükemmel reaktivite sağlar. Chemdor'un titiz kalite kontrol süreçlerinden geçen bu ürün, laboratuvar uygulamalarında güvenilir ve tutarlı sonuçlar elde etmenizi garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; kuru, serin ve iyi havalandırılmış bir ortamda, nemden uzak tutularak saklanmalıdır."
-  },
-  {
     "id": "CHI.12455",
     "name": "1-hexanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
     "specifications": "1 piece / pack",
@@ -4765,6 +4705,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Gliserol ≥ 99 % ph.eur,fcc от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12450",
+    "name": "N-heptane ≥ 98%, ekstra saf",
+    "price": 51.0241,
+    "image": "static/images/products/chemdor_CHI_12450.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N-heptane ≥ 98%",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N-heptane ≥ 98%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N-heptane ≥ 98%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N-heptane ≥ 98%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12451",
+    "name": "N-hexane ≥ 96%, ekstra saf",
+    "price": 54.3803,
+    "image": "static/images/products/chemdor_CHI_12451.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N-hexane ≥ 96%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N-hexane ≥ 96%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N-hexane ≥ 96%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N-hexane ≥ 96%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12452",
+    "name": "Hexane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd",
+    "price": 61.9054,
+    "image": "static/images/products/chemdor_CHI_12452.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Hexane ≥ 99.8%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Hexane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Hexane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Hexane ≥ 99.8%, gaz kromatografisi sınıfı ecd and fıd от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12453",
+    "name": "N-hexane ≥ 98%, for lıquıd chromatography",
+    "price": 60.8566,
+    "image": "static/images/products/chemdor_CHI_12453.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: N-hexane ≥ 98%,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta N-hexane ≥ 98%, for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity N-hexane ≥ 98%, for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт N-hexane ≥ 98%, for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12454",
+    "name": "1-heptane sulphonıc acıd sodıum salt susuz kalite",
+    "price": 56.491,
+    "image": "static/images/products/chemdor_CHI_12454.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 1-heptane sulph",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 1-heptane sulphonıc acıd sodıum salt susuz kalite. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 1-heptane sulphonıc acıd sodıum salt susuz kalite by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 1-heptane sulphonıc acıd sodıum salt susuz kalite от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
