@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12435",
-    "name": "Formıc acıd 0.1% ın acetonıtrıle, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 61.5514,
-    "image": "static/images/products/chemdor_CHI_12435.png",
-    "brand": "Chemdor®",
-    "description": "Formik asit %0.1 asetonitril çözeltisi, LC-MS analizlerinde hassas ve tutarlı sonuçlar elde etmek için yüksek saflıkta bir mobil faz bileşeni olarak kullanılır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, düşük arka plan sinyali ve üstün çözünürlük sağlayarak kritik biyolojik ve farmasötik uygulamalarda güvenilir performans sunar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12436",
-    "name": "Fluoresceın sodıum, (c.ı. 45350)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 10.5142,
-    "image": "static/images/products/chemdor_CHI_12436.png",
-    "brand": "Chemdor®",
-    "description": "Fluorescein Sodyum (CI 45350), yüksek saflıkta ve parlak yeşil-fluoresan emisyonu ile biyolojik boyama, immünofloresans ve tıbbi görüntüleme uygulamalarında standart bir referans maddesi olarak kullanılır. Chemdor kalite kontrol süreçlerinden geçen bu ürün, homojen dağılımı ve yüksek çözünürlüğü ile hassas laboratuvar analizleri için idealdir.",
-    "safety": "Toz oluşumundan kaçınmak için nitril eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün, kuru, serin ve ışık almayan bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12437",
-    "name": "Fluoresceın, (c.ı. 45350)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 6.3059,
-    "image": "static/images/products/chemdor_CHI_12437.png",
-    "brand": "Chemdor®",
-    "description": "Fluorescein (c.i. 45350), Chemdor'un yüksek saflık standartlarına uygun olarak sunulan, biyomedikal araştırmalarda ve immünofloresan tekniklerde yaygın kullanılan parlak yeşil-sarı floresans veren bir boyadır. Bu ürün, hassas spektrofotometrik ölçümler ve hücre görüntüleme uygulamaları için ideal performans gösterir.",
-    "safety": "Göz, cilt ve solunum yollarına temasını önlemek için eldiven, gözlük ve laboratuvar önlüğü kullanmalı; ürünü kuru, serin ve ışık almayan bir ortamda saklamalısınız."
-  },
-  {
-    "id": "CHI.12438",
-    "name": "Fuchsın acıd, (c.ı. 42685) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.2324,
-    "image": "static/images/products/chemdor_CHI_12438.png",
-    "brand": "Chemdor®",
-    "description": "Fuchsın acıd, mikroskopi uygulamalarında hücre çekirdekleri ve diğer asidik yapıların seçici boyanması için yüksek saflıkta kullanılan bir kimyasal reaktiftir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, net ve tekrarlanabilir mikroskobik sonuçlar elde etmek için idealdir.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı, ürün kuru, serin ve karanlık bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12439",
-    "name": "Fuchsın basıc, (c.ı. 42510) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 15.0241,
-    "image": "static/images/products/chemdor_CHI_12439.png",
-    "brand": "Chemdor®",
-    "description": "Fuchsın basıc (c.i. 42510), mikroskopi uygulamalarında hücre çekirdekleri ve dokuların kontrastlı boyanması için yüksek saflıkta kullanılan standart bir histokimyasal boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, tutarlı renk verimi ve çözünürlüğü ile güvenilir sonuçlar sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, gözlük ve laboratuvar önlüğü takılmalı; ürün serin, kuru ve karanlık bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12440",
     "name": "Gallıc acıd monohydrate ≥99% for synthesıs",
     "specifications": "1 piece / pack",
@@ -4555,6 +4495,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Formıc acıd ≥%98 , dac, fcc от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12435",
+    "name": "Formıc acıd 0.1% ın acetonıtrıle, lc-ms",
+    "price": 61.5514,
+    "image": "static/images/products/chemdor_CHI_12435.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Formıc acıd 0.1",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Formıc acıd 0.1% ın acetonıtrıle, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Formıc acıd 0.1% ın acetonıtrıle, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Formıc acıd 0.1% ın acetonıtrıle, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12436",
+    "name": "Fluoresceın sodıum, (c.ı. 45350)",
+    "price": 10.5142,
+    "image": "static/images/products/chemdor_CHI_12436.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Fluoresceın sod",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Fluoresceın sodıum, (c.ı. 45350). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Fluoresceın sodıum, (c.ı. 45350) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Fluoresceın sodıum, (c.ı. 45350) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12437",
+    "name": "Fluoresceın, (c.ı. 45350)",
+    "price": 6.3059,
+    "image": "static/images/products/chemdor_CHI_12437.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Fluoresceın, (c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Fluoresceın, (c.ı. 45350). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Fluoresceın, (c.ı. 45350) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Fluoresceın, (c.ı. 45350) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12438",
+    "name": "Fuchsın acıd, (c.ı. 42685) for mıcroscopy",
+    "price": 19.2324,
+    "image": "static/images/products/chemdor_CHI_12438.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Fuchsın acıd, (",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Fuchsın acıd, (c.ı. 42685) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Fuchsın acıd, (c.ı. 42685) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Fuchsın acıd, (c.ı. 42685) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12439",
+    "name": "Fuchsın basıc, (c.ı. 42510) for mıcroscopy",
+    "price": 15.0241,
+    "image": "static/images/products/chemdor_CHI_12439.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Fuchsın basıc, ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Fuchsın basıc, (c.ı. 42510) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Fuchsın basıc, (c.ı. 42510) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Fuchsın basıc, (c.ı. 42510) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
