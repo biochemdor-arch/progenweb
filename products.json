@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12525",
-    "name": "Polysorbate 20 synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.3933,
-    "image": "static/images/products/chemdor_CHI_12525.png",
-    "brand": "Chemdor®",
-    "description": "Polysorbate 20, emülgatör ve yüzey aktif madde olarak farmasötik, kozmetik ve gıda endüstrilerinde yaygın olarak kullanılan yüksek saflıkta bir noniyonik yüzey aktif maddedir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, homojen karışımların stabilitesini artırarak laboratuvar ve endüstriyel uygulamalarda güvenilir performans sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün serin, kuru ve iyi havalandırılmış bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12526",
-    "name": "Polysorbate 80 synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 19.783,
-    "image": "static/images/products/chemdor_CHI_12526.png",
-    "brand": "Chemdor®",
-    "description": "Polysorbate 80, emülgatör ve yüzey aktif madde olarak farmasötik, kozmetik ve gıda endüstrilerinde yüksek saflıkta kullanılmaktadır. Chemdor markası, bu ürünü laboratuvar standartlarına uygun, homojen ve stabil bir yapıda sunarak hassas formülasyonlarda güvenilir performans sağlar. Ürün, 1 paketlik pratik ambalajı ile küçük ölçekli analiz ve sentez çalışmalarında ideal bir çözümdür.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12527",
-    "name": "Polysorbate 80 synthesıs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 24.5419,
-    "image": "static/images/products/chemdor_CHI_12527.png",
-    "brand": "Chemdor®",
-    "description": "Polysorbate 80, emülgatör ve dispersant olarak farmasötik, kozmetik ve gıda endüstrilerinde yaygın olarak kullanılan yüksek saflıkta bir non-iyonik yüzey aktif maddedir. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, homojen karışımların stabilitesini artırarak formülasyonlarda mükemmel performans sağlar.",
-    "safety": "Çalışma sırasında eldiven ve gözlük takılmalı, ürün serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12528",
-    "name": "Potassıum permanganate≥ 99% ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 13.2804,
-    "image": "static/images/products/chemdor_CHI_12528.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Potasyum Permanganat, %99 ekstra saflık standardıyla laboratuvar analizleri, su arıtma ve oksidasyon reaksiyonları için idealdir. Yüksek saflık derecesi, hassas kimyasal deneylerde tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Kullanım sırasında nitril eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı; kimyasal kuru, serin ve organik maddelerden uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12529",
-    "name": "Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n)",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 18.1573,
-    "image": "static/images/products/chemdor_CHI_12529.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Potasyum Hidroksit 0,1 mol/L çözeltisi, asit-baz titrasyonları ve standart laboratuvar analizleri için yüksek saflıkta hazırlanmış hassas bir reaktifidir. Kimyasal saflığı ve konsantrasyonunun doğruluğu, güvenilir ve tekrarlanabilir deneysel sonuçlar elde edilmesini garanti eder.",
-    "safety": "Çalışma sırasında kimyasal dayanıklı eldiven, koruyucu gözlük ve laboratuvar önlüğü takılmalı, çözelti serin, kuru ve asitlerden uzak bir ortamda orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
     "id": "CHI.12530",
     "name": "Potassıum fluorıde susuz kalite ≥ 98% ekstra saf",
     "specifications": "1 piece / pack",
@@ -5815,6 +5755,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Potassıum hexacyanoferrate(ıı) trıhydrate ≥ 99%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12525",
+    "name": "Polysorbate 20 synthesıs",
+    "price": 18.3933,
+    "image": "static/images/products/chemdor_CHI_12525.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Polysorbate 20 ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Polysorbate 20 synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Polysorbate 20 synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Polysorbate 20 synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12526",
+    "name": "Polysorbate 80 synthesıs",
+    "price": 19.783,
+    "image": "static/images/products/chemdor_CHI_12526.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Polysorbate 80 ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Polysorbate 80 synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Polysorbate 80 synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Polysorbate 80 synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12527",
+    "name": "Polysorbate 80 synthesıs",
+    "price": 24.5419,
+    "image": "static/images/products/chemdor_CHI_12527.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Polysorbate 80 ",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Polysorbate 80 synthesıs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Polysorbate 80 synthesıs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Polysorbate 80 synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12528",
+    "name": "Potassıum permanganate≥ 99% ekstra saf",
+    "price": 13.2804,
+    "image": "static/images/products/chemdor_CHI_12528.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum perma",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum permanganate≥ 99% ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum permanganate≥ 99% ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum permanganate≥ 99% ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12529",
+    "name": "Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n)",
+    "price": 18.1573,
+    "image": "static/images/products/chemdor_CHI_12529.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Potassıum hydro",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n). Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n) by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Potassıum hydroxıde çözeltisi 0,1 mol/l (0,1n) от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
