@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12610",
-    "name": "Trypan blue, (c.ı.23850) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 25.9185,
-    "image": "static/images/products/chemdor_CHI_12610.png",
-    "brand": "Chemdor®",
-    "description": "Trypan Blue (c.i.23850), hücre canlılığını belirlemek için yaygın olarak kullanılan ve Chemdor'un yüksek saflık standartlarına uygun olarak tedarik edilen bir mikroskopi boyasıdır. Bu ürün, hücre kültürü ve hematoloji laboratuvarlarında güvenilir sonuçlar elde etmek amacıyla tasarlanmıştır.",
-    "safety": "Çalışma sırasında eldiven ve gözlük gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün serin, kuru ve karanlık bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12611",
-    "name": "Urea ≥ 99.0%, crystal gr analitik saflık acs",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 36.4327,
-    "image": "static/images/products/chemdor_CHI_12611.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı Urea, %99.0'dan yüksek saflıkta kristal formda olup analitik çalışmalarda güvenilir bir referans standardı sunar. Yüksek saflık derecesi, hassas kimyasal analizler ve formülasyonlar için idealdir. Ürün, laboratuvar ortamlarında tutarlı sonuçlar elde etmek üzere titizlikle paketlenmiştir.",
-    "safety": "Çalışma sırasında toz oluşumunu önlemek için uygun eldiven ve gözlük kullanılması, maddenin kuru, serin ve iyi havalandırılmış bir ortamda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12612",
-    "name": "Water for lıquıd chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 21.2513,
-    "image": "static/images/products/chemdor_CHI_12612.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Water for Liquid Chromatography, HPLC analizlerinde en düşük UV absorbans ve iyon içeriği ile üstün performans sunan yüksek saflıkta bir çözücüdür. Bu ürün, hassas kromatografik ölçümlerde güvenilir sonuçlar elde etmek için idealdir ve laboratuvar standartlarına tam olarak uygunluk gösterir.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven ve koruyucu gözlük takılmalı, ürün serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12613",
-    "name": "Water, lc-ms",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 27.7145,
-    "image": "static/images/products/chemdor_CHI_12613.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor Water, lc-ms, LC-MS analizlerinde mükemmel sonuçlar için tasarlanmış ultra saf su olup, düşük iyonik ve organik bakiye seviyeleriyle sistem performansını maksimize eder. Bu ürün, hassas kromatografik ölçümlerde güvenilir bir mobil faz bileşeni olarak laboratuvar standartlarını karşılar.",
-    "safety": "Kullanım sırasında göz ve cilt temasını önlemek için uygun eldiven ve gözlük takılmalı, su oda sıcaklığında, doğrudan güneş ışığından uzak ve orijinal kapaklı şişesinde saklanmalıdır."
-  },
-  {
-    "id": "CHI.12614",
-    "name": "Wrıght’s staın, for mıcroscopıcal staınıng",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.3904,
-    "image": "static/images/products/chemdor_CHI_12614.png",
-    "brand": "Chemdor®",
-    "description": "Wright's Stain, kemik iliği yaymaları ve periferik kan incelemeleri dahil olmak üzere hematolojik preparatların mikroskobik boyanmasında kullanılan yüksek saflıkta bir kimyasaldır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, hücre çekirdeği ve sitoplazma detaylarını net bir şekilde ortaya koyarak güvenilir diagnostik sonuçlar sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, laboratuvar önlüğü ve gözlük takılmalı; ürün kuru, serin ve karanlık bir ortamda, orijinal ambalajında saklanmalıdır."
-  },
-  {
     "id": "CHI.12615",
     "name": "Xylenes ≥98.5%, acs reagent",
     "specifications": "1 piece / pack",
@@ -7005,6 +6945,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Trıfluoroasetik asit ≥ 99.0% synthesıs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12610",
+    "name": "Trypan blue, (c.ı.23850) for mıcroscopy",
+    "price": 25.9185,
+    "image": "static/images/products/chemdor_CHI_12610.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Trypan blue, (c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Trypan blue, (c.ı.23850) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Trypan blue, (c.ı.23850) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Trypan blue, (c.ı.23850) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12611",
+    "name": "Urea ≥ 99.0%, crystal gr analitik saflık acs",
+    "price": 36.4327,
+    "image": "static/images/products/chemdor_CHI_12611.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Urea ≥ 99.0%, c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Urea ≥ 99.0%, crystal gr analitik saflık acs. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Urea ≥ 99.0%, crystal gr analitik saflık acs by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Urea ≥ 99.0%, crystal gr analitik saflık acs от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12612",
+    "name": "Water for lıquıd chromatography",
+    "price": 21.2513,
+    "image": "static/images/products/chemdor_CHI_12612.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Water for lıquı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Water for lıquıd chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Water for lıquıd chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Water for lıquıd chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12613",
+    "name": "Water, lc-ms",
+    "price": 27.7145,
+    "image": "static/images/products/chemdor_CHI_12613.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Water, lc-ms",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Water, lc-ms. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Water, lc-ms by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Water, lc-ms от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12614",
+    "name": "Wrıght’s staın, for mıcroscopıcal staınıng",
+    "price": 26.3904,
+    "image": "static/images/products/chemdor_CHI_12614.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Wrıght’s staın,",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Wrıght’s staın, for mıcroscopıcal staınıng. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Wrıght’s staın, for mıcroscopıcal staınıng by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Wrıght’s staın, for mıcroscopıcal staınıng от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
