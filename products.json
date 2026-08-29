@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12490",
-    "name": "New fuchsın, (c.ı. 42520) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 14.067,
-    "image": "static/images/products/chemdor_CHI_12490.png",
-    "brand": "Chemdor®",
-    "description": "New Fuchsın (C.I. 42520), mikroskopi çalışmalarında özellikle Gram boyama ve bakteriyolojik incelemelerde yüksek kontrast sağlayan yüksek saflıkta bir asit boyasıdır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, tutarlı renk yoğunluğu ve çözünürlüğü ile güvenilir sonuçlar elde etmenizi sağlar.",
-    "safety": "Çalışma sırasında kimyasal dayanımlı eldiven ve koruyucu gözlük takılmalı, ürün kuru, serin ve direkt güneş ışığından uzak bir ortamda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12491",
-    "name": "1-octanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 55.0096,
-    "image": "static/images/products/chemdor_CHI_12491.png",
-    "brand": "Chemdor®",
-    "description": "1-octanesülfonik asit sodyum tuzu, iyon çift kromatografisi (IPC) uygulamalarında yüksek saflıkta (%99.0+) ve güvenilir bir iyon çift reaktifi olarak kullanılır. Chemdor markası, bu ürünü HPLC analizlerinde keskin pikler ve düşük arka plan sinyali elde etmek için laboratuvar standartlarına uygun şekilde sunar. Yüksek saflık derecesi, hassas kromatografik ayırımlarda tekrarlanabilir ve tutarlı sonuçlar garantisi sağlar.",
-    "safety": "Bu kimyasal ile çalışırken eldiven, gözlük ve laboratuvar önlüğü gibi kişisel koruyucu ekipmanlar kullanılmalı ve ürün, serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12492",
-    "name": "Oxalıc acıd dıhydrate  ≥ 99.5% , analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 29.3795,
-    "image": "static/images/products/chemdor_CHI_12492.png",
-    "brand": "Chemdor®",
-    "description": "Oxalic acid dihydrate, ≥99.5% analitik saflıkta (ACS, ISO, Reag. Ph. Eur.) olup titrasyonlar, metal iyonlarının tayini ve demir lekesi giderme gibi hassas kimyasal analizlerde yüksek güvenilirlik sağlar. Chemdor markası, laboratuvar standartlarına tam uyumlu, saf ve tutarlı sonuçlar için ideal bir reaktif sunar.",
-    "safety": "Çalışma sırasında nitril eldiven, gözlük ve laboratuvar önlüğü kullanılması, kimyasalın kuru, serin ve iyi havalandırılmış bir ortamda orijinal ambalajında saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12493",
-    "name": "Orange g ındıcator, (c.ı. 16230) for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 16.5055,
-    "image": "static/images/products/chemdor_CHI_12493.png",
-    "brand": "Chemdor®",
-    "description": "Orange G, mikroskopi uygulamalarında özellikle doku ve hücre boyaması için kullanılan yüksek saflıkta bir asidik boyadır. Chemdor kalite standartlarına uygun olarak üretilen bu ürün, net ve tutarlı mikroskobik görüntüler elde etmek için idealdir. Laboratuvar ortamlarında güvenilir sonuçlar sunmak üzere titizlikle paketlenmiştir.",
-    "safety": "Çalışma sırasında eldiven ve koruyucu gözlük takılmalı, ürün serin, kuru ve karanlık bir ortamda orijinal ambalajında saklanmalıdır."
-  },
-  {
-    "id": "CHI.12494",
-    "name": "Orceın, for mıcroscopy",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 166.0775,
-    "image": "static/images/products/chemdor_CHI_12494.png",
-    "brand": "Chemdor®",
-    "description": "Orcein, özellikle mantar ve bitki dokularının incelemesinde kullanılan yüksek saflıkta bir histokimyasal boyadır. Chemdor kalite standartlarına uygun olarak hazırlanan bu ürün, mikroskobik gözlemlerde net ve keskin kontrast sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven ve gözlük takılmalı, ürün kuru, serin ve ışık almayan bir ortamda saklanmalıdır."
-  },
-  {
     "id": "CHI.12495",
     "name": "Patent blue v (vf), (c.ı.42045) for mıcroscopy",
     "specifications": "1 piece / pack",
@@ -5325,6 +5265,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Nitrik asit 0,1 mol/l (0,1n) от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12490",
+    "name": "New fuchsın, (c.ı. 42520) for mıcroscopy",
+    "price": 14.067,
+    "image": "static/images/products/chemdor_CHI_12490.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: New fuchsın, (c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta New fuchsın, (c.ı. 42520) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity New fuchsın, (c.ı. 42520) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт New fuchsın, (c.ı. 42520) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12491",
+    "name": "1-octanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
+    "price": 55.0096,
+    "image": "static/images/products/chemdor_CHI_12491.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: 1-octanesulfonı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta 1-octanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity 1-octanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт 1-octanesulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12492",
+    "name": "Oxalıc acıd dıhydrate  ≥ 99.5% , analitik saflık acs,ıso,reag. ph eur",
+    "price": 29.3795,
+    "image": "static/images/products/chemdor_CHI_12492.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Oxalıc acıd dıh",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Oxalıc acıd dıhydrate  ≥ 99.5% , analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Oxalıc acıd dıhydrate  ≥ 99.5% , analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Oxalıc acıd dıhydrate  ≥ 99.5% , analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12493",
+    "name": "Orange g ındıcator, (c.ı. 16230) for mıcroscopy",
+    "price": 16.5055,
+    "image": "static/images/products/chemdor_CHI_12493.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Orange g ındıca",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Orange g ındıcator, (c.ı. 16230) for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Orange g ındıcator, (c.ı. 16230) for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Orange g ındıcator, (c.ı. 16230) for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12494",
+    "name": "Orceın, for mıcroscopy",
+    "price": 166.0775,
+    "image": "static/images/products/chemdor_CHI_12494.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Orceın, for mıc",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Orceın, for mıcroscopy. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Orceın, for mıcroscopy by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Orceın, for mıcroscopy от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
