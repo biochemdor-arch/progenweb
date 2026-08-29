@@ -1,65 +1,5 @@
 [
   {
-    "id": "CHI.12500",
-    "name": "Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 20.8056,
-    "image": "static/images/products/chemdor_CHI_12500.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %99 saflıkta kristal fenol, analitik ve reaktif düzeyde yüksek kalitesiyle kimyasal sentez, polimer üretimi ve mikrobiyolojik çalışmalar için idealdir. Ayrışmış kristal yapısı ve yüksek saflık oranı, hassas laboratuvar analizlerinde tutarlı ve güvenilir sonuçlar almanızı sağlar.",
-    "safety": "Bu kimyasal ile çalışırken nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanmalı, ürünü serin, kuru ve iyi havalandırılmış bir ortamda orijinal ambalajında saklamalısınız."
-  },
-  {
-    "id": "CHI.12501",
-    "name": "Phenol ≥ 99%, crystal ,gr analitik saflık acs,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 20.8056,
-    "image": "static/images/products/chemdor_CHI_12501.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %99 saflıkta kristal fenol, analitik ve reaktif saflık standartlarına (ACS, Reag. Ph. Eur.) uygun olarak laboratuvar analizleri ve sentez reaksiyonlarında yüksek performans sağlar. Mükemmel kristal yapısı ve yüksek saflığı, hassas kimyasal deneyler için güvenilir bir referans noktası sunar.",
-    "safety": "Kullanım sırasında kimyasal dayanıklı eldiven, gözlük ve laboratuvar önlüğü takılmalı; madde serin, kuru ve iyi havalandırılmış bir ortamda, ateş kaynaklarından uzak tutularak saklanmalıdır."
-  },
-  {
-    "id": "CHI.12502",
-    "name": "Ortho phosphorıc acıd  ≥ 85%, ekstra saf",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 42.6337,
-    "image": "static/images/products/chemdor_CHI_12502.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %85 üzeri ekstra saf ortofosforik asit, yüksek saflık standardıyla laboratuvar analizleri, katalizör üretimi ve endüstriyel proseslerde güvenilir bir performans sunar. Ekstra saf kalitesi, hassas kimyasal reaksiyonlarda istenmeyen yan ürünlerin oluşumunu minimize ederek sonuçların tutarlılığını garanti eder.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, kimyasal sızdırmaz gözlük ve yüz koruyucu kullanılması, ayrıca maddenin soğuk, kuru ve havalandırmalı bir ortamda asit dayanıklı kaplarda saklanması gerekmektedir."
-  },
-  {
-    "id": "CHI.12503",
-    "name": "Ortho-phosphorıc acıd 85% , analitik saflık acs,ıso,reag. ph eur",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 55.0489,
-    "image": "static/images/products/chemdor_CHI_12503.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %85 Orto-Fosforik Asit, ACS, ISO ve Reag. Ph Eur standartlarına uygun analitik saflıkta olup hassas kimyasal analizler ve titrasyonlar için idealdir. Yüksek saflık derecesi, laboratuvar ortamlarında güvenilir ve tutarlı sonuçlar almanızı sağlar.",
-    "safety": "Bu kimyasal ile çalışırken asite dayanıklı eldiven, gözlük ve önlük takılmalı, ürün serin, kuru ve havalandırmalı bir ortamda asitlere dayanıklı kaplarda saklanmalıdır."
-  },
-  {
-    "id": "CHI.12504",
-    "name": "Pıcrıc acıd ≥ 99%, moıstened wıth water",
-    "specifications": "1 piece / pack",
-    "min_order": "1 piece",
-    "unit": "1 piece",
-    "price": 26.456,
-    "image": "static/images/products/chemdor_CHI_12504.png",
-    "brand": "Chemdor®",
-    "description": "Chemdor markalı %99 saflıkta Pıcrıc acıd, yüksek konsantrasyonlu kimyasal sentezler ve hassas laboratuvar analizleri için ideal bir reaktanttır. Su ile nemlendirilmiş formu, ürünün homojen dağılımını ve dozajlama sırasında tutarlılığı garanti eder. Bu yüksek saflık derecesi, deney sonuçlarınızda maksimum verim ve güvenilirlik sağlar.",
-    "safety": "Çalışma sırasında nitril eldiven, kimyasal sızdırmaz gözlük ve laboratuvar önlüğü kullanılması; kimyasalın kuru, serin ve havalandırmalı bir dolapta, asitlere karşı dayanıklı kaplarda saklanması gerekmektedir."
-  },
-  {
     "id": "CHI.12505",
     "name": "Pentane-1-sulfonıc acıd sodıum salt ≥99.0% for ıon paır chromatography",
     "specifications": "1 piece / pack",
@@ -5465,6 +5405,136 @@
       "ru": {
         "properties": "1 piece / pack",
         "usage": "Высокочистый продукт Petroleum ether boılıng range 40-60°c , dab от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12500",
+    "name": "Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur",
+    "price": 20.8056,
+    "image": "static/images/products/chemdor_CHI_12500.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Phenol ≥ 99%, c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Phenol ≥ 99%, crystal (detached) ,gr analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12501",
+    "name": "Phenol ≥ 99%, crystal ,gr analitik saflık acs,reag. ph eur",
+    "price": 20.8056,
+    "image": "static/images/products/chemdor_CHI_12501.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Phenol ≥ 99%, c",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Phenol ≥ 99%, crystal ,gr analitik saflık acs,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Phenol ≥ 99%, crystal ,gr analitik saflık acs,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Phenol ≥ 99%, crystal ,gr analitik saflık acs,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12502",
+    "name": "Ortho phosphorıc acıd  ≥ 85%, ekstra saf",
+    "price": 42.6337,
+    "image": "static/images/products/chemdor_CHI_12502.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ortho phosphorı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ortho phosphorıc acıd  ≥ 85%, ekstra saf. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ortho phosphorıc acıd  ≥ 85%, ekstra saf by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ortho phosphorıc acıd  ≥ 85%, ekstra saf от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12503",
+    "name": "Ortho-phosphorıc acıd 85% , analitik saflık acs,ıso,reag. ph eur",
+    "price": 55.0489,
+    "image": "static/images/products/chemdor_CHI_12503.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Ortho-phosphorı",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Ortho-phosphorıc acıd 85% , analitik saflık acs,ıso,reag. ph eur. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Ortho-phosphorıc acıd 85% , analitik saflık acs,ıso,reag. ph eur by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Ortho-phosphorıc acıd 85% , analitik saflık acs,ıso,reag. ph eur от Chemdor. Применяется в аналитических процессах и промышленности.",
+        "safety": "Используйте средства индивидуальной защиты."
+      }
+    }
+  },
+  {
+    "id": "CHI.12504",
+    "name": "Pıcrıc acıd ≥ 99%, moıstened wıth water",
+    "price": 26.456,
+    "image": "static/images/products/chemdor_CHI_12504.png",
+    "brand": "Chemdor®",
+    "content": {
+      "type": "chemical",
+      "properties_short": "Grade: Analytical | Ref: Pıcrıc acıd ≥ 9",
+      "tr": {
+        "properties": "1 piece / pack",
+        "usage": "Chemdor markalı yüksek saflıkta Pıcrıc acıd ≥ 99%, moıstened wıth water. Analitik ve laboratuvar süreçlerinde, endüstriyel sentezlerde ve Ar-Ge çalışmalarında güvenle kullanılır.",
+        "safety": "Standart laboratuvar kişisel koruyucu ekipmanları kullanın."
+      },
+      "en": {
+        "properties": "1 piece / pack",
+        "usage": "High purity Pıcrıc acıd ≥ 99%, moıstened wıth water by Chemdor. Used in analytical processes, industrial synthesis and R&D applications.",
+        "safety": "Use standard laboratory PPE."
+      },
+      "ru": {
+        "properties": "1 piece / pack",
+        "usage": "Высокочистый продукт Pıcrıc acıd ≥ 99%, moıstened wıth water от Chemdor. Применяется в аналитических процессах и промышленности.",
         "safety": "Используйте средства индивидуальной защиты."
       }
     }
